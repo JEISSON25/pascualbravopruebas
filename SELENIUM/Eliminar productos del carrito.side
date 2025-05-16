@@ -1,0 +1,109 @@
+{
+  "id": "a0bb1b5a-60d3-4038-81b2-80b5194492f2",
+  "version": "2.0",
+  "name": "Eliminar productos del carrito",
+  "url": "http://localhost:8000/?post_type=product",
+  "tests": [{
+    "id": "c3a88a62-fe6d-4b8d-ac27-edd5583b3a9a",
+    "name": "Eliminar productos ",
+    "commands": [{
+      "id": "9e9458b1-6303-4d34-bbb1-95aee7797eaa",
+      "comment": "",
+      "command": "open",
+      "target": "http://localhost:8000/?post_type=product",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "b9eb4055-c1a5-4d55-bcb2-12a2821da923",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "974x1032",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1e37d2eb-55d8-4e7f-9904-31c8e79ca471",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-product:nth-child(1) .wp-block-button__link > span",
+      "targets": [
+        ["css=.wc-block-product:nth-child(1) .wp-block-button__link > span", "css:finder"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[4]/ul/li/div[3]/button/span", "xpath:idRelative"],
+        ["xpath=//div[3]/button/span", "xpath:position"],
+        ["xpath=//span[contains(.,'1 en el carrito')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "1b11dfb2-6405-4a87-8d67-ad8f8cefd809",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-product:nth-child(2) .wp-block-button__link > span",
+      "targets": [
+        ["css=.wc-block-product:nth-child(2) .wp-block-button__link > span", "css:finder"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[4]/ul/li[2]/div[3]/button/span", "xpath:idRelative"],
+        ["xpath=//li[2]/div[3]/button/span", "xpath:position"],
+        ["xpath=//span[contains(.,'1 en el carrito')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "efee18f9-0505-42c5-9138-48094642c45f",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.wc-block-mini-cart__badge",
+      "targets": [
+        ["css=.wc-block-mini-cart__badge", "css:finder"],
+        ["xpath=//span/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "038c8284-168d-44cb-9141-a9f248c758c7",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=.wc-block-mini-cart__badge",
+      "targets": [
+        ["css=.wc-block-mini-cart__badge", "css:finder"],
+        ["xpath=//span/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2eff5adf-908c-412d-bcc1-d58bf94a6f7e",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-mini-cart__icon",
+      "targets": [
+        ["css=.wc-block-mini-cart__icon", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "d6444322-b204-4d3f-b324-7f8dc62e570c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-cart-items__row:nth-child(1) .wc-block-cart-item__remove-link",
+      "targets": [
+        ["css=.wc-block-cart-items__row:nth-child(1) .wc-block-cart-item__remove-link", "css:finder"],
+        ["xpath=//div/div[3]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Eliminar artículo')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "c2fb51b0-5dab-4d5d-a351-11ee614fe414",
+      "comment": "",
+      "command": "assertText",
+      "target": "xpath=//div/span[2]",
+      "targets": [
+        ["css=.wc-block-components-totals-item__value", "css:finder"],
+        ["xpath=//div/span[2]", "xpath:position"]
+      ],
+      "value": "$4,099.00"
+    }]
+  }],
+  "suites": [{
+    "id": "b3f5a4b0-a1be-45d8-8248-5128f0e6bacc",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["c3a88a62-fe6d-4b8d-ac27-edd5583b3a9a"]
+  }],
+  "urls": ["http://localhost:8000/?post_type=product"],
+  "plugins": []
+}

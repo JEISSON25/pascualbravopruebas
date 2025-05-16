@@ -1,0 +1,81 @@
+{
+  "id": "5550ad68-aceb-4d61-b2b7-c42654928b44",
+  "version": "2.0",
+  "name": "Busqueda de productos",
+  "url": "http://localhost:8000/?post_type=product",
+  "tests": [{
+    "id": "8194a89a-d0dc-476b-8cac-a394b01ca4a5",
+    "name": "Busqueda de productos",
+    "commands": [{
+      "id": "1cc75d6d-0530-4e38-80aa-343e6c1311aa",
+      "comment": "",
+      "command": "open",
+      "target": "http://localhost:8000/?post_type=product",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f3f5726b-b2c0-4c7e-ad44-c5b30cd5c71d",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "974x1032",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "b0394802-4303-4b00-a0e5-246eeaf9db33",
+      "comment": "",
+      "command": "click",
+      "target": "css=.js-dgwt-wcas-enable-mobile-form",
+      "targets": [
+        ["css=.js-dgwt-wcas-enable-mobile-form", "css:finder"],
+        ["xpath=(//a[contains(@href, '#')])[2]", "xpath:href"],
+        ["xpath=//div[2]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "603dc463-164e-4c76-8580-bdb0b004a62a",
+      "comment": "",
+      "command": "type",
+      "target": "id=dgwt-wcas-search-input-1",
+      "targets": [
+        ["id=dgwt-wcas-search-input-1", "id"],
+        ["css=#dgwt-wcas-search-input-1", "css:finder"],
+        ["xpath=//input[@id='dgwt-wcas-search-input-1']", "xpath:attributes"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": "Iphone"
+    }, {
+      "id": "ff0f9f0a-a914-4bd8-9535-d52871b75bd6",
+      "comment": "",
+      "command": "click",
+      "target": "css=.dgwt-wcas-st-title > strong",
+      "targets": [
+        ["css=.dgwt-wcas-st-title > strong", "css:finder"],
+        ["xpath=//span/strong", "xpath:position"],
+        ["xpath=//strong[contains(.,'IPhone')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "a6fc6608-3ce4-4ea3-a45f-02cbf43e70ff",
+      "comment": "",
+      "command": "assertText",
+      "target": "xpath=//h1[contains(.,'IPhone 15')]",
+      "targets": [
+        ["css=.wp-block-post-title:nth-child(1)", "css:finder"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[3]/div[2]/h1", "xpath:idRelative"],
+        ["xpath=//h1", "xpath:position"],
+        ["xpath=//h1[contains(.,'IPhone 15')]", "xpath:innerText"]
+      ],
+      "value": "IPhone 15"
+    }]
+  }],
+  "suites": [{
+    "id": "f45b1bad-d0f7-44db-8d15-effc8299c9fc",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["8194a89a-d0dc-476b-8cac-a394b01ca4a5"]
+  }],
+  "urls": ["http://localhost:8000/", "http://localhost:8000/?post_type=product"],
+  "plugins": []
+}
