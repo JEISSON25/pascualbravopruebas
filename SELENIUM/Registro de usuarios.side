@@ -1,0 +1,158 @@
+{
+  "id": "d27b93e0-2631-4955-be0d-16ac86ea405f",
+  "version": "2.0",
+  "name": "Registro de usuarios",
+  "url": "http://localhost:8000/wp-admin/users.php",
+  "tests": [{
+    "id": "44d68b79-694c-44fa-b12e-c81a332f121b",
+    "name": "Registro de usuarios",
+    "commands": [{
+      "id": "e42eedc0-5ff2-4180-9e14-9fc03643e191",
+      "comment": "",
+      "command": "open",
+      "target": "http://localhost:8000/wp-admin/users.php",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ec44c5c4-2ee5-4002-815a-d24324d3ca20",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "974x1032",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2f380b88-f827-4e1c-a030-bcd8347419e6",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Añadir nuevo usuario",
+      "targets": [
+        ["linkText=Añadir nuevo usuario", "linkText"],
+        ["css=.page-title-action", "css:finder"],
+        ["xpath=(//a[contains(text(),'Añadir nuevo usuario')])[2]", "xpath:link"],
+        ["xpath=//div[@id='wpbody-content']/div[4]/a", "xpath:idRelative"],
+        ["xpath=(//a[@href='http://localhost:8000/wp-admin/user-new.php'])[2]", "xpath:href"],
+        ["xpath=//div[4]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "98ef2f7f-baf3-4de7-98ae-28e066e1e824",
+      "comment": "",
+      "command": "click",
+      "target": "id=user_login",
+      "targets": [
+        ["id=user_login", "id"],
+        ["name=user_login", "name"],
+        ["css=#user_login", "css:finder"],
+        ["xpath=//input[@id='user_login']", "xpath:attributes"],
+        ["xpath=//form[@id='createuser']/table/tbody/tr/td/input", "xpath:idRelative"],
+        ["xpath=//td/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "5140086e-176a-4d58-9cb4-4147e5c16cc1",
+      "comment": "",
+      "command": "type",
+      "target": "id=user_login",
+      "targets": [
+        ["id=user_login", "id"],
+        ["name=user_login", "name"],
+        ["css=#user_login", "css:finder"],
+        ["xpath=//input[@id='user_login']", "xpath:attributes"],
+        ["xpath=//form[@id='createuser']/table/tbody/tr/td/input", "xpath:idRelative"],
+        ["xpath=//td/input", "xpath:position"]
+      ],
+      "value": "Simon"
+    }, {
+      "id": "90eaca51-c4b3-491d-9248-122608c64c80",
+      "comment": "",
+      "command": "type",
+      "target": "id=email",
+      "targets": [
+        ["id=email", "id"],
+        ["name=email", "name"],
+        ["css=#email", "css:finder"],
+        ["xpath=//input[@id='email']", "xpath:attributes"],
+        ["xpath=//form[@id='createuser']/table/tbody/tr[2]/td/input", "xpath:idRelative"],
+        ["xpath=//tr[2]/td/input", "xpath:position"]
+      ],
+      "value": "Simon123@gmail.com"
+    }, {
+      "id": "cc96b436-36eb-449b-93a9-d38d94253c04",
+      "comment": "",
+      "command": "click",
+      "target": "id=first_name",
+      "targets": [
+        ["id=first_name", "id"],
+        ["name=first_name", "name"],
+        ["css=#first_name", "css:finder"],
+        ["xpath=//input[@id='first_name']", "xpath:attributes"],
+        ["xpath=//form[@id='createuser']/table/tbody/tr[3]/td/input", "xpath:idRelative"],
+        ["xpath=//tr[3]/td/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "1a1fef0f-88b3-4b5d-ad30-276a3836c51e",
+      "comment": "",
+      "command": "type",
+      "target": "id=first_name",
+      "targets": [
+        ["id=first_name", "id"],
+        ["name=first_name", "name"],
+        ["css=#first_name", "css:finder"],
+        ["xpath=//input[@id='first_name']", "xpath:attributes"],
+        ["xpath=//form[@id='createuser']/table/tbody/tr[3]/td/input", "xpath:idRelative"],
+        ["xpath=//tr[3]/td/input", "xpath:position"]
+      ],
+      "value": "Simon"
+    }, {
+      "id": "33ba53af-1fa3-41f3-8bcc-ce2a6ef39139",
+      "comment": "",
+      "command": "type",
+      "target": "id=last_name",
+      "targets": [
+        ["id=last_name", "id"],
+        ["name=last_name", "name"],
+        ["css=#last_name", "css:finder"],
+        ["xpath=//input[@id='last_name']", "xpath:attributes"],
+        ["xpath=//form[@id='createuser']/table/tbody/tr[4]/td/input", "xpath:idRelative"],
+        ["xpath=//tr[4]/td/input", "xpath:position"]
+      ],
+      "value": "Gallego"
+    }, {
+      "id": "2391fda2-d3f7-4326-9556-098e1de1e8b3",
+      "comment": "",
+      "command": "click",
+      "target": "id=createusersub",
+      "targets": [
+        ["id=createusersub", "id"],
+        ["css=#createusersub", "css:finder"],
+        ["xpath=//input[@id='createusersub']", "xpath:attributes"],
+        ["xpath=//form[@id='createuser']/p/input", "xpath:idRelative"],
+        ["xpath=//p/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "9fcbbda3-c16d-42f0-b78c-796c93769a30",
+      "comment": "",
+      "command": "assertText",
+      "target": "xpath=//p[contains(.,'Nuevo usuario creado. Editar usuario')]",
+      "targets": [
+        ["css=#message > p", "css:finder"],
+        ["xpath=//div[@id='message']/p", "xpath:idRelative"],
+        ["xpath=//div[4]/div[3]/p", "xpath:position"],
+        ["xpath=//p[contains(.,'Nuevo usuario creado. Editar usuario')]", "xpath:innerText"]
+      ],
+      "value": "Nuevo usuario creado. Editar usuario"
+    }]
+  }],
+  "suites": [{
+    "id": "92459314-4e38-4ca8-90ca-3a5b7f4c0612",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["44d68b79-694c-44fa-b12e-c81a332f121b"]
+  }],
+  "urls": ["http://localhost:8000/wp-admin/users.php"],
+  "plugins": []
+}
