@@ -1,0 +1,172 @@
+{
+  "id": "121fcc14-e9bd-4851-a96e-527e1199b70f",
+  "version": "2.0",
+  "name": "Historia_Usuario_3",
+  "url": "http://localhost:8000/?post_type=product",
+  "tests": [{
+    "id": "a6eb8e9f-bde9-4a0f-84b1-c7dd4780a6c4",
+    "name": "HistoriaUsuario3",
+    "commands": [{
+      "id": "508c5288-22f4-4a71-a66a-4584d55159e8",
+      "comment": "",
+      "command": "open",
+      "target": "http://localhost:8000/?post_type=product",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d6a37c97-6a1d-42ae-9d05-41ebd7faa1e6",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "697x703",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "368a48fc-8a19-42f5-87d0-d6b157f2ce69",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-product:nth-child(2) .wp-block-button__link > span",
+      "targets": [
+        ["css=.wc-block-product:nth-child(2) .wp-block-button__link > span", "css:finder"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[4]/ul/li[2]/div[3]/button/span", "xpath:idRelative"],
+        ["xpath=//li[2]/div[3]/button/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Añadir al carrito')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "2515a5b5-3f84-4b7b-8e92-b52b5f1969ca",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Tienda",
+      "targets": [
+        ["linkText=Tienda", "linkText"],
+        ["css=.wp-block-pages-list__item:nth-child(5) > .wp-block-pages-list__item__link", "css:finder"],
+        ["xpath=//a[contains(text(),'Tienda')]", "xpath:link"],
+        ["xpath=//div[@id='modal-1-content']/ul/ul/li[5]/a", "xpath:idRelative"],
+        ["xpath=//a[@href='http://localhost:8000/?page_id=9']", "xpath:href"],
+        ["xpath=//ul/ul/li[5]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Tienda')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "3e143ae7-5ff5-4200-a456-60089d46f5fe",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-mini-cart__icon",
+      "targets": [
+        ["css=.wc-block-mini-cart__icon", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "5679d509-bd16-4cca-a98d-0054d6766bdd",
+      "comment": "",
+      "command": "mouseDownAt",
+      "target": "css=.wp-block-woocommerce-mini-cart-items-block",
+      "targets": [
+        ["css=.wp-block-woocommerce-mini-cart-items-block", "css:finder"],
+        ["xpath=//div[2]/div[3]", "xpath:position"]
+      ],
+      "value": "464,198"
+    }, {
+      "id": "7404f58a-030e-4657-99f5-4a83e32e1da3",
+      "comment": "",
+      "command": "mouseMoveAt",
+      "target": "css=.wp-block-woocommerce-mini-cart-items-block",
+      "targets": [
+        ["css=.wp-block-woocommerce-mini-cart-items-block", "css:finder"],
+        ["xpath=//div[2]/div[3]", "xpath:position"]
+      ],
+      "value": "464,198"
+    }, {
+      "id": "3eb89911-14f6-49ee-b564-522d54c9fa87",
+      "comment": "",
+      "command": "mouseUpAt",
+      "target": "css=.wp-block-woocommerce-mini-cart-items-block",
+      "targets": [
+        ["css=.wp-block-woocommerce-mini-cart-items-block", "css:finder"],
+        ["xpath=//div[2]/div[3]", "xpath:position"]
+      ],
+      "value": "464,198"
+    }, {
+      "id": "27468083-1f22-4e57-b969-4f0ff1569b4c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-cart-item__quantity:nth-child(5) > .wc-block-cart-item__remove-link",
+      "targets": [
+        ["css=.wc-block-cart-item__quantity:nth-child(5) > .wc-block-cart-item__remove-link", "css:finder"],
+        ["xpath=//div[4]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Eliminar artículo')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "52d444a9-ab31-4dd0-a68f-f32f76191594",
+      "comment": "",
+      "command": "mouseDownAt",
+      "target": "css=.wp-block-woocommerce-mini-cart-items-block",
+      "targets": [
+        ["css=.wp-block-woocommerce-mini-cart-items-block", "css:finder"],
+        ["xpath=//div[2]/div[3]", "xpath:position"]
+      ],
+      "value": "456,212"
+    }, {
+      "id": "4c80a658-b15e-4f4e-85ab-0ebb288afd63",
+      "comment": "",
+      "command": "mouseMoveAt",
+      "target": "css=.wp-block-woocommerce-mini-cart-items-block",
+      "targets": [
+        ["css=.wp-block-woocommerce-mini-cart-items-block", "css:finder"],
+        ["xpath=//div[2]/div[3]", "xpath:position"]
+      ],
+      "value": "456,212"
+    }, {
+      "id": "1b05e57a-903c-452b-8edf-5d733945d6be",
+      "comment": "",
+      "command": "mouseUpAt",
+      "target": "css=.wp-block-woocommerce-mini-cart-items-block",
+      "targets": [
+        ["css=.wp-block-woocommerce-mini-cart-items-block", "css:finder"],
+        ["xpath=//div[2]/div[3]", "xpath:position"]
+      ],
+      "value": "456,212"
+    }, {
+      "id": "f2e69396-b147-47e7-93d0-156610c47fab",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-cart-item__quantity:nth-child(4) > .wc-block-cart-item__remove-link",
+      "targets": [
+        ["css=.wc-block-cart-item__quantity:nth-child(4) > .wc-block-cart-item__remove-link", "css:finder"],
+        ["xpath=//div/div[3]/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "edc121d4-bedf-42b8-9a35-39f90cb46033",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-cart-item__remove-link",
+      "targets": [
+        ["css=.wc-block-cart-item__remove-link", "css:finder"],
+        ["xpath=//div[4]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Eliminar artículo')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "53d44ebf-dba2-4cbd-b102-87e910ef8b7a",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-components-button path",
+      "targets": [
+        ["css=.wc-block-components-button path", "css:finder"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "ee1b6b3d-a3d3-4dfa-bae4-1ffdd745887b",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": []
+  }],
+  "urls": ["http://localhost:8000/", "http://localhost:8000/?post_type=product"],
+  "plugins": []
+}

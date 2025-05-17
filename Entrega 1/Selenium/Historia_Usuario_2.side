@@ -1,0 +1,106 @@
+{
+  "id": "a4e5022f-34cf-4f4d-9bbf-83117a4abb8e",
+  "version": "2.0",
+  "name": "Historia_Usuario_2",
+  "url": "http://localhost:8000",
+  "tests": [{
+    "id": "05dc431d-f86b-4827-8684-916f1423aac8",
+    "name": "HistoriaUsuario2",
+    "commands": [{
+      "id": "c819950c-06fb-4852-9dd6-7e61cd4e83ee",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "711b581f-ffd3-408a-a943-a6e67975dee1",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "697x703",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "81873800-a2f8-4fe6-8697-de6d0511ebdf",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Tienda",
+      "targets": [
+        ["linkText=Tienda", "linkText"],
+        ["css=.wp-block-pages-list__item:nth-child(5) > .wp-block-pages-list__item__link", "css:finder"],
+        ["xpath=//a[contains(text(),'Tienda')]", "xpath:link"],
+        ["xpath=//div[@id='modal-1-content']/ul/ul/li[5]/a", "xpath:idRelative"],
+        ["xpath=//a[@href='http://localhost:8000/?page_id=9']", "xpath:href"],
+        ["xpath=//ul/ul/li[5]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Tienda')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "20341366-36ad-446f-887a-36eede399cf5",
+      "comment": "",
+      "command": "click",
+      "target": "name=orderby",
+      "targets": [
+        ["name=orderby", "name"],
+        ["css=.orderby", "css:finder"],
+        ["xpath=//select[@name='orderby']", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[3]/div[2]/form/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "13b82333-e4cb-4d1c-b8a6-887d86508ed7",
+      "comment": "",
+      "command": "select",
+      "target": "name=orderby",
+      "targets": [],
+      "value": "label=Ordenar por precio: bajo a alto"
+    }, {
+      "id": "3c2a6dc9-374a-47dc-b3b6-3a9ced33a5dd",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-product:nth-child(1) .woocommerce-placeholder",
+      "targets": [
+        ["css=.wc-block-product:nth-child(1) .woocommerce-placeholder", "css:finder"],
+        ["xpath=//img[@alt='La Veggie Style']", "xpath:img"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[4]/ul/li/div/a/img", "xpath:idRelative"],
+        ["xpath=//div/a/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "1d724005-58b2-4db8-9536-654e778d08db",
+      "comment": "",
+      "command": "click",
+      "target": "id=wp--skip-link--target",
+      "targets": [
+        ["id=wp--skip-link--target", "id"],
+        ["css=#wp--skip-link--target", "css:finder"],
+        ["xpath=//main[@id='wp--skip-link--target']", "xpath:attributes"],
+        ["xpath=//main", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "afeaeab7-f64b-46a2-92e4-5867af642c21",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wp-block-post-title:nth-child(1)",
+      "targets": [
+        ["css=.wp-block-post-title:nth-child(1)", "css:finder"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[3]/div[2]/h1", "xpath:idRelative"],
+        ["xpath=//h1", "xpath:position"],
+        ["xpath=//h1[contains(.,'La Veggie Style')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "8b70bd01-475b-428a-ae34-1a025ababaa3",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["05dc431d-f86b-4827-8684-916f1423aac8"]
+  }],
+  "urls": ["http://localhost:8000/"],
+  "plugins": []
+}
