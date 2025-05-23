@@ -22,26 +22,27 @@ Proyecto de MiniShop=> Proyecto de Aula (MiniShop) listo para instalar.
 
 ## Instrucciones
 
-1. **Configura tus credenciales**  
-   ```bash
-   cp .env.example .env
-   # Edita .env con tu DB_HOST, DB_NAME, DB_USER, DB_PASSWORD y opcional DB_PREFIX
 
 2. **Levantamos el entorno**  
 
 docker-compose up --build
 
-3.  **Verificamso que el entrno esté corriendo** 
+3. **Abrimos el navegador** 
 
-docker-compose ps
+Ingresamos a: http://localhost:8000
+4.  **Abrimos el navegador** 
+ - Procedemos a la instalación, 
+ - Escogiendo el lenguaje, 
+ - Agregamos un titulo 
+ - Nombre y usuario y clave. 
+ - CLic en Instalar Wordrpres.
 
-4. **Instalamos MiniShop** 
+Una vez instalado, procedemos, abrirmos otra tenerlam  y ejectutamos el siguiente comando:
+
+5. **Instalamos MiniShop** 
 docker-compose exec wordpress wp plugin install woocommerce --activate --allow-root
 
-5. **Actualizamos plugins MiniShop** 
+6. **Actualizamos plugins MiniShop** 
 docker-compose exec wordpress wp core update --allow-root
 docker-compose exec wordpress wp plugin update --all --allow-root
 
-6. **Abrimos el navegador** 
-
-Ingresamos a: http://localhost:8000
