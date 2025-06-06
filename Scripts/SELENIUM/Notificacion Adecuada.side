@@ -1,0 +1,136 @@
+{
+  "id": "82fdb0b1-d7ae-41a5-a692-52891b3b80f5",
+  "version": "2.0",
+  "name": "Notificacion Adecuada",
+  "url": "https://pascualbravo.ingejei.com",
+  "tests": [{
+    "id": "586ba9df-358e-4cf1-be71-fc4f34931f5e",
+    "name": "Notificacion Adecuada",
+    "commands": [{
+      "id": "9e49dd6c-b389-4c88-a5ea-fe8d6c05da3a",
+      "comment": "",
+      "command": "open",
+      "target": "/registro-y-busqueda/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "84d5de94-f10a-4bb2-ab73-566f34f16501",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "882x816",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "4b7b92e0-f96b-4174-82ac-796e3adb02ce",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Acceder",
+      "targets": [
+        ["linkText=Acceder", "linkText"],
+        ["css=.logged-out > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Acceder')]", "xpath:link"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/div/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://pascualbravo.ingejei.com/wp-login.php?redirect_to=https%3A%2F%2Fpascualbravo.ingejei.com%2Fregistro-y-busqueda%2F')]", "xpath:href"],
+        ["xpath=//div/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Acceder')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "7295760f-cddb-4ca1-98de-54ba08c6d667",
+      "comment": "",
+      "command": "type",
+      "target": "id=user_login",
+      "targets": [
+        ["id=user_login", "id"],
+        ["name=log", "name"],
+        ["css=#user_login", "css:finder"],
+        ["xpath=//input[@id='user_login']", "xpath:attributes"],
+        ["xpath=//form[@id='loginform']/p/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "l.hernandez@lucidbot.co"
+    }, {
+      "id": "bbd9631c-b1df-4d0f-a5e8-42a336d41c51",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=¿Olvidaste tu contraseña?",
+      "targets": [
+        ["linkText=¿Olvidaste tu contraseña?", "linkText"],
+        ["css=.wp-login-lost-password", "css:finder"],
+        ["xpath=//a[contains(text(),'¿Olvidaste tu contraseña?')]", "xpath:link"],
+        ["xpath=//p[@id='nav']/a[2]", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://pascualbravo.ingejei.com/wp-login.php?action=lostpassword')]", "xpath:href"],
+        ["xpath=//a[2]", "xpath:position"],
+        ["xpath=//a[contains(.,'¿Olvidaste tu contraseña?')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "7bc50983-261f-457e-b520-392f6b41a267",
+      "comment": "",
+      "command": "click",
+      "target": "id=user_login",
+      "targets": [
+        ["id=user_login", "id"],
+        ["name=user_login", "name"],
+        ["css=#user_login", "css:finder"],
+        ["xpath=//input[@id='user_login']", "xpath:attributes"],
+        ["xpath=//form[@id='lostpasswordform']/p/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "705597b2-c161-4fe6-8f1f-69a372688b1f",
+      "comment": "",
+      "command": "type",
+      "target": "id=user_login",
+      "targets": [
+        ["id=user_login", "id"],
+        ["name=user_login", "name"],
+        ["css=#user_login", "css:finder"],
+        ["xpath=//input[@id='user_login']", "xpath:attributes"],
+        ["xpath=//form[@id='lostpasswordform']/p/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "Luis Miguel Hernandez Suarez"
+    }, {
+      "id": "f674ba7f-d900-44e6-9679-6443e91a04ac",
+      "comment": "",
+      "command": "click",
+      "target": "id=wp-submit",
+      "targets": [
+        ["id=wp-submit", "id"],
+        ["name=wp-submit", "name"],
+        ["css=#wp-submit", "css:finder"],
+        ["xpath=//input[@id='wp-submit']", "xpath:attributes"],
+        ["xpath=//form[@id='lostpasswordform']/p[2]/input", "xpath:idRelative"],
+        ["xpath=//p[2]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "5d6c95bf-ffd6-42c8-b6d7-cacfd8b99b3a",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=página de acceso",
+      "targets": [
+        ["linkText=página de acceso", "linkText"],
+        ["css=p:nth-child(1) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'página de acceso')]", "xpath:link"],
+        ["xpath=//div[@id='login-message']/p/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://pascualbravo.ingejei.com/wp-login.php')]", "xpath:href"],
+        ["xpath=//p/a", "xpath:position"],
+        ["xpath=//a[contains(.,'página de acceso')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "76d2a326-c94b-483b-b94f-0e51f50fadb3",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["586ba9df-358e-4cf1-be71-fc4f34931f5e"]
+  }],
+  "urls": ["https://pascualbravo.ingejei.com/"],
+  "plugins": []
+}

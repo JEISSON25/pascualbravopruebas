@@ -1,0 +1,105 @@
+{
+  "id": "a08e2929-51b3-4020-b859-00b4fa2f5a55",
+  "version": "2.0",
+  "name": "Prueba Añadir y Eliminar Productos del Carrito",
+  "url": "https://pascualbravo.ingejei.com",
+  "tests": [{
+    "id": "e9b8581e-0920-498d-99e9-f853b29a8116",
+    "name": "Añadir y Eliminar Productos",
+    "commands": [{
+      "id": "5ac4d23c-9e02-4a98-952f-272453a7607d",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "fa027142-62db-4588-aed6-cc530514a9b3",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1552x832",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "7235ef96-740c-4f96-9ca0-3893ef60ae6c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.has-color2-color > .has-medium-font-size:nth-child(5) .wp-block-navigation-item__label",
+      "targets": [
+        ["css=.has-color2-color > .has-medium-font-size:nth-child(5) .wp-block-navigation-item__label", "css:finder"],
+        ["xpath=//div[@id='modal-1-content']/ul/li[5]/a/span", "xpath:idRelative"],
+        ["xpath=//div/div/div/ul/li[5]/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Shop')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "371592df-2835-441f-bb17-305144a9e9c3",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-product:nth-child(2) .wp-block-button__link",
+      "targets": [
+        ["css=.wc-block-product:nth-child(2) .wp-block-button__link", "css:finder"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[4]/ul/li[2]/div[3]/button", "xpath:idRelative"],
+        ["xpath=//li[2]/div[3]/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e6da5ce6-630f-4b0c-be2c-f9b15f37ae62",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-product:nth-child(3) .wp-block-button__link > span",
+      "targets": [
+        ["css=.wc-block-product:nth-child(3) .wp-block-button__link > span", "css:finder"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[4]/ul/li[3]/div[3]/button/span", "xpath:idRelative"],
+        ["xpath=//li[3]/div[3]/button/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c85bf470-5103-4d41-b31c-1d6ac3043bf9",
+      "comment": "",
+      "command": "click",
+      "target": "css=.has-color2-color > .has-medium-font-size:nth-child(6) .wp-block-navigation-item__label",
+      "targets": [
+        ["css=.has-color2-color > .has-medium-font-size:nth-child(6) .wp-block-navigation-item__label", "css:finder"],
+        ["xpath=//div[@id='modal-1-content']/ul/li[6]/a/span", "xpath:idRelative"],
+        ["xpath=//div/div/div/ul/li[6]/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Carrito')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "04a0933d-4d12-44f4-a266-7a4030490266",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-cart-items__row:nth-child(1) .wc-block-components-quantity-selector__button--minus",
+      "targets": [
+        ["css=.wc-block-cart-items__row:nth-child(1) .wc-block-components-quantity-selector__button--minus", "css:finder"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/div/div[4]/div/div/div[2]/table/tbody/tr/td[2]/div/div[4]/div/button", "xpath:idRelative"],
+        ["xpath=//div[4]/div/button", "xpath:position"],
+        ["xpath=//button[contains(.,'－')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "1c92c577-073c-40d4-be5f-9277b9160cda",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-cart-items__row:nth-child(1) .wc-block-cart-item__remove-link",
+      "targets": [
+        ["css=.wc-block-cart-items__row:nth-child(1) .wc-block-cart-item__remove-link", "css:finder"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/div/div[4]/div/div/div[2]/table/tbody/tr/td[2]/div/div[4]/button", "xpath:idRelative"],
+        ["xpath=//div[4]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Eliminar artículo')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "89391c00-ddf6-428a-9834-b5b1ec4c6f66",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["e9b8581e-0920-498d-99e9-f853b29a8116"]
+  }],
+  "urls": ["https://pascualbravo.ingejei.com/"],
+  "plugins": []
+}
