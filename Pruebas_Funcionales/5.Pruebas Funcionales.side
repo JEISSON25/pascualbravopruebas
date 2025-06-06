@@ -1,0 +1,63 @@
+{
+  "id": "94c079cd-8285-40b7-9f7e-08ed1675f18b",
+  "version": "2.0",
+  "name": "5.Pruebas Funcionales",
+  "url": "https://pascualbravo.ingejei.com",
+  "tests": [{
+    "id": "4483bf00-76ec-485e-a131-d929318340a1",
+    "name": "5",
+    "commands": [{
+      "id": "7948c540-2afd-4efc-a8a6-2657498d49f2",
+      "comment": "",
+      "command": "open",
+      "target": "/wp-login.php?action=lostpassword",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "de0079b0-a999-47ec-be79-e56086756d54",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1015x749",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "08d21f4e-6d8e-4a8a-bf01-11f91117f72d",
+      "comment": "",
+      "command": "type",
+      "target": "id=user_login",
+      "targets": [
+        ["id=user_login", "id"],
+        ["name=user_login", "name"],
+        ["css=#user_login", "css:finder"],
+        ["xpath=//input[@id='user_login']", "xpath:attributes"],
+        ["xpath=//form[@id='lostpasswordform']/p/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "dilan.rodriguez670@pascualbravo.edu.co"
+    }, {
+      "id": "57a91af1-42dd-4f31-b88b-d437bb00d37d",
+      "comment": "",
+      "command": "click",
+      "target": "id=wp-submit",
+      "targets": [
+        ["id=wp-submit", "id"],
+        ["name=wp-submit", "name"],
+        ["css=#wp-submit", "css:finder"],
+        ["xpath=//input[@id='wp-submit']", "xpath:attributes"],
+        ["xpath=//form[@id='lostpasswordform']/p[2]/input", "xpath:idRelative"],
+        ["xpath=//p[2]/input", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "ab18f576-8900-4158-8820-c453411b1e1c",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["4483bf00-76ec-485e-a131-d929318340a1"]
+  }],
+  "urls": ["https://pascualbravo.ingejei.com/"],
+  "plugins": []
+}

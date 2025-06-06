@@ -1,0 +1,92 @@
+{
+  "id": "62bb5e5c-2774-4c63-ad9f-7dac259c7d57",
+  "version": "2.0",
+  "name": "3. Pruebas Funcionales",
+  "url": "https://pascualbravo.ingejei.com/cart/",
+  "tests": [{
+    "id": "83900214-0ad7-4f1e-8989-517b8cb2b9b4",
+    "name": "Untitled",
+    "commands": [{
+      "id": "7473a8b1-d3aa-4f2e-be39-f91404eb0df0",
+      "comment": "",
+      "command": "open",
+      "target": "https://pascualbravo.ingejei.com/cart/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "90994015-1604-4128-a310-7de17bb7ac3d",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1920x1031",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0b9d330b-4c9a-4d6e-89ad-068b5168c834",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Añadir al carrito",
+      "targets": [
+        ["linkText=Añadir al carrito", "linkText"],
+        ["css=.wc-block-grid__product:nth-child(3) .wp-block-button__link", "css:finder"],
+        ["xpath=//a[contains(text(),'Añadir al carrito')]", "xpath:link"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/div/div[4]/div/div/div/ul/li[3]/div[2]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '?add-to-cart=138')]", "xpath:href"],
+        ["xpath=//li[3]/div[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Añadir al carrito')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b1af4a72-4996-4b4b-96d6-420f28bdca72",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,20)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "7d2cfb41-7673-493a-902c-4d461cdcba83",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-components-quantity-selector__button--plus",
+      "targets": [
+        ["css=.wc-block-components-quantity-selector__button--plus", "css:finder"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/div/div[4]/div/div/div[2]/table/tbody/tr/td[2]/div/div[4]/div/button[2]", "xpath:idRelative"],
+        ["xpath=//button[2]", "xpath:position"],
+        ["xpath=//button[contains(.,'＋')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "21b08b3e-cdd8-499e-89a6-cf99c6a74421",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-cart-item__remove-link",
+      "targets": [
+        ["css=.wc-block-cart-item__remove-link", "css:finder"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/div/div[4]/div/div/div[2]/table/tbody/tr/td[2]/div/div[4]/button", "xpath:idRelative"],
+        ["xpath=//div[4]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Eliminar artículo')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "a99113e8-afed-4d0b-a6e7-8215df9ccd02",
+      "comment": "",
+      "command": "doubleClick",
+      "target": "css=.wc-block-cart-items",
+      "targets": [
+        ["css=.wc-block-cart-items", "css:finder"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/div/div[4]/div/div/div[2]/table", "xpath:idRelative"],
+        ["xpath=//table", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "02df793a-74bf-4a60-86e6-fbe17c7e3eef",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["83900214-0ad7-4f1e-8989-517b8cb2b9b4"]
+  }],
+  "urls": ["https://pascualbravo.ingejei.com/", "https://pascualbravo.ingejei.com/cart/"],
+  "plugins": []
+}
