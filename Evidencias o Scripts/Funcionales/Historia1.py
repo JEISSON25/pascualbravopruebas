@@ -19,15 +19,8 @@ class TestLoginyRegister():
     self.driver.quit()
   
   def test_loginyRegister(self):
-    self.driver.get("http://localhost:8000//wp-login.php")
-    self.driver.find_element(By.ID, "user_login").send_keys("Grupo3")
-    self.driver.find_element(By.ID, "user_pass	").send_keys("Grupo3pruebasdesoftware")
-    self.driver.find_element(By.ID, "wp-submit	").click()
-    self.driver.get("http://localhost:8000//wp-admin/user-new.php")
+    self.driver.get("https://pascualbravo.ingejei.com/wp-login.php?action=register")
     self.driver.find_element(By.ID, "user_login").send_keys("persona2")
-    self.driver.find_element(By.ID, "email").send_keys("persona2@gmail.com")
-    self.driver.find_element(By.ID, "first_name").send_keys("Felipe")
-    self.driver.find_element(By.ID, "last_name").send_keys("Pelaez")
-    self.driver.find_element(By.ID, "pass1").send_keys("contraseña2")
-    self.driver.find_element(By.ID, "createusersub").click()
+    self.driver.find_element(By.ID, "user_email").send_keys("persona2@gmail.com")
+    self.driver.find_element(By.ID, "wp-submit").click()
   

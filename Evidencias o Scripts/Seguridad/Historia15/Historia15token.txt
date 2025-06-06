@@ -1,0 +1,1744 @@
+HTTP/2 200 
+x-powered-by: PHP/8.2.28
+expires: Wed, 11 Jan 1984 05:00:00 GMT
+referrer-policy: strict-origin-when-cross-origin
+x-frame-options: SAMEORIGIN
+content-type: text/html; charset=UTF-8
+set-cookie: wp-settings-1=libraryContent%3Dupload%26mfold%3Do; expires=Thu, 04 Jun 2026 02:04:47 GMT; Max-Age=31536000; path=/; secure
+set-cookie: wp-settings-time-1=1749002687; expires=Thu, 04 Jun 2026 02:04:47 GMT; Max-Age=31536000; path=/; secure
+x-litespeed-cache-control: no-cache
+cache-control: no-cache, no-store, must-revalidate, max-age=0
+date: Wed, 04 Jun 2025 02:04:47 GMT
+server: LiteSpeed
+platform: hostinger
+panel: hpanel
+content-security-policy: upgrade-insecure-requests
+alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+
+<!DOCTYPE html>
+<html class="wp-toolbar"
+	lang="es-CO">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Perfil &lsaquo; PASCUALBRAVO (PRUEBAS SOFTWARE) &#8212; WordPress</title>
+<script type="text/javascript">
+addLoadEvent = function(func){if(typeof jQuery!=='undefined')jQuery(function(){func();});else if(typeof wpOnload!=='function'){wpOnload=func;}else{var oldonload=wpOnload;wpOnload=function(){oldonload();func();}}};
+var ajaxurl = '/wp-admin/admin-ajax.php',
+	pagenow = 'profile',
+	typenow = '',
+	adminpage = 'profile-php',
+	thousandsSeparator = '.',
+	decimalPoint = ',',
+	isRtl = 0;
+</script>
+<link rel='stylesheet' href='https://pascualbravo.ingejei.com/wp-admin/load-styles.php?c=0&amp;dir=ltr&amp;load%5Bchunk_0%5D=dashicons,admin-bar,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-pointer,widgets&amp;load%5Bchunk_1%5D=,site-icon,l10n,buttons,wp-auth-check,wp-color-picker&amp;ver=6.8.1' media='all' />
+<style>
+@media print { #wpadminbar { display:none; } }
+</style>
+<link rel='stylesheet' id='wcpay-admin-css-css' href='https://pascualbravo.ingejei.com/wp-content/plugins/woocommerce-payments/assets/css/admin.css?ver=9.4.0' media='all' />
+<link rel='stylesheet' id='colors-css' href='https://pascualbravo.ingejei.com/wp-admin/css/colors/ocean/colors.min.css?ver=6.8.1' media='all' />
+<link rel='stylesheet' id='hostinger-ai-assistant-css' href='https://pascualbravo.ingejei.com/wp-content/plugins/hostinger-ai-assistant/assets/css/hostinger-ai-assistant-admin.css?ver=2.0.37' media='all' />
+<link rel='stylesheet' id='hostinger_ai_assistant_woo_styles-css' href='https://pascualbravo.ingejei.com/wp-content/plugins/hostinger-ai-assistant/assets/css/woo-styles.css?ver=2.0.37' media='all' />
+<link rel='stylesheet' id='hostinger_easy_onboarding_global_styles-css' href='https://pascualbravo.ingejei.com/wp-content/plugins/hostinger-easy-onboarding/assets/css/global.min.css?ver=2.0.76' media='all' />
+<link rel='stylesheet' id='hostinger_tools_global_styles-css' href='https://pascualbravo.ingejei.com/wp-content/plugins/hostinger/assets/css/hostinger-global.min.css?ver=3.0.36' media='all' />
+<link rel='stylesheet' id='hostinger_surveys_styles-css' href='https://pascualbravo.ingejei.com/wp-content/plugins/hostinger-ai-assistant/vendor/hostinger/hostinger-wp-surveys/assets/css/style.min.css?ver=1' media='all' />
+<link rel='stylesheet' id='brands-admin-styles-css' href='https://pascualbravo.ingejei.com/wp-content/plugins/woocommerce/assets/css/brands-admin.css?ver=9.8.5' media='all' />
+<link rel='stylesheet' id='hostinger_ai_websites_main_styles-css' href='https://pascualbravo.ingejei.com/wp-content/themes/hostinger-ai-theme/assets/css/main.min.css?ver=1.0.38' media='all' />
+<style id='hostinger_ai_websites_main_styles-inline-css'>
+.hsr-list__item a.hostinger-ai-website-creation, .toplevel_page_hostinger a[href="admin.php?page=hostinger-ai-website-creation"] { display: none !important; }
+</style>
+<link rel='stylesheet' id='litespeed-cache-css' href='https://pascualbravo.ingejei.com/wp-content/plugins/litespeed-cache/assets/css/litespeed.css?ver=7.1' media='all' />
+<link rel='stylesheet' id='woocommerce_admin_menu_styles-css' href='https://pascualbravo.ingejei.com/wp-content/plugins/woocommerce/assets/css/menu.css?ver=9.8.5' media='all' />
+<link rel='stylesheet' id='woocommerce_admin_styles-css' href='https://pascualbravo.ingejei.com/wp-content/plugins/woocommerce/assets/css/admin.css?ver=9.8.5' media='all' />
+<link rel='stylesheet' id='jquery-ui-style-css' href='https://pascualbravo.ingejei.com/wp-content/plugins/woocommerce/assets/css/jquery-ui/jquery-ui.min.css?ver=9.8.5' media='all' />
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style class='wp-fonts-local'>
+@font-face{font-family:Inter;font-style:normal;font-weight:300 900;font-display:fallback;src:url('https://pascualbravo.ingejei.com/wp-content/plugins/woocommerce/assets/fonts/Inter-VariableFont_slnt,wght.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Cardo;font-style:normal;font-weight:400;font-display:fallback;src:url('https://pascualbravo.ingejei.com/wp-content/plugins/woocommerce/assets/fonts/cardo_normal_400.woff2') format('woff2');}
+</style>
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/pascualbravo.ingejei.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\ud83d\udd25","\ud83d\udc26\u200b\ud83d\udd25")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+
+<script>
+/* <![CDATA[ */
+var userSettings = {"url":"\/","uid":"1","time":"1749002687","secure":"1"};/* ]]> */
+</script>
+<script src='https://pascualbravo.ingejei.com/wp-admin/load-scripts.php?c=0&amp;load%5Bchunk_0%5D=jquery-core,jquery-migrate,utils,wp-hooks&amp;ver=6.8.1'></script>
+<script src="https://pascualbravo.ingejei.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id="zxcvbn-async-js-extra">
+var _zxcvbnSettings = {"src":"https:\/\/pascualbravo.ingejei.com\/wp-includes\/js\/zxcvbn.min.js"};
+</script>
+<script src="https://pascualbravo.ingejei.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0" id="zxcvbn-async-js"></script>
+<script src="https://pascualbravo.ingejei.com/wp-content/plugins/hostinger-ai-assistant/assets/js/hostinger-woo-requests.js?ver=2.0.37" id="hostinger_ai_assistant_woo_requests-js"></script>
+<script id="hostinger_easy_onboarding_global_scripts-js-extra">
+var hostinger_easy_onboarding_global = {"rest_base_url":"https:\/\/pascualbravo.ingejei.com\/wp-json\/","nonce":"303afa740e","hostinger_nonce":"018b6a717c","is_onboarding_completed":"false","onboarding_page_url":"https:\/\/pascualbravo.ingejei.com\/wp-admin\/admin.php?page=hostinger-get-onboarding"};
+</script>
+<script src="https://pascualbravo.ingejei.com/wp-content/plugins/hostinger-easy-onboarding/assets/js/global-scripts.min.js?ver=2.0.76" id="hostinger_easy_onboarding_global_scripts-js"></script>
+<script id="hostinger_surveys_scripts-js-extra">
+var hostingerContainer = {"url":"https:\/\/pascualbravo.ingejei.com\/wp-admin\/admin-ajax.php","nonce":"018b6a717c"};
+</script>
+<script src="https://pascualbravo.ingejei.com/wp-content/plugins/hostinger-ai-assistant/vendor/hostinger/hostinger-wp-surveys/assets/js/hostinger-surveys.min.js?ver=1" id="hostinger_surveys_scripts-js" defer data-wp-strategy="defer"></script>
+<script id="WCPAY_ASSETS-js-extra">
+var wcpayAssets = {"url":"https:\/\/pascualbravo.ingejei.com\/wp-content\/plugins\/woocommerce-payments\/dist\/"};
+</script>
+<script id="hostinger_ai_websites_main_scripts-js-extra">
+var hostinger_ai_websites = {"site_url":"https:\/\/pascualbravo.ingejei.com\/?LSCWP_CTRL=before_optm","plugin_url":"https:\/\/pascualbravo.ingejei.com\/wp-content\/themes\/hostinger-ai-theme\/","admin_url":"https:\/\/pascualbravo.ingejei.com\/wp-admin\/admin-ajax.php","website_type":"other","translations":{"ai_website_creation_site_couldnt_be_created":"<span style=\"display: flex; flex-direction: column; gap: 8px;\"><h3 style=\"margin:0; font-size:16px\">Site couldn\u2019t be created<\/h3> <p style=\"margin-top:0; font-size:14px; color:#727586\">That\u2019s because of an issue on our end. Try creating your site again. <\/p><\/span>","ai_website_creation":"AI Website Creation","ai_website_creation_tell_us_about_your_site":"Tell us about your site","ai_website_creation_brand_name":"Brand name","ai_website_creation_website_type":"Website type","ai_website_creation_other":"Other","ai_website_creation_portfolio":"Portfolio","ai_website_creation_business_and_services":"Business and services","ai_website_creation_affiliate":"Affiliate marketing site","ai_website_creation_blog":"Blog","ai_website_creation_landing":"Landing","ai_website_creation_booking":"Booking","ai_website_creation_describe_your_site":"Describe your site","ai_website_creation_description":"Description","ai_website_creation_create":"Create","ai_website_creation_back":"Back","ai_website_creation_generating_colors":"Generating colors","ai_website_creation_generating_structure":"Generating structure","ai_website_creation_generating_content":"Generating content","ai_website_creation_building_content":"Building content","ai_website_creation_create_again":"Create again","ai_website_creation_confirm_and_edit":"Confirm & edit","ai_website_creation_give_us_a_minute":"Give us a minute","ai_website_creation_enter_at_least_eleven_characters":"Enter at least 11 characters","ai_website_creation_let_us_know_about_your_website":"Let us know more about your website to get the best result","ai_website_creation_feel_free_to_add_more_details":"Great description! Feel free to add more details","ai_website_creation_existing_content_deleted":"Existing content will be deleted","ai_website_creation_existing_content_deleted_paragraph":"You have already generated content. Continuing will delete all previous content. Are you sure you want to proceed?","ai_website_creation_cancel":"Cancel","ai_website_creation_continue":"Continue","this_field_is_required":"This field is required","too_long_field":"This field should not be longer than 255 symbols.","too_long_description":"This field should not be longer than 1024 symbols."},"content_generated":"1","rest_base_url":"https:\/\/pascualbravo.ingejei.com\/wp-json\/","nonce":"303afa740e","ajax_nonce":"af25f46323","homepage_editor_url":"https:\/\/pascualbravo.ingejei.com\/wp-admin\/site-editor.php?canvas=edit"};
+</script>
+<script src="https://pascualbravo.ingejei.com/wp-content/themes/hostinger-ai-theme/assets/js/main.min.js?ver=1.0.38" id="hostinger_ai_websites_main_scripts-js"></script>
+<script src="https://pascualbravo.ingejei.com/wp-content/themes/hostinger-ai-theme/assets/js/admin.min.js?ver=1.0.38" id="hostinger_ai_websites_admin_scripts-js"></script>
+<script src="https://pascualbravo.ingejei.com/wp-content/plugins/litespeed-cache/assets/js/litespeed-cache-admin.js?ver=7.1" id="litespeed-cache-js"></script>
+<script src="https://pascualbravo.ingejei.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script src="https://pascualbravo.ingejei.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3" id="jquery-ui-mouse-js"></script>
+<script src="https://pascualbravo.ingejei.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70" id="jquery-blockui-js"></script>
+<script src="https://pascualbravo.ingejei.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3" id="jquery-ui-sortable-js"></script>
+<script src="https://pascualbravo.ingejei.com/wp-content/plugins/woocommerce/assets/js/jquery-tiptip/jquery.tipTip.min.js?ver=9.8.5" id="jquery-tiptip-js"></script>
+<script id="woocommerce_admin-js-extra">
+var woocommerce_admin = {"i18n_decimal_error":"Por favor, introduce un valor con un punto decimal (.) sin separador de miles.","i18n_mon_decimal_error":"Por favor, introduce un valor con un punto monetario decimal (.) sin separador de miles ni s\u00edmbolos de moneda.","i18n_country_iso_error":"Escribe el c\u00f3digo del pa\u00eds con dos letras may\u00fasculas.","i18n_sale_less_than_regular_error":"Introduce un valor inferior al precio normal.","i18n_delete_product_notice":"Este producto ha producido ventas y puede estar ligado a pedidos existentes. \u00bfEst\u00e1s seguro de querer borrarlo?","i18n_remove_personal_data_notice":"Esta acci\u00f3n no es reversible. \u00bfEst\u00e1s seguro de que quieres borrar los datos personales de los pedidos seleccionados?","i18n_confirm_delete":"\u00bfSeguro que quieres borrar este art\u00edculo?","i18n_global_unique_id_error":"Please enter only numbers and hyphens (-).","decimal_point":".","mon_decimal_point":".","ajax_url":"https:\/\/pascualbravo.ingejei.com\/wp-admin\/admin-ajax.php","strings":{"import_products":"Importar","export_products":"Exportar"},"nonces":{"gateway_toggle":"dfa25d6f8c"},"urls":{"add_product":null,"import_products":"https:\/\/pascualbravo.ingejei.com\/wp-admin\/edit.php?post_type=product&page=product_importer","export_products":"https:\/\/pascualbravo.ingejei.com\/wp-admin\/edit.php?post_type=product&page=product_exporter"}};
+</script>
+<script src="https://pascualbravo.ingejei.com/wp-content/plugins/woocommerce/assets/js/admin/woocommerce_admin.min.js?ver=9.8.5" id="woocommerce_admin-js"></script>
+<script src="https://pascualbravo.ingejei.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.6" id="selectWoo-js"></script>
+<script id="wc-enhanced-select-js-extra">
+var wc_enhanced_select_params = {"i18n_no_matches":"No se han encontrado coincidencias","i18n_ajax_error":"Error al cargar","i18n_input_too_short_1":"Por favor, introduce 1 o m\u00e1s caracteres","i18n_input_too_short_n":"Por favor, introduce %qty% o m\u00e1s caracteres","i18n_input_too_long_1":"Por favor, borra 1 car\u00e1cter.","i18n_input_too_long_n":"Por favor borra %qty% caracteres","i18n_selection_too_long_1":"Solo puedes seleccionar 1 art\u00edculo","i18n_selection_too_long_n":"Solo puedes seleccionar %qty% art\u00edculos","i18n_load_more":"Cargando m\u00e1s resultados\u2026","i18n_searching":"Buscando\u2026","ajax_url":"https:\/\/pascualbravo.ingejei.com\/wp-admin\/admin-ajax.php","search_products_nonce":"dfc86340c5","search_customers_nonce":"80d649802d","search_categories_nonce":"22155ef96c","search_taxonomy_terms_nonce":"b46458aef6","search_product_attributes_nonce":"b9586c7630","search_pages_nonce":"41873a8195"};
+</script>
+<script src="https://pascualbravo.ingejei.com/wp-content/plugins/woocommerce/assets/js/admin/wc-enhanced-select.min.js?ver=9.8.5" id="wc-enhanced-select-js"></script>
+		<style>
+
+            			            .post-php.post-type-product #wpadminbar .wpforms-menu-notification-counter,
+            .post-php.post-type-product #wpadminbar .aioseo-menu-notification-counter,
+            .post-php.post-type-product .woocommerce-layout__header-tasks-reminder-bar,
+            .post-php.post-type-product .litespeed_icon.notice.is-dismissible,
+            .post-php.post-type-product .monsterinsights-menu-notification-indicator,
+            .post-php.post-type-product .aioseo-review-plugin-cta,
+            .post-php.post-type-product .omnisend-connection-notice-hidden,
+            .post-php.post-type-product #astra-upgrade-pro-wc {
+                display: none !important;
+            }
+
+            .notice.hts-notice {
+                display: block !important;
+            }
+
+			
+					</style>
+		        <style type="text/css">
+            body.hostinger-hide-main-menu-item #toplevel_page_hostinger .wp-submenu > .wp-first-item {
+                display: none;
+            }
+
+            #wpadminbar #wp-admin-bar-hostinger_admin_bar .ab-item {
+                align-items: center;
+                display: flex;
+            }
+
+            #wpadminbar #wp-admin-bar-hostinger_admin_bar .ab-sub-wrapper .ab-item svg {
+                fill: #9ca1a7;
+                margin-left: 3px;
+                max-height: 18px;
+            }
+
+            body.hostinger-hide-all-menu-items #toplevel_page_hostinger .wp-submenu {
+                display: none !important;
+            }
+
+            body.hostinger-hide-all-menu-items .hsr-onboarding-navbar__wrapper {
+                justify-content: center;
+            }
+
+            body.hostinger-hide-all-menu-items .hsr-onboarding-navbar .hsr-mobile-menu-icon,
+            body.hostinger-hide-all-menu-items .hsr-onboarding-navbar .hsr-wrapper__list {
+                display: none !important;
+            }
+        </style>
+        <style>
+				#wpadminbar .quicklinks #wp-admin-bar-woocommerce-site-visibility-badge {
+					padding: 7px 0;
+				}
+
+				#wpadminbar .quicklinks #wp-admin-bar-woocommerce-site-visibility-badge a.ab-item {
+					/* Layout  */
+					background-color: #F6F7F7;
+					border-radius: 2px;
+					display: flex;
+					height: 18px;
+					padding: 0px 6px;
+					align-items: center;
+					gap: 8px;
+
+					/* Typography  */
+					color: #3C434A;
+					font-size: 12px;
+					font-style: normal;
+					font-weight: 500;
+					line-height: 16px;
+				}
+
+				#wpadminbar .quicklinks #wp-admin-bar-woocommerce-site-visibility-badge a.ab-item:hover,
+				#wpadminbar .quicklinks #wp-admin-bar-woocommerce-site-visibility-badge a.ab-item:focus {
+					background-color: #DCDCDE;
+				}
+
+				#wpadminbar .quicklinks #wp-admin-bar-woocommerce-site-visibility-badge a.ab-item:focus {
+					outline: var(--wp-admin-border-width-focus) solid var(--wp-admin-theme-color-darker-20);
+				}
+
+				#wpadminbar .quicklinks #wp-admin-bar-woocommerce-site-visibility-badge.woocommerce-site-status-badge-live a.ab-item {
+					background-color: #E6F2E8;
+					color: #00450C;
+				}
+
+				#wpadminbar .quicklinks #wp-admin-bar-woocommerce-site-visibility-badge.woocommerce-site-status-badge-live a.ab-item:hover,
+				#wpadminbar .quicklinks #wp-admin-bar-woocommerce-site-visibility-badge.woocommerce-site-status-badge-live a.ab-item:focus {
+					background-color: #B8E6BF;
+				}
+			</style><script type="text/javascript">var _wpColorScheme = {"icons":{"base":"#f2fcff","focus":"#fff","current":"#fff"}};</script>
+	<link id="wp-admin-canonical" rel="canonical" href="https://pascualbravo.ingejei.com/wp-admin/profile.php" />
+	<script>
+		if ( window.history.replaceState ) {
+			window.history.replaceState( null, null, document.getElementById( 'wp-admin-canonical' ).href + window.location.hash );
+		}
+	</script>
+	<meta name="viewport" content="width=device-width,initial-scale=1.0"></head>
+<body class="wp-admin wp-core-ui no-js theme-hostinger-ai-theme  hostinger-hide-main-menu-item wc-wp-version-gte-53 wc-wp-version-gte-55 profile-php auto-fold admin-bar branch-6-8 version-6-8-1 admin-color-ocean locale-es-co no-customize-support svg wp-theme-hostinger-ai-theme">
+<script type="text/javascript">
+	document.body.className = document.body.className.replace('no-js','js');
+</script>
+
+<script>
+		(function() {
+			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+				request = true;
+	
+			b[c] = b[c].replace( rcs, ' ' );
+			// The customizer requires postMessage and CORS (if the site is cross domain).
+			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+		}());
+	
+</script>
+
+<div id="wpwrap">
+
+<div id="adminmenumain" role="navigation" aria-label="Menú principal">
+<a href="#wpbody-content" class="screen-reader-shortcut">Saltar al contenido principal</a>
+<a href="#wp-toolbar" class="screen-reader-shortcut">Ir a la barra de herramientas</a>
+<div id="adminmenuback"></div>
+<div id="adminmenuwrap">
+<ul id="adminmenu">
+
+
+	<li class="wp-first-item wp-has-submenu wp-not-current-submenu menu-top toplevel_page_hostinger menu-top-first" id="toplevel_page_hostinger"><a href='admin.php?page=hostinger' class="wp-first-item wp-has-submenu wp-not-current-submenu menu-top toplevel_page_hostinger menu-top-first" data-ariahaspopup><div class='wp-menu-image svg' style="background-image:url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjEiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyMSAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wLjAwMDE5OTY1MyAxMS4yMzY4VjAuMDAwMzk4MjM1TDUuNjcxMzMgMy4wMjQzNlY4LjA4NjkxTDEzLjE3ODggOC4wOTA1M0wxOC45NDE5IDExLjIzNjhIMC4wMDAxOTk2NTNaTTE0LjcxNCA3LjE2MDQ3VjBMMjAuNTM4IDIuOTQ4NzJWMTAuNTQzN0wxNC43MTQgNy4xNjA0N1pNMTQuNzE0IDIwLjg5NDJWMTUuODc1M0w3LjE0ODYyIDE1Ljg3QzcuMTU1NjggMTUuOTAzNCAxLjI4OTg0IDEyLjY3MzUgMS4yODk4NCAxMi42NzM1TDIwLjUzOCAxMi43NjM4VjI0TDE0LjcxNCAyMC44OTQyWk0wIDIwLjg5NDFMMC4wMDAyMDE3NjkgMTMuNTUxNEw1LjY3MTMzIDE2Ljg1NDZWMjMuODQyN0wwIDIwLjg5NDFaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K')" aria-hidden='true'><br /></div><div class='wp-menu-name'>Hostinger</div></a>
+	<ul class='wp-submenu wp-submenu-wrap'><li class='wp-submenu-head' aria-hidden='true'>Hostinger</li><li class="wp-first-item"><a href='admin.php?page=hostinger' class="wp-first-item">Hostinger</a></li><li><a href='admin.php?page=hostinger-get-onboarding'>Onboarding</a></li><li><a href='admin.php?page=hostinger-tools'>Tools</a></li><li><a href='admin.php?page=hostinger-ai-assistant'>AI Content Creator</a></li><li><a href='admin.php?page=hostinger-ai-website-creation'>AI Website Creation</a></li></ul></li>
+	<li class="wp-has-submenu wp-not-current-submenu menu-top menu-top-first menu-icon-dashboard menu-top-last" id="menu-dashboard">
+	<a href='index.php' class="wp-has-submenu wp-not-current-submenu menu-top menu-top-first menu-icon-dashboard menu-top-last" data-ariahaspopup><div class='wp-menu-image dashicons-before dashicons-dashboard' aria-hidden='true'><br /></div><div class='wp-menu-name'>Escritorio</div></a>
+	<ul class='wp-submenu wp-submenu-wrap'><li class='wp-submenu-head' aria-hidden='true'>Escritorio</li><li class="wp-first-item"><a href='index.php' class="wp-first-item">Inicio</a></li><li><a href='update-core.php'>Actualizaciones <span class="update-plugins count-3"><span class="update-count">3</span></span></a></li></ul></li>
+	<li class="wp-not-current-submenu wp-menu-separator" aria-hidden="true"><div class="separator"></div></li>
+	<li class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-post open-if-no-js menu-top-first" id="menu-posts">
+	<a href='edit.php' class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-post open-if-no-js menu-top-first" data-ariahaspopup><div class='wp-menu-image dashicons-before dashicons-admin-post' aria-hidden='true'><br /></div><div class='wp-menu-name'>Entradas</div></a>
+	<ul class='wp-submenu wp-submenu-wrap'><li class='wp-submenu-head' aria-hidden='true'>Entradas</li><li class="wp-first-item"><a href='edit.php' class="wp-first-item">Todas las entradas</a></li><li><a href='post-new.php'>Añadir entrada</a></li><li><a href='edit-tags.php?taxonomy=category'>Categorías</a></li><li><a href='edit-tags.php?taxonomy=post_tag'>Etiquetas</a></li></ul></li>
+	<li class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-media" id="menu-media">
+	<a href='upload.php' class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-media" data-ariahaspopup><div class='wp-menu-image dashicons-before dashicons-admin-media' aria-hidden='true'><br /></div><div class='wp-menu-name'>Medios</div></a>
+	<ul class='wp-submenu wp-submenu-wrap'><li class='wp-submenu-head' aria-hidden='true'>Medios</li><li class="wp-first-item"><a href='upload.php' class="wp-first-item">Biblioteca</a></li><li><a href='media-new.php'>Agregar archivo de medios</a></li></ul></li>
+	<li class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-page" id="menu-pages">
+	<a href='edit.php?post_type=page' class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-page" data-ariahaspopup><div class='wp-menu-image dashicons-before dashicons-admin-page' aria-hidden='true'><br /></div><div class='wp-menu-name'>Páginas</div></a>
+	<ul class='wp-submenu wp-submenu-wrap'><li class='wp-submenu-head' aria-hidden='true'>Páginas</li><li class="wp-first-item"><a href='edit.php?post_type=page' class="wp-first-item">Todas las páginas</a></li><li><a href='post-new.php?post_type=page'>Añadir página</a></li></ul></li>
+	<li class="wp-not-current-submenu menu-top menu-icon-comments" id="menu-comments">
+	<a href='edit-comments.php' class="wp-not-current-submenu menu-top menu-icon-comments" ><div class='wp-menu-image dashicons-before dashicons-admin-comments' aria-hidden='true'><br /></div><div class='wp-menu-name'>Comentarios <span class="awaiting-mod count-0"><span class="pending-count" aria-hidden="true">0</span><span class="comments-in-moderation-text screen-reader-text">0 Comentarios en moderación</span></span></div></a></li>
+	<li class="wp-not-current-submenu menu-top toplevel_page_theme-settings menu-top-last" id="toplevel_page_theme-settings">
+	<a href='admin.php?page=theme-settings' class="wp-not-current-submenu menu-top toplevel_page_theme-settings menu-top-last" ><div class='wp-menu-image dashicons-before dashicons-admin-customizer' aria-hidden='true'><br /></div><div class='wp-menu-name'>Theme Settings</div></a></li>
+	<li class="wp-not-current-submenu wp-menu-separator woocommerce" aria-hidden="true"><div class="separator"></div></li>
+	<li class="wp-has-submenu wp-not-current-submenu menu-top toplevel_page_woocommerce menu-top-first" id="toplevel_page_woocommerce"><a href='admin.php?page=wc-admin' class="wp-has-submenu wp-not-current-submenu menu-top toplevel_page_woocommerce menu-top-first" data-ariahaspopup><div class='wp-menu-image svg' style="background-image:url('data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDg1LjkgNDcuNiI+CjxwYXRoIGZpbGw9IiNhMmFhYjIiIGQ9Ik03Ny40LDAuMWMtNC4zLDAtNy4xLDEuNC05LjYsNi4xTDU2LjQsMjcuN1Y4LjZjMC01LjctMi43LTguNS03LjctOC41cy03LjEsMS43LTkuNiw2LjVMMjguMywyNy43VjguOAoJYzAtNi4xLTIuNS04LjctOC42LTguN0g3LjNDMi42LDAuMSwwLDIuMywwLDYuM3MyLjUsNi40LDcuMSw2LjRoNS4xdjI0LjFjMCw2LjgsNC42LDEwLjgsMTEuMiwxMC44UzMzLDQ1LDM2LjMsMzguOWw3LjItMTMuNXYxMS40CgljMCw2LjcsNC40LDEwLjgsMTEuMSwxMC44czkuMi0yLjMsMTMtOC43bDE2LjYtMjhjMy42LTYuMSwxLjEtMTAuOC02LjktMTAuOEM3Ny4zLDAuMSw3Ny4zLDAuMSw3Ny40LDAuMXoiLz4KPC9zdmc+Cg==')" aria-hidden='true'><br /></div><div class='wp-menu-name'>WooCommerce</div></a>
+	<ul class='wp-submenu wp-submenu-wrap'><li class='wp-submenu-head' aria-hidden='true'>WooCommerce</li><li class="wp-first-item"><a href='admin.php?page=wc-admin' class="wp-first-item">Inicio</a></li><li><a href='admin.php?page=wc-orders'>Pedidos</a></li><li><a href='admin.php?page=wc-admin&#038;path=/customers'>Clientes</a></li><li><a href='admin.php?page=coupons-moved'>Cupones</a></li><li><a href='admin.php?page=wc-reports'>Informes</a></li><li><a href='admin.php?page=wc-settings'>Ajustes</a></li><li><a href='admin.php?page=wc-status'>Estado</a></li><li class="hide-if-js"><a href='admin.php?page=wc-addons' class="hide-if-js"></a></li><li><a href='admin.php?page=wc-admin&#038;path=/extensions'>Extensiones <span class="update-plugins count-0"><span class="update-count">0</span></span></a></li></ul></li>
+	<li class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-product" id="menu-posts-product">
+	<a href='edit.php?post_type=product' class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-product" data-ariahaspopup><div class='wp-menu-image dashicons-before dashicons-archive' aria-hidden='true'><br /></div><div class='wp-menu-name'>Productos</div></a>
+	<ul class='wp-submenu wp-submenu-wrap'><li class='wp-submenu-head' aria-hidden='true'>Productos</li><li class="wp-first-item"><a href='edit.php?post_type=product' class="wp-first-item">Todos los productos</a></li><li><a href='post-new.php?post_type=product'>Añadir nuevo producto</a></li><li><a href='edit-tags.php?taxonomy=product_brand&amp;post_type=product'>Marcas</a></li><li><a href='edit-tags.php?taxonomy=product_cat&amp;post_type=product'>Categorías</a></li><li><a href='edit-tags.php?taxonomy=product_tag&amp;post_type=product'>Etiquetas</a></li><li><a href='edit.php?post_type=product&#038;page=product_attributes'>Atributos</a></li><li><a href='edit.php?post_type=product&#038;page=product-reviews'>Valoraciones</a></li></ul></li>
+	<li class="wp-not-current-submenu menu-top toplevel_page_admin?page=wc-settings&amp;tab=checkout" id="toplevel_page_admin-page-wc-settings-tab-checkout">
+	<a href='admin.php?page=wc-settings&tab=checkout' class="wp-not-current-submenu menu-top toplevel_page_admin?page=wc-settings&amp;tab=checkout" ><div class='wp-menu-image svg' style="background-image:url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4NTIiIGhlaWdodD0iNjg0Ij48cGF0aCBmaWxsPSIjYTJhYWIyIiBkPSJNODIgODZ2NTEyaDY4NFY4NlptMCA1OThjLTQ4IDAtODQtMzgtODQtODZWODZDLTIgMzggMzQgMCA4MiAwaDY4NGM0OCAwIDg0IDM4IDg0IDg2djUxMmMwIDQ4LTM2IDg2LTg0IDg2em0zODQtNTU2djQ0aDg2djg0SDM4MnY0NGgxMjhjMjQgMCA0MiAxOCA0MiA0MnYxMjhjMCAyNC0xOCA0Mi00MiA0MmgtNDR2NDRoLTg0di00NGgtODZ2LTg0aDE3MHYtNDRIMzM4Yy0yNCAwLTQyLTE4LTQyLTQyVjIxNGMwLTI0IDE4LTQyIDQyLTQyaDQ0di00NHoiLz48L3N2Zz4=')" aria-hidden='true'><br /></div><div class='wp-menu-name'>Pagos</div></a></li>
+	<li class="wp-has-submenu wp-not-current-submenu menu-top toplevel_page_wc-admin&amp;path=/analytics/overview" id="toplevel_page_wc-admin-path--analytics-overview"><a href='admin.php?page=wc-admin&path=/analytics/overview' class="wp-has-submenu wp-not-current-submenu menu-top toplevel_page_wc-admin&amp;path=/analytics/overview" data-ariahaspopup><div class='wp-menu-image dashicons-before dashicons-chart-bar' aria-hidden='true'><br /></div><div class='wp-menu-name'>Análisis</div></a>
+	<ul class='wp-submenu wp-submenu-wrap'><li class='wp-submenu-head' aria-hidden='true'>Análisis</li><li class="wp-first-item"><a href='admin.php?page=wc-admin&#038;path=/analytics/overview' class="wp-first-item">Resumen</a></li><li><a href='admin.php?page=wc-admin&#038;path=/analytics/products'>Productos</a></li><li><a href='admin.php?page=wc-admin&#038;path=/analytics/revenue'>Ingresos</a></li><li><a href='admin.php?page=wc-admin&#038;path=/analytics/orders'>Pedidos</a></li><li><a href='admin.php?page=wc-admin&#038;path=/analytics/variations'>Variaciones</a></li><li><a href='admin.php?page=wc-admin&#038;path=/analytics/categories'>Categorías</a></li><li><a href='admin.php?page=wc-admin&#038;path=/analytics/coupons'>Cupones</a></li><li><a href='admin.php?page=wc-admin&#038;path=/analytics/taxes'>Impuestos</a></li><li><a href='admin.php?page=wc-admin&#038;path=/analytics/downloads'>Descargas</a></li><li><a href='admin.php?page=wc-admin&#038;path=/analytics/stock'>Inventario</a></li><li><a href='admin.php?page=wc-admin&#038;path=/analytics/settings'>Ajustes</a></li></ul></li>
+	<li class="wp-has-submenu wp-not-current-submenu menu-top toplevel_page_woocommerce-marketing menu-top-last" id="toplevel_page_woocommerce-marketing">
+	<a href='admin.php?page=wc-admin&path=/marketing' class="wp-has-submenu wp-not-current-submenu menu-top toplevel_page_woocommerce-marketing menu-top-last" data-ariahaspopup><div class='wp-menu-image dashicons-before dashicons-megaphone' aria-hidden='true'><br /></div><div class='wp-menu-name'>Marketing</div></a>
+	<ul class='wp-submenu wp-submenu-wrap'><li class='wp-submenu-head' aria-hidden='true'>Marketing</li><li class="wp-first-item"><a href='admin.php?page=wc-admin&path=/marketing' class="wp-first-item">Resumen</a></li><li><a href='edit.php?post_type=shop_coupon'>Cupones</a></li></ul></li>
+	<li class="wp-not-current-submenu wp-menu-separator" aria-hidden="true"><div class="separator"></div></li>
+	<li class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-appearance menu-top-first" id="menu-appearance">
+	<a href='themes.php' class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-appearance menu-top-first" data-ariahaspopup><div class='wp-menu-image dashicons-before dashicons-admin-appearance' aria-hidden='true'><br /></div><div class='wp-menu-name'>Apariencia</div></a>
+	<ul class='wp-submenu wp-submenu-wrap'><li class='wp-submenu-head' aria-hidden='true'>Apariencia</li><li class="wp-first-item"><a href='themes.php' class="wp-first-item">Temas <span class="update-plugins count-1"><span class="theme-count">1</span></span></a></li><li><a href='site-editor.php'>Editor</a></li></ul></li>
+	<li class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-plugins" id="menu-plugins">
+	<a href='plugins.php' class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-plugins" data-ariahaspopup><div class='wp-menu-image dashicons-before dashicons-admin-plugins' aria-hidden='true'><br /></div><div class='wp-menu-name'>Plugins <span class="update-plugins count-2"><span class="plugin-count">2</span></span></div></a>
+	<ul class='wp-submenu wp-submenu-wrap'><li class='wp-submenu-head' aria-hidden='true'>Plugins <span class="update-plugins count-2"><span class="plugin-count">2</span></span></li><li class="wp-first-item"><a href='plugins.php' class="wp-first-item">Plugins instalados</a></li><li><a href='plugin-install.php'>Agregar plugin</a></li></ul></li>
+	<li class="wp-has-submenu wp-has-current-submenu wp-menu-open menu-top menu-icon-users" id="menu-users">
+	<a href='users.php' class="wp-has-submenu wp-has-current-submenu wp-menu-open menu-top menu-icon-users" ><div class='wp-menu-image dashicons-before dashicons-admin-users' aria-hidden='true'><br /></div><div class='wp-menu-name'>Usuarios</div></a>
+	<ul class='wp-submenu wp-submenu-wrap'><li class='wp-submenu-head' aria-hidden='true'>Usuarios</li><li class="wp-first-item"><a href='users.php' class="wp-first-item">Todos los usuarios</a></li><li><a href='user-new.php'>Agregar usuario</a></li><li class="current"><a href='profile.php' class="current" aria-current="page">Perfil</a></li></ul></li>
+	<li class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-tools" id="menu-tools">
+	<a href='tools.php' class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-tools" data-ariahaspopup><div class='wp-menu-image dashicons-before dashicons-admin-tools' aria-hidden='true'><br /></div><div class='wp-menu-name'>Herramientas</div></a>
+	<ul class='wp-submenu wp-submenu-wrap'><li class='wp-submenu-head' aria-hidden='true'>Herramientas</li><li class="wp-first-item"><a href='tools.php' class="wp-first-item">Herramientas disponibles</a></li><li><a href='import.php'>Importar</a></li><li><a href='export.php'>Exportar</a></li><li><a href='site-health.php'>Salud del sitio <span class="menu-counter site-health-counter count-1"><span class="count">1</span></span></a></li><li><a href='export-personal-data.php'>Exportar datos personales</a></li><li><a href='erase-personal-data.php'>Borrar datos personales</a></li><li><a href='tools.php?page=action-scheduler'>Acciones programadas</a></li><li><a href='theme-editor.php'>Editor de archivos de temas</a></li><li><a href='plugin-editor.php'>Editor de archivos de plugins</a></li></ul></li>
+	<li class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-settings menu-top-last" id="menu-settings">
+	<a href='options-general.php' class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-settings menu-top-last" data-ariahaspopup><div class='wp-menu-image dashicons-before dashicons-admin-settings' aria-hidden='true'><br /></div><div class='wp-menu-name'>Ajustes</div></a>
+	<ul class='wp-submenu wp-submenu-wrap'><li class='wp-submenu-head' aria-hidden='true'>Ajustes</li><li class="wp-first-item"><a href='options-general.php' class="wp-first-item">Generales</a></li><li><a href='options-writing.php'>Escritura</a></li><li><a href='options-reading.php'>Lectura</a></li><li><a href='options-discussion.php'>Comentarios</a></li><li><a href='options-media.php'>Medios</a></li><li><a href='options-permalink.php'>Enlaces permanentes</a></li><li><a href='options-privacy.php'>Privacidad</a></li><li><a href='options-general.php?page=litespeed-cache-options'>LiteSpeed Cache</a></li></ul></li>
+	<li class="wp-not-current-submenu wp-menu-separator" aria-hidden="true"><div class="separator"></div></li>
+	<li class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-generic toplevel_page_litespeed menu-top-first menu-top-last" id="toplevel_page_litespeed"><a href='admin.php?page=litespeed' class="wp-has-submenu wp-not-current-submenu menu-top menu-icon-generic toplevel_page_litespeed menu-top-first menu-top-last" data-ariahaspopup><div class='wp-menu-image dashicons-before dashicons-admin-generic' aria-hidden='true'><br /></div><div class='wp-menu-name'>LiteSpeed Cache</div></a>
+	<ul class='wp-submenu wp-submenu-wrap'><li class='wp-submenu-head' aria-hidden='true'>LiteSpeed Cache</li><li class="wp-first-item"><a href='admin.php?page=litespeed' class="wp-first-item">Escritorio</a></li><li><a href='admin.php?page=litespeed-presets'>Presets</a></li><li><a href='admin.php?page=litespeed-general'>Opciones generales</a></li><li><a href='admin.php?page=litespeed-cache'>Caché</a></li><li><a href='admin.php?page=litespeed-cdn'>CDN</a></li><li><a href='admin.php?page=litespeed-img_optm'>Optimización de imágenes</a></li><li><a href='admin.php?page=litespeed-page_optm'>Optimización de página</a></li><li><a href='admin.php?page=litespeed-db_optm'>Base de datos</a></li><li><a href='admin.php?page=litespeed-crawler'>Crawler</a></li><li><a href='admin.php?page=litespeed-toolbox'>Herrramientas</a></li></ul></li><li id="collapse-menu" class="hide-if-no-js"><button type="button" id="collapse-button" aria-label="Cerrar menú principal" aria-expanded="true"><span class="collapse-button-icon" aria-hidden="true"></span><span class="collapse-button-label">Cerrar menú</span></button></li></ul>
+</div>
+</div>
+<div id="wpcontent">
+
+		<div id="wpadminbar" class="nojq nojs">
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Barra de herramientas">
+				<ul role='menu' id='wp-admin-bar-root-default' class="ab-top-menu"><li role='group' id='wp-admin-bar-menu-toggle'><a class='ab-item' role="menuitem" href='#'><span class="ab-icon" aria-hidden="true"></span><span class="screen-reader-text">Menú</span></a></li><li role='group' id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://pascualbravo.ingejei.com/wp-admin/'><span class="ab-icon" aria-hidden="true"></span><span class="screen-reader-text">Acerca de WordPress</span></a><div class="ab-sub-wrapper"><ul role='menu' aria-label='Acerca de WordPress' id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li role='group' id='wp-admin-bar-about'><a class='ab-item' role="menuitem" href='https://pascualbravo.ingejei.com/wp-admin/about.php'>Acerca de WordPress</a></li><li role='group' id='wp-admin-bar-contribute'><a class='ab-item' role="menuitem" href='https://pascualbravo.ingejei.com/wp-admin/contribute.php'>Únete</a></li></ul><ul role='menu' aria-label='Acerca de WordPress' id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li role='group' id='wp-admin-bar-wporg'><a class='ab-item' role="menuitem" href='https://es-co.wordpress.org/'>WordPress.org</a></li><li role='group' id='wp-admin-bar-documentation'><a class='ab-item' role="menuitem" href='https://wordpress.org/documentation/'>Documentación</a></li><li role='group' id='wp-admin-bar-learn'><a class='ab-item' role="menuitem" href='https://learn.wordpress.org/'>Aprende WordPress</a></li><li role='group' id='wp-admin-bar-support-forums'><a class='ab-item' role="menuitem" href='https://wordpress.org/support/forums/'>Soporte</a></li><li role='group' id='wp-admin-bar-feedback'><a class='ab-item' role="menuitem" href='https://es.wordpress.org/support/forum/comunidad/peticiones-y-feedback/'>Sugerencias</a></li></ul></div></li><li role='group' id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://pascualbravo.ingejei.com/'>PASCUALBRAVO (PRUEBAS SOFTWARE)</a><div class="ab-sub-wrapper"><ul role='menu' aria-label='PASCUALBRAVO (PRUEBAS SOFTWARE)' id='wp-admin-bar-site-name-default' class="ab-submenu"><li role='group' id='wp-admin-bar-view-site'><a class='ab-item' role="menuitem" href='https://pascualbravo.ingejei.com/'>Visitar sitio</a></li><li role='group' id='wp-admin-bar-view-store'><a class='ab-item' role="menuitem" href='https://pascualbravo.ingejei.com/shop/'>Visitar la tienda</a></li></ul></div></li><li role='group' id='wp-admin-bar-woocommerce-site-visibility-badge' class="woocommerce-site-status-badge-store-coming-soon"><a class='ab-item' role="menuitem" href='https://pascualbravo.ingejei.com/wp-admin/admin.php?page=wc-settings&#038;tab=site-visibility'>Store coming soon</a></li><li role='group' id='wp-admin-bar-site-editor'><a class='ab-item' role="menuitem" href='https://pascualbravo.ingejei.com/wp-admin/post.php?post=4&#038;action=edit'>Edit site</a></li><li role='group' id='wp-admin-bar-updates'><a class='ab-item' role="menuitem" href='https://pascualbravo.ingejei.com/wp-admin/update-core.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label" aria-hidden="true">3</span><span class="screen-reader-text updates-available-text">3 actualizaciones disponibles</span></a></li><li role='group' id='wp-admin-bar-comments'><a class='ab-item' role="menuitem" href='https://pascualbravo.ingejei.com/wp-admin/edit-comments.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text comments-in-moderation-text">0 Comentarios en moderación</span></a></li><li role='group' id='wp-admin-bar-new-content' class="menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://pascualbravo.ingejei.com/wp-admin/post-new.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label">Añadir</span></a><div class="ab-sub-wrapper"><ul role='menu' aria-label='Añadir' id='wp-admin-bar-new-content-default' class="ab-submenu"><li role='group' id='wp-admin-bar-new-post'><a class='ab-item' role="menuitem" href='https://pascualbravo.ingejei.com/wp-admin/post-new.php'>Entrada</a></li><li role='group' id='wp-admin-bar-new-media'><a class='ab-item' role="menuitem" href='https://pascualbravo.ingejei.com/wp-admin/media-new.php'>Medio</a></li><li role='group' id='wp-admin-bar-new-page'><a class='ab-item' role="menuitem" href='https://pascualbravo.ingejei.com/wp-admin/post-new.php?post_type=page'>Página</a></li><li role='group' id='wp-admin-bar-new-product'><a class='ab-item' role="menuitem" href='https://pascualbravo.ingejei.com/wp-admin/post-new.php?post_type=product'>Producto</a></li><li role='group' id='wp-admin-bar-new-shop_order'><a class='ab-item' role="menuitem" href='https://pascualbravo.ingejei.com/wp-admin/post-new.php?post_type=shop_order'>Pedido</a></li><li role='group' id='wp-admin-bar-new-shop_coupon'><a class='ab-item' role="menuitem" href='https://pascualbravo.ingejei.com/wp-admin/post-new.php?post_type=shop_coupon'>Cupón</a></li><li role='group' id='wp-admin-bar-new-user'><a class='ab-item' role="menuitem" href='https://pascualbravo.ingejei.com/wp-admin/user-new.php'>Usuario</a></li></ul></div></li><li role='group' id='wp-admin-bar-hostinger_admin_bar' class="menupop"><div class="ab-item ab-empty-item" role="menuitem" aria-expanded="false"><svg width="28" height="29" viewBox="0 0 28 29" fill="#9ca1a7" style="margin-right: 6px; max-height: 22px; float: left; margin-top: 4px;" xmlns="http://www.w3.org/2000/svg">
+				<path fill-rule="evenodd" clip-rule="evenodd" d="M1.8669 13.6096V0.500465L8.48322 4.02842V9.93472L17.2419 9.93895L23.9655 13.6096H1.8669ZM19.033 8.85388V0.5L25.8277 3.94018V12.801L19.033 8.85388ZM19.033 24.8765V19.0211L10.2067 19.015C10.215 19.054 3.37149 15.2857 3.37149 15.2857L25.8277 15.3911V28.5L19.033 24.8765ZM1.86667 24.8765L1.8669 16.31L8.48322 20.1637V28.3164L1.86667 24.8765Z" fill="" />
+			</svg>Hostinger</div><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-hostinger_admin_bar-default' class="ab-submenu"><li role='group' id='wp-admin-bar-hostinger-easy-onboarding-admin-bar-onboarding'><a class='ab-item' role="menuitem" href='https://pascualbravo.ingejei.com/wp-admin/admin.php?page=hostinger-get-onboarding'>Onboarding</a></li><li role='group' id='wp-admin-bar-hostinger-tools-admin-bar'><a class='ab-item' role="menuitem" href='https://pascualbravo.ingejei.com/wp-admin/admin.php?page=hostinger-tools'>Tools</a></li><li role='group' id='wp-admin-bar-hostinger-ai-assistant-ai-content-creator'><a class='ab-item' role="menuitem" href='https://pascualbravo.ingejei.com/wp-admin/admin.php?page=hostinger-ai-assistant'>AI Content Creator</a></li><li role='group' id='wp-admin-bar-hostinger_hpanel_home_admin_bar'><a class='ab-item' role="menuitem" href='https://hpanel.hostinger.com' target='_blank'>hPanel - Home<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+			<path d="M5 21C4.45 21 3.97917 20.8042 3.5875 20.4125C3.19583 20.0208 3 19.55 3 19V5C3 4.45 3.19583 3.97917 3.5875 3.5875C3.97917 3.19583 4.45 3 5 3H11C11.2833 3 11.5208 3.09583 11.7125 3.2875C11.9042 3.47917 12 3.71667 12 4C12 4.28333 11.9042 4.52083 11.7125 4.7125C11.5208 4.90417 11.2833 5 11 5H5V19H19V13C19 12.7167 19.0958 12.4792 19.2875 12.2875C19.4792 12.0958 19.7167 12 20 12C20.2833 12 20.5208 12.0958 20.7125 12.2875C20.9042 12.4792 21 12.7167 21 13V19C21 19.55 20.8042 20.0208 20.4125 20.4125C20.0208 20.8042 19.55 21 19 21H5ZM19 6.4L10.4 15C10.2167 15.1833 9.98333 15.275 9.7 15.275C9.41667 15.275 9.18333 15.1833 9 15C8.81667 14.8167 8.725 14.5833 8.725 14.3C8.725 14.0167 8.81667 13.7833 9 13.6L17.6 5H15C14.7167 5 14.4792 4.90417 14.2875 4.7125C14.0958 4.52083 14 4.28333 14 4C14 3.71667 14.0958 3.47917 14.2875 3.2875C14.4792 3.09583 14.7167 3 15 3H21V9C21 9.28333 20.9042 9.52083 20.7125 9.7125C20.5208 9.90417 20.2833 10 20 10C19.7167 10 19.4792 9.90417 19.2875 9.7125C19.0958 9.52083 19 9.28333 19 9V6.4Z" fill=""/>
+		</svg></a></li><li role='group' id='wp-admin-bar-hostinger_website_list_admin_bar'><a class='ab-item' role="menuitem" href='https://hpanel.hostinger.com/websites' target='_blank'>hPanel - Websites<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+			<path d="M5 21C4.45 21 3.97917 20.8042 3.5875 20.4125C3.19583 20.0208 3 19.55 3 19V5C3 4.45 3.19583 3.97917 3.5875 3.5875C3.97917 3.19583 4.45 3 5 3H11C11.2833 3 11.5208 3.09583 11.7125 3.2875C11.9042 3.47917 12 3.71667 12 4C12 4.28333 11.9042 4.52083 11.7125 4.7125C11.5208 4.90417 11.2833 5 11 5H5V19H19V13C19 12.7167 19.0958 12.4792 19.2875 12.2875C19.4792 12.0958 19.7167 12 20 12C20.2833 12 20.5208 12.0958 20.7125 12.2875C20.9042 12.4792 21 12.7167 21 13V19C21 19.55 20.8042 20.0208 20.4125 20.4125C20.0208 20.8042 19.55 21 19 21H5ZM19 6.4L10.4 15C10.2167 15.1833 9.98333 15.275 9.7 15.275C9.41667 15.275 9.18333 15.1833 9 15C8.81667 14.8167 8.725 14.5833 8.725 14.3C8.725 14.0167 8.81667 13.7833 9 13.6L17.6 5H15C14.7167 5 14.4792 4.90417 14.2875 4.7125C14.0958 4.52083 14 4.28333 14 4C14 3.71667 14.0958 3.47917 14.2875 3.2875C14.4792 3.09583 14.7167 3 15 3H21V9C21 9.28333 20.9042 9.52083 20.7125 9.7125C20.5208 9.90417 20.2833 10 20 10C19.7167 10 19.4792 9.90417 19.2875 9.7125C19.0958 9.52083 19 9.28333 19 9V6.4Z" fill=""/>
+		</svg></a></li><li role='group' id='wp-admin-bar-hostinger_billings_admin_bar'><a class='ab-item' role="menuitem" href='https://hpanel.hostinger.com/billing/subscriptions' target='_blank'>hPanel - Billing<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+			<path d="M5 21C4.45 21 3.97917 20.8042 3.5875 20.4125C3.19583 20.0208 3 19.55 3 19V5C3 4.45 3.19583 3.97917 3.5875 3.5875C3.97917 3.19583 4.45 3 5 3H11C11.2833 3 11.5208 3.09583 11.7125 3.2875C11.9042 3.47917 12 3.71667 12 4C12 4.28333 11.9042 4.52083 11.7125 4.7125C11.5208 4.90417 11.2833 5 11 5H5V19H19V13C19 12.7167 19.0958 12.4792 19.2875 12.2875C19.4792 12.0958 19.7167 12 20 12C20.2833 12 20.5208 12.0958 20.7125 12.2875C20.9042 12.4792 21 12.7167 21 13V19C21 19.55 20.8042 20.0208 20.4125 20.4125C20.0208 20.8042 19.55 21 19 21H5ZM19 6.4L10.4 15C10.2167 15.1833 9.98333 15.275 9.7 15.275C9.41667 15.275 9.18333 15.1833 9 15C8.81667 14.8167 8.725 14.5833 8.725 14.3C8.725 14.0167 8.81667 13.7833 9 13.6L17.6 5H15C14.7167 5 14.4792 4.90417 14.2875 4.7125C14.0958 4.52083 14 4.28333 14 4C14 3.71667 14.0958 3.47917 14.2875 3.2875C14.4792 3.09583 14.7167 3 15 3H21V9C21 9.28333 20.9042 9.52083 20.7125 9.7125C20.5208 9.90417 20.2833 10 20 10C19.7167 10 19.4792 9.90417 19.2875 9.7125C19.0958 9.52083 19 9.28333 19 9V6.4Z" fill=""/>
+		</svg></a></li></ul></div></li><li role='group' id='wp-admin-bar-litespeed-menu' class="menupop litespeed-top-toolbar"><a class='ab-item' tabindex="0" role="menuitem" aria-expanded="false" href='https://pascualbravo.ingejei.com/wp-admin/profile.php?LSCWP_CTRL=purge&#038;LSCWP_NONCE=d4de1d0f58&#038;litespeed_type=purge_all_lscache'><span class="ab-icon" title="Vaciar toda la caché de LiteSpeed - LSCache"></span></a><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-litespeed-menu-default' class="ab-submenu"><li role='group' id='wp-admin-bar-litespeed-bar-manage'><a class='ab-item' tabindex="0" role="menuitem" href='admin.php?page=litespeed'>Gestionar</a></li><li role='group' id='wp-admin-bar-litespeed-bar-setting'><a class='ab-item' tabindex="0" role="menuitem" href='admin.php?page=litespeed-cache'>Ajustes</a></li><li role='group' id='wp-admin-bar-litespeed-bar-imgoptm'><a class='ab-item' tabindex="0" role="menuitem" href='admin.php?page=litespeed-img_optm'>Optimización de imágenes</a></li><li role='group' id='wp-admin-bar-litespeed-purge-all'><a class='ab-item' tabindex="0" role="menuitem" href='https://pascualbravo.ingejei.com/wp-admin/profile.php?LSCWP_CTRL=purge&#038;LSCWP_NONCE=d4de1d0f58&#038;litespeed_type=purge_all'>Purgar todo</a></li><li role='group' id='wp-admin-bar-litespeed-purge-all-lscache'><a class='ab-item' tabindex="0" role="menuitem" href='https://pascualbravo.ingejei.com/wp-admin/profile.php?LSCWP_CTRL=purge&#038;LSCWP_NONCE=d4de1d0f58&#038;litespeed_type=purge_all_lscache'>Purgar todo - LSCache</a></li><li role='group' id='wp-admin-bar-litespeed-purge-cssjs'><a class='ab-item' tabindex="0" role="menuitem" href='https://pascualbravo.ingejei.com/wp-admin/profile.php?LSCWP_CTRL=purge&#038;LSCWP_NONCE=d4de1d0f58&#038;litespeed_type=purge_all_cssjs'>Purgar todo - Caché CSS/JS</a></li><li role='group' id='wp-admin-bar-litespeed-purge-object'><a class='ab-item' tabindex="0" role="menuitem" href='https://pascualbravo.ingejei.com/wp-admin/profile.php?LSCWP_CTRL=purge&#038;LSCWP_NONCE=d4de1d0f58&#038;litespeed_type=purge_all_object'>Purgar todo - Caché de objetos</a></li><li role='group' id='wp-admin-bar-litespeed-purge-opcache'><a class='ab-item' tabindex="0" role="menuitem" href='https://pascualbravo.ingejei.com/wp-admin/profile.php?LSCWP_CTRL=purge&#038;LSCWP_NONCE=d4de1d0f58&#038;litespeed_type=purge_all_opcache'>Purgar todo - Caché opcode</a></li></ul></div></li></ul><ul role='menu' id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li role='group' id='wp-admin-bar-my-account' class="menupop with-avatar"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://pascualbravo.ingejei.com/wp-admin/profile.php'>Hola, <span class="display-name">jeisim18@gmail.com</span><img alt='' src='https://secure.gravatar.com/avatar/c8d3f679e34b5c994880165e7614b60e9732e51d4bd539cb81a039a5b6786b3c?s=26&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/c8d3f679e34b5c994880165e7614b60e9732e51d4bd539cb81a039a5b6786b3c?s=52&#038;d=mm&#038;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' loading='lazy' decoding='async'/></a><div class="ab-sub-wrapper"><ul role='menu' aria-label='Hola, jeisim18@gmail.com' id='wp-admin-bar-user-actions' class="ab-submenu"><li role='group' id='wp-admin-bar-user-info'><a class='ab-item' role="menuitem" href='https://pascualbravo.ingejei.com/wp-admin/profile.php'><img alt='' src='https://secure.gravatar.com/avatar/c8d3f679e34b5c994880165e7614b60e9732e51d4bd539cb81a039a5b6786b3c?s=64&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/c8d3f679e34b5c994880165e7614b60e9732e51d4bd539cb81a039a5b6786b3c?s=128&#038;d=mm&#038;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' loading='lazy' decoding='async'/><span class='display-name'>jeisim18@gmail.com</span><span class='display-name edit-profile'>Editar el perfil</span></a></li><li role='group' id='wp-admin-bar-logout'><a class='ab-item' role="menuitem" href='https://pascualbravo.ingejei.com/wp-login.php?action=logout&#038;_wpnonce=540a3d0750'>Cerrar sesión</a></li></ul></div></li></ul>			</div>
+		</div>
+
+		
+<div id="wpbody" role="main">
+
+<div id="wpbody-content">
+		<div id="screen-meta" class="metabox-prefs">
+
+			<div id="contextual-help-wrap" class="hidden" tabindex="-1" aria-label="Pestaña de ayuda contextual">
+				<div id="contextual-help-back"></div>
+				<div id="contextual-help-columns">
+					<div class="contextual-help-tabs">
+						<ul>
+						
+							<li id="tab-link-woocommerce_support_tab" class="active">
+								<a href="#tab-panel-woocommerce_support_tab" aria-controls="tab-panel-woocommerce_support_tab">
+									Ayuda y soporte								</a>
+							</li>
+							
+							<li id="tab-link-woocommerce_bugs_tab">
+								<a href="#tab-panel-woocommerce_bugs_tab" aria-controls="tab-panel-woocommerce_bugs_tab">
+									¿Encontraste un error?								</a>
+							</li>
+							
+							<li id="tab-link-woocommerce_onboard_tab">
+								<a href="#tab-panel-woocommerce_onboard_tab" aria-controls="tab-panel-woocommerce_onboard_tab">
+									Asistente de configuración								</a>
+							</li>
+							
+							<li id="tab-link-overview">
+								<a href="#tab-panel-overview" aria-controls="tab-panel-overview">
+									Resúmen								</a>
+							</li>
+													</ul>
+					</div>
+
+										<div class="contextual-help-sidebar">
+						<p><strong>Para más información:</strong></p><p><a href="https://wordpress.org/documentation/article/users-your-profile-screen/">Documentación sobre los perfiles de usuarios</a></p><p><a href="https://es-co.wordpress.org/support/forums/">Foros de soporte</a></p>					</div>
+					
+					<div class="contextual-help-tabs-wrap">
+						
+							<div id="tab-panel-woocommerce_support_tab" class="help-tab-content active">
+								<h2>Ayuda y soporte</h2><p>Puede que necesites ayuda para comprender, usar y ampliar WooCommerce, <a href="https://woocommerce.com/documentation/plugins/woocommerce/?utm_source=helptab&utm_medium=product&utm_content=docs&utm_campaign=woocommerceplugin">por favor lee nuestra documentación</a>. Encontrarás todo tipo de recursos, incluyendo códigos, tutoriales y mucho más.</p><p>Para más ayuda con el núcleo de WooCommerce usá los <a href="https://wordpress.org/support/plugin/woocommerce">foros de la comunidad</a>. Si necesitás ayuda con extensiones de pago vendidas por Woo.com, <a href="https://woocommerce.com/my-account/create-a-ticket/?utm_source=helptab&utm_medium=product&utm_content=tickets&utm_campaign=woocommerceplugin">utilizá nuestro sistema de soporte</a>.</p><p>Antes de pedir ayuda, te recomendamos revisar la página de estado del sistema para identificar cualquier problema con tu configuración.</p><p><a href="https://pascualbravo.ingejei.com/wp-admin/admin.php?page=wc-status" class="button button-primary">Estado del sistema</a> <a href="https://wordpress.org/support/plugin/woocommerce" class="button">Foros de la comunidad</a> <a href="https://woocommerce.com/my-account/create-a-ticket/?utm_source=helptab&utm_medium=product&utm_content=tickets&utm_campaign=woocommerceplugin" class="button">Soporte de WooCommerce.com</a></p>							</div>
+							
+							<div id="tab-panel-woocommerce_bugs_tab" class="help-tab-content">
+								<h2>¿Encontraste un error?</h2><p>Si encuentras un error en el núcleo de WooCommerce puedes crear un tique en la zona de <a href="https://github.com/woocommerce/woocommerce/issues?state=open">errores de Github</a>. Antes de enviar tu informe, asegúrate de haber leído la <a href="https://github.com/woocommerce/woocommerce/blob/trunk/.github/CONTRIBUTING.md">guía de colaboración</a>. Para ayudarnos a resolver tu problema, por favor procura ser tan descriptivo como puedas e incluye el <a href="https://pascualbravo.ingejei.com/wp-admin/admin.php?page=wc-status">informe de estado de tu sistema</a> .</p><p><a href="https://github.com/woocommerce/woocommerce/issues/new?assignees=&labels=&template=1-bug-report.yml" class="button button-primary">Informar de un error</a> <a href="https://pascualbravo.ingejei.com/wp-admin/admin.php?page=wc-status" class="button">Estado del sistema</a></p>							</div>
+							
+							<div id="tab-panel-woocommerce_onboard_tab" class="help-tab-content">
+								<h2>Despegue de WooCommerce</h2><h3>Asistente de configuración de perfil</h3><p>Si necesitas acceder otra vez al asistente de configuración haz clic en el botón de abajo por favor.</p><p><a href="https://pascualbravo.ingejei.com/wp-admin/admin.php?page=wc-admin&path=/setup-wizard" class="button button-primary">Asistente de configuración</a></p><h3>Lista de tareas</h3><p>Si tienes que activar o desactivar la lista de tareas, por favor, haz clic en el siguiente botón.</p><p><a href="https://pascualbravo.ingejei.com/wp-admin/admin.php?page=wc-admin&reset_task_list=1" class="button button-primary">Activar</a></p><h3>Lista de tareas ampliada</h3><p>Si necesita activar o desactivar las listas de tareas ampliadas, por favor, haz clic en el siguiente botón.</p><p><a href="https://pascualbravo.ingejei.com/wp-admin/admin.php?page=wc-admin&reset_extended_task_list=0" class="button button-primary">Desactivar</a></p>							</div>
+							
+							<div id="tab-panel-overview" class="help-tab-content">
+								<p>Tu perfil contiene infomación sobre ti (tu &#8220;cuenta&#8221;) así como algunas opciones personales relacionadas con el uso de WordPress.</p><p>Puedes cambiar tu contraseña, activar los atajos de teclado, cambiar la paleta de colores de tus pantallas de administración, desactivar el editor WYSIWYG (visual), entre otras cosas. Puedes ocultar la barra de herramientas (antes conocida como barra de administración) de la parte pública (front end) de tu sitio, aunque no es posible desactivarlo para las pantallas de administración.</p><p>Puedes elegir el idioma que quieras utilizar en la pantalla de administración de WordPress sin que afecte al idioma que en el que ven los visitantes el sitio.</p><p>Tu nombre de usuario no puede cambiarse, pero puedes usar los otros campos para introducir tu nombre real o tu alias y utilizarlo para que se muestre en tus entradas.</p><p>Puedes desconectar de otros dispositivos, como tu teléfono o un ordenador público, haciendo clic en el botón Desconectar del resto de sitios</p><p>Los campos necesarios están marcados. El resto son opcionales. El perfil sólo será mostrado si tu tema está configurado para ello.</p><p>Recuerda hacer click en el botón actualizar Perfil cuando acabes.</p>							</div>
+												</div>
+				</div>
+			</div>
+				</div>
+				<div id="screen-meta-links">
+					<div id="contextual-help-link-wrap" class="hide-if-no-js screen-meta-toggle">
+			<button type="button" id="contextual-help-link" class="button show-settings" aria-controls="contextual-help-wrap" aria-expanded="false">Ayuda</button>
+			</div>
+				</div>
+		<input type="hidden" id="hts_close_omnisend_nonce" name="hts_close_omnisend_nonce" value="f0b80876f6" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/profile.php" /><div class="notice notice-warning is-dismissible" ><p>PayPal Payments is almost ready. To get started, connect your account with the <b>Activate PayPal</b> button <a href="https://pascualbravo.ingejei.com/wp-admin/admin.php?page=wc-settings&amp;tab=checkout&amp;section=ppcp-gateway&amp;ppcp-tab=ppcp-connection">on the Account Setup page</a>.</p></div>
+		
+		<div class="wrap" id="profile-page">
+			<h1 class="wp-heading-inline">
+					Perfil			</h1>
+
+			
+			<hr class="wp-header-end">
+
+			<form id="your-profile" action="https://pascualbravo.ingejei.com/wp-admin/profile.php" method="post" novalidate="novalidate"
+								>
+				<input type="hidden" id="_wpnonce" name="_wpnonce" value="2b6a986b6f" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/profile.php" />								<p>
+					<input type="hidden" name="from" value="profile" />
+					<input type="hidden" name="checkuser_id" value="1" />
+				</p>
+
+				<h2>Opciones personales</h2>
+
+				<table class="form-table" role="presentation">
+					
+					
+										<tr class="user-syntax-highlighting-wrap">
+						<th scope="row">Resaltado de sintaxis</th>
+						<td>
+							<label for="syntax_highlighting"><input name="syntax_highlighting" type="checkbox" id="syntax_highlighting" value="false"  />
+								Desactivar el resaltado de sintaxis al editar código							</label>
+						</td>
+					</tr>
+					
+										<tr class="user-admin-color-wrap">
+						<th scope="row">Esquema de color de administración</th>
+						<td>
+								<fieldset id="color-picker" class="scheme-list">
+		<legend class="screen-reader-text"><span>
+			Esquema de color de administración		</span></legend>
+		<input type="hidden" id="color-nonce" name="color-nonce" value="40fbd85550" />			<div class="color-option ">
+				<input name="admin_color" id="admin_color_fresh" type="radio" value="fresh" class="tog"  />
+				<input type="hidden" class="css_url" value="" />
+				<input type="hidden" class="icon_colors" value="{&quot;icons&quot;:{&quot;base&quot;:&quot;#a7aaad&quot;,&quot;focus&quot;:&quot;#72aee6&quot;,&quot;current&quot;:&quot;#fff&quot;}}" />
+				<label for="admin_color_fresh">Por defecto</label>
+				<div class="color-palette">
+									<div class="color-palette-shade" style="background-color: #1d2327">&nbsp;</div>
+										<div class="color-palette-shade" style="background-color: #2c3338">&nbsp;</div>
+										<div class="color-palette-shade" style="background-color: #2271b1">&nbsp;</div>
+										<div class="color-palette-shade" style="background-color: #72aee6">&nbsp;</div>
+									</div>
+			</div>
+						<div class="color-option ">
+				<input name="admin_color" id="admin_color_light" type="radio" value="light" class="tog"  />
+				<input type="hidden" class="css_url" value="https://pascualbravo.ingejei.com/wp-admin/css/colors/light/colors.min.css" />
+				<input type="hidden" class="icon_colors" value="{&quot;icons&quot;:{&quot;base&quot;:&quot;#999&quot;,&quot;focus&quot;:&quot;#ccc&quot;,&quot;current&quot;:&quot;#ccc&quot;}}" />
+				<label for="admin_color_light">Luminoso</label>
+				<div class="color-palette">
+									<div class="color-palette-shade" style="background-color: #e5e5e5">&nbsp;</div>
+										<div class="color-palette-shade" style="background-color: #999">&nbsp;</div>
+										<div class="color-palette-shade" style="background-color: #d64e07">&nbsp;</div>
+										<div class="color-palette-shade" style="background-color: #04a4cc">&nbsp;</div>
+									</div>
+			</div>
+						<div class="color-option ">
+				<input name="admin_color" id="admin_color_modern" type="radio" value="modern" class="tog"  />
+				<input type="hidden" class="css_url" value="https://pascualbravo.ingejei.com/wp-admin/css/colors/modern/colors.min.css" />
+				<input type="hidden" class="icon_colors" value="{&quot;icons&quot;:{&quot;base&quot;:&quot;#f3f1f1&quot;,&quot;focus&quot;:&quot;#fff&quot;,&quot;current&quot;:&quot;#fff&quot;}}" />
+				<label for="admin_color_modern">Moderno</label>
+				<div class="color-palette">
+									<div class="color-palette-shade" style="background-color: #1e1e1e">&nbsp;</div>
+										<div class="color-palette-shade" style="background-color: #3858e9">&nbsp;</div>
+										<div class="color-palette-shade" style="background-color: #7b90ff">&nbsp;</div>
+									</div>
+			</div>
+						<div class="color-option ">
+				<input name="admin_color" id="admin_color_blue" type="radio" value="blue" class="tog"  />
+				<input type="hidden" class="css_url" value="https://pascualbravo.ingejei.com/wp-admin/css/colors/blue/colors.min.css" />
+				<input type="hidden" class="icon_colors" value="{&quot;icons&quot;:{&quot;base&quot;:&quot;#e5f8ff&quot;,&quot;focus&quot;:&quot;#fff&quot;,&quot;current&quot;:&quot;#fff&quot;}}" />
+				<label for="admin_color_blue">Azul</label>
+				<div class="color-palette">
+									<div class="color-palette-shade" style="background-color: #096484">&nbsp;</div>
+										<div class="color-palette-shade" style="background-color: #4796b3">&nbsp;</div>
+										<div class="color-palette-shade" style="background-color: #52accc">&nbsp;</div>
+										<div class="color-palette-shade" style="background-color: #74B6CE">&nbsp;</div>
+									</div>
+			</div>
+						<div class="color-option ">
+				<input name="admin_color" id="admin_color_coffee" type="radio" value="coffee" class="tog"  />
+				<input type="hidden" class="css_url" value="https://pascualbravo.ingejei.com/wp-admin/css/colors/coffee/colors.min.css" />
+				<input type="hidden" class="icon_colors" value="{&quot;icons&quot;:{&quot;base&quot;:&quot;#f3f2f1&quot;,&quot;focus&quot;:&quot;#fff&quot;,&quot;current&quot;:&quot;#fff&quot;}}" />
+				<label for="admin_color_coffee">Café</label>
+				<div class="color-palette">
+									<div class="color-palette-shade" style="background-color: #46403c">&nbsp;</div>
+										<div class="color-palette-shade" style="background-color: #59524c">&nbsp;</div>
+										<div class="color-palette-shade" style="background-color: #c7a589">&nbsp;</div>
+										<div class="color-palette-shade" style="background-color: #9ea476">&nbsp;</div>
+									</div>
+			</div>
+						<div class="color-option ">
+				<input name="admin_color" id="admin_color_ectoplasm" type="radio" value="ectoplasm" class="tog"  />
+				<input type="hidden" class="css_url" value="https://pascualbravo.ingejei.com/wp-admin/css/colors/ectoplasm/colors.min.css" />
+				<input type="hidden" class="icon_colors" value="{&quot;icons&quot;:{&quot;base&quot;:&quot;#ece6f6&quot;,&quot;focus&quot;:&quot;#fff&quot;,&quot;current&quot;:&quot;#fff&quot;}}" />
+				<label for="admin_color_ectoplasm">Ectoplasma</label>
+				<div class="color-palette">
+									<div class="color-palette-shade" style="background-color: #413256">&nbsp;</div>
+										<div class="color-palette-shade" style="background-color: #523f6d">&nbsp;</div>
+										<div class="color-palette-shade" style="background-color: #a3b745">&nbsp;</div>
+										<div class="color-palette-shade" style="background-color: #d46f15">&nbsp;</div>
+									</div>
+			</div>
+						<div class="color-option ">
+				<input name="admin_color" id="admin_color_midnight" type="radio" value="midnight" class="tog"  />
+				<input type="hidden" class="css_url" value="https://pascualbravo.ingejei.com/wp-admin/css/colors/midnight/colors.min.css" />
+				<input type="hidden" class="icon_colors" value="{&quot;icons&quot;:{&quot;base&quot;:&quot;#f1f2f3&quot;,&quot;focus&quot;:&quot;#fff&quot;,&quot;current&quot;:&quot;#fff&quot;}}" />
+				<label for="admin_color_midnight">Medianoche</label>
+				<div class="color-palette">
+									<div class="color-palette-shade" style="background-color: #25282b">&nbsp;</div>
+										<div class="color-palette-shade" style="background-color: #363b3f">&nbsp;</div>
+										<div class="color-palette-shade" style="background-color: #69a8bb">&nbsp;</div>
+										<div class="color-palette-shade" style="background-color: #e14d43">&nbsp;</div>
+									</div>
+			</div>
+						<div class="color-option selected">
+				<input name="admin_color" id="admin_color_ocean" type="radio" value="ocean" class="tog"  checked='checked' />
+				<input type="hidden" class="css_url" value="https://pascualbravo.ingejei.com/wp-admin/css/colors/ocean/colors.min.css" />
+				<input type="hidden" class="icon_colors" value="{&quot;icons&quot;:{&quot;base&quot;:&quot;#f2fcff&quot;,&quot;focus&quot;:&quot;#fff&quot;,&quot;current&quot;:&quot;#fff&quot;}}" />
+				<label for="admin_color_ocean">Océano</label>
+				<div class="color-palette">
+									<div class="color-palette-shade" style="background-color: #627c83">&nbsp;</div>
+										<div class="color-palette-shade" style="background-color: #738e96">&nbsp;</div>
+										<div class="color-palette-shade" style="background-color: #9ebaa0">&nbsp;</div>
+										<div class="color-palette-shade" style="background-color: #aa9d88">&nbsp;</div>
+									</div>
+			</div>
+						<div class="color-option ">
+				<input name="admin_color" id="admin_color_sunrise" type="radio" value="sunrise" class="tog"  />
+				<input type="hidden" class="css_url" value="https://pascualbravo.ingejei.com/wp-admin/css/colors/sunrise/colors.min.css" />
+				<input type="hidden" class="icon_colors" value="{&quot;icons&quot;:{&quot;base&quot;:&quot;#f3f1f1&quot;,&quot;focus&quot;:&quot;#fff&quot;,&quot;current&quot;:&quot;#fff&quot;}}" />
+				<label for="admin_color_sunrise">Amanecer</label>
+				<div class="color-palette">
+									<div class="color-palette-shade" style="background-color: #b43c38">&nbsp;</div>
+										<div class="color-palette-shade" style="background-color: #cf4944">&nbsp;</div>
+										<div class="color-palette-shade" style="background-color: #dd823b">&nbsp;</div>
+										<div class="color-palette-shade" style="background-color: #ccaf0b">&nbsp;</div>
+									</div>
+			</div>
+				</fieldset>
+							</td>
+					</tr>
+					
+										<tr class="user-comment-shortcuts-wrap">
+						<th scope="row">Atajos de teclado</th>
+						<td>
+							<label for="comment_shortcuts">
+								<input type="checkbox" name="comment_shortcuts" id="comment_shortcuts" value="true"  />
+								Activar los atajos del teclado para la moderación de comentarios.							</label>
+							<a href="https://wordpress.org/documentation/article/keyboard-shortcuts-classic-editor/#keyboard-shortcuts-for-comments">Documentación sobre los atajos de teclado</a>						</td>
+					</tr>
+					
+					<tr class="show-admin-bar user-admin-bar-front-wrap">
+						<th scope="row">Barra de herramientas</th>
+						<td>
+							<label for="admin_bar_front">
+								<input name="admin_bar_front" type="checkbox" id="admin_bar_front" value="1" checked='checked' />
+								Muestra la Barra de Herramientas en el sitio							</label><br />
+						</td>
+					</tr>
+
+															<tr class="user-language-wrap">
+						<th scope="row">
+														<label for="locale">Idioma<span class="dashicons dashicons-translation" aria-hidden="true"></span></label>
+						</th>
+						<td>
+							<select name="locale" id="locale"><optgroup label="Instalada">
+<option value="site-default" data-installed="1" selected='selected'>Predeterminado del sitio</option>
+<option value="" lang="en" data-installed="1">English (United States)</option>
+<option value="es_CO" lang="es" data-installed="1">Español de Colombia</option>
+</optgroup>
+<optgroup label="Disponible">
+<option value="af" lang="af">Afrikaans</option>
+<option value="am" lang="am">አማርኛ</option>
+<option value="arg" lang="an">Aragonés</option>
+<option value="ar" lang="ar">العربية</option>
+<option value="ary" lang="ar">العربية المغربية</option>
+<option value="as" lang="as">অসমীয়া</option>
+<option value="azb" lang="az">گؤنئی آذربایجان</option>
+<option value="az" lang="az">Azərbaycan dili</option>
+<option value="bel" lang="be">Беларуская мова</option>
+<option value="bg_BG" lang="bg">Български</option>
+<option value="bn_BD" lang="bn">বাংলা</option>
+<option value="bo" lang="bo">བོད་ཡིག</option>
+<option value="bs_BA" lang="bs">Bosanski</option>
+<option value="ca" lang="ca">Català</option>
+<option value="ceb" lang="ceb">Cebuano</option>
+<option value="cs_CZ" lang="cs">Čeština</option>
+<option value="cy" lang="cy">Cymraeg</option>
+<option value="da_DK" lang="da">Dansk</option>
+<option value="de_CH" lang="de">Deutsch (Schweiz)</option>
+<option value="de_CH_informal" lang="de">Deutsch (Schweiz, Du)</option>
+<option value="de_DE" lang="de">Deutsch</option>
+<option value="de_DE_formal" lang="de">Deutsch (Sie)</option>
+<option value="de_AT" lang="de">Deutsch (Österreich)</option>
+<option value="dsb" lang="dsb">Dolnoserbšćina</option>
+<option value="dzo" lang="dz">རྫོང་ཁ</option>
+<option value="el" lang="el">Ελληνικά</option>
+<option value="en_ZA" lang="en">English (South Africa)</option>
+<option value="en_CA" lang="en">English (Canada)</option>
+<option value="en_AU" lang="en">English (Australia)</option>
+<option value="en_NZ" lang="en">English (New Zealand)</option>
+<option value="en_GB" lang="en">English (UK)</option>
+<option value="eo" lang="eo">Esperanto</option>
+<option value="es_PE" lang="es">Español de Perú</option>
+<option value="es_MX" lang="es">Español de México</option>
+<option value="es_CR" lang="es">Español de Costa Rica</option>
+<option value="es_CL" lang="es">Español de Chile</option>
+<option value="es_ES" lang="es">Español</option>
+<option value="es_AR" lang="es">Español de Argentina</option>
+<option value="es_VE" lang="es">Español de Venezuela</option>
+<option value="es_EC" lang="es">Español de Ecuador</option>
+<option value="es_DO" lang="es">Español de República Dominicana</option>
+<option value="es_UY" lang="es">Español de Uruguay</option>
+<option value="es_PR" lang="es">Español de Puerto Rico</option>
+<option value="es_GT" lang="es">Español de Guatemala</option>
+<option value="et" lang="et">Eesti</option>
+<option value="eu" lang="eu">Euskara</option>
+<option value="fa_AF" lang="fa">(فارسی (افغانستان</option>
+<option value="fa_IR" lang="fa">فارسی</option>
+<option value="fi" lang="fi">Suomi</option>
+<option value="fr_CA" lang="fr">Français du Canada</option>
+<option value="fr_BE" lang="fr">Français de Belgique</option>
+<option value="fr_FR" lang="fr">Français</option>
+<option value="fur" lang="fur">Friulian</option>
+<option value="fy" lang="fy">Frysk</option>
+<option value="gd" lang="gd">Gàidhlig</option>
+<option value="gl_ES" lang="gl">Galego</option>
+<option value="gu" lang="gu">ગુજરાતી</option>
+<option value="haz" lang="haz">هزاره گی</option>
+<option value="he_IL" lang="he">עִבְרִית</option>
+<option value="hi_IN" lang="hi">हिन्दी</option>
+<option value="hr" lang="hr">Hrvatski</option>
+<option value="hsb" lang="hsb">Hornjoserbšćina</option>
+<option value="hu_HU" lang="hu">Magyar</option>
+<option value="hy" lang="hy">Հայերեն</option>
+<option value="id_ID" lang="id">Bahasa Indonesia</option>
+<option value="is_IS" lang="is">Íslenska</option>
+<option value="it_IT" lang="it">Italiano</option>
+<option value="ja" lang="ja">日本語</option>
+<option value="jv_ID" lang="jv">Basa Jawa</option>
+<option value="ka_GE" lang="ka">ქართული</option>
+<option value="kab" lang="kab">Taqbaylit</option>
+<option value="kk" lang="kk">Қазақ тілі</option>
+<option value="km" lang="km">ភាសាខ្មែរ</option>
+<option value="kn" lang="kn">ಕನ್ನಡ</option>
+<option value="ko_KR" lang="ko">한국어</option>
+<option value="ckb" lang="ku">كوردی‎</option>
+<option value="kir" lang="ky">Кыргызча</option>
+<option value="lo" lang="lo">ພາສາລາວ</option>
+<option value="lt_LT" lang="lt">Lietuvių kalba</option>
+<option value="lv" lang="lv">Latviešu valoda</option>
+<option value="mk_MK" lang="mk">Македонски јазик</option>
+<option value="ml_IN" lang="ml">മലയാളം</option>
+<option value="mn" lang="mn">Монгол</option>
+<option value="mr" lang="mr">मराठी</option>
+<option value="ms_MY" lang="ms">Bahasa Melayu</option>
+<option value="my_MM" lang="my">ဗမာစာ</option>
+<option value="nb_NO" lang="nb">Norsk bokmål</option>
+<option value="ne_NP" lang="ne">नेपाली</option>
+<option value="nl_NL_formal" lang="nl">Nederlands (Formeel)</option>
+<option value="nl_BE" lang="nl">Nederlands (België)</option>
+<option value="nl_NL" lang="nl">Nederlands</option>
+<option value="nn_NO" lang="nn">Norsk nynorsk</option>
+<option value="oci" lang="oc">Occitan</option>
+<option value="pa_IN" lang="pa">ਪੰਜਾਬੀ</option>
+<option value="pl_PL" lang="pl">Polski</option>
+<option value="ps" lang="ps">پښتو</option>
+<option value="pt_PT" lang="pt">Português</option>
+<option value="pt_AO" lang="pt">Português de Angola</option>
+<option value="pt_PT_ao90" lang="pt">Português (AO90)</option>
+<option value="pt_BR" lang="pt">Português do Brasil</option>
+<option value="rhg" lang="rhg">Ruáinga</option>
+<option value="ro_RO" lang="ro">Română</option>
+<option value="ru_RU" lang="ru">Русский</option>
+<option value="sah" lang="sah">Сахалыы</option>
+<option value="snd" lang="sd">سنڌي</option>
+<option value="si_LK" lang="si">සිංහල</option>
+<option value="sk_SK" lang="sk">Slovenčina</option>
+<option value="skr" lang="skr">سرائیکی</option>
+<option value="sl_SI" lang="sl">Slovenščina</option>
+<option value="sq" lang="sq">Shqip</option>
+<option value="sr_RS" lang="sr">Српски језик</option>
+<option value="sv_SE" lang="sv">Svenska</option>
+<option value="sw" lang="sw">Kiswahili</option>
+<option value="szl" lang="szl">Ślōnskŏ gŏdka</option>
+<option value="ta_IN" lang="ta">தமிழ்</option>
+<option value="ta_LK" lang="ta">தமிழ்</option>
+<option value="te" lang="te">తెలుగు</option>
+<option value="th" lang="th">ไทย</option>
+<option value="tl" lang="tl">Tagalog</option>
+<option value="tr_TR" lang="tr">Türkçe</option>
+<option value="tt_RU" lang="tt">Татар теле</option>
+<option value="tah" lang="ty">Reo Tahiti</option>
+<option value="ug_CN" lang="ug">ئۇيغۇرچە</option>
+<option value="uk" lang="uk">Українська</option>
+<option value="ur" lang="ur">اردو</option>
+<option value="uz_UZ" lang="uz">O‘zbekcha</option>
+<option value="vi" lang="vi">Tiếng Việt</option>
+<option value="zh_TW" lang="zh">繁體中文</option>
+<option value="zh_HK" lang="zh">香港中文</option>
+<option value="zh_CN" lang="zh">简体中文</option>
+</optgroup></select>						</td>
+					</tr>
+					
+					
+				</table>
+				
+				<h2>Nombre</h2>
+
+				<table class="form-table" role="presentation">
+					<tr class="user-user-login-wrap">
+						<th><label for="user_login">Nombre de usuario</label></th>
+						<td><input type="text" name="user_login" id="user_login" value="jeisim18@gmail.com" readonly="readonly" class="regular-text" /> <span class="description">El nombre de usuario no puede cambiarse.</span></td>
+					</tr>
+
+					
+					
+					<tr class="user-first-name-wrap">
+						<th><label for="first_name">Nombre</label></th>
+						<td><input type="text" name="first_name" id="first_name" value="" class="regular-text" /></td>
+					</tr>
+
+					<tr class="user-last-name-wrap">
+						<th><label for="last_name">Apellidos</label></th>
+						<td><input type="text" name="last_name" id="last_name" value="" class="regular-text" /></td>
+					</tr>
+
+					<tr class="user-nickname-wrap">
+						<th><label for="nickname">Alias <span class="description">(obligatorio)</span></label></th>
+						<td><input type="text" name="nickname" id="nickname" value="jeisim18@gmail.com" class="regular-text" /></td>
+					</tr>
+
+					<tr class="user-display-name-wrap">
+						<th>
+							<label for="display_name">Mostrar este nombre públicamente</label>
+						</th>
+						<td>
+							<select name="display_name" id="display_name">
+																									<option  selected='selected'>jeisim18@gmail.com</option>
+															</select>
+						</td>
+					</tr>
+				</table>
+
+				<h2>Información de contacto</h2>
+
+				<table class="form-table" role="presentation">
+					<tr class="user-email-wrap">
+						<th><label for="email">Correo electrónico <span class="description">(obligatorio)</span></label></th>
+						<td>
+															<input type="email" name="email" id="email" aria-describedby="email-description" value="jeisim18@gmail.com" class="regular-text ltr" />
+								<p class="description" id="email-description">
+									Si cambias esto, se te enviará un correo electrónico a tu nueva dirección para confirmarlo. <strong>La nueva dirección no se convertirá en la activa hasta que se confirme.</strong>								</p>
+							
+													</td>
+					</tr>
+
+					<tr class="user-url-wrap">
+						<th><label for="url">Web</label></th>
+						<td><input type="url" name="url" id="url" value="http://pascualbravo.ingejei.com" class="regular-text code" /></td>
+					</tr>
+
+									</table>
+
+				<h2>Acerca de ti</h2>
+
+				<table class="form-table" role="presentation">
+					<tr class="user-description-wrap">
+						<th><label for="description">Información biográfica</label></th>
+						<td><textarea name="description" id="description" rows="5" cols="30"></textarea>
+						<p class="description">Incluye alguna información biográfica en tu perfil. Podrá mostrarse públicamente.</p></td>
+					</tr>
+
+											<tr class="user-profile-picture">
+							<th>Imagen de perfil</th>
+							<td>
+								<img alt='' src='https://secure.gravatar.com/avatar/c8d3f679e34b5c994880165e7614b60e9732e51d4bd539cb81a039a5b6786b3c?s=96&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/c8d3f679e34b5c994880165e7614b60e9732e51d4bd539cb81a039a5b6786b3c?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' loading='lazy' decoding='async'/>								<p class="description">
+									<a href="https://gravatar.com/">Puedes cambiar la imagen de tu perfil en Gravatar</a>.								</p>
+							</td>
+						</tr>
+																					</table>
+
+						<h2>Gestión de la cuenta</h2>
+
+						<table class="form-table" role="presentation">
+							<tr id="password" class="user-pass1-wrap">
+								<th><label for="pass1">Nueva contraseña</label></th>
+								<td>
+									<input type="hidden" value=" " /><!-- #24364 workaround -->
+									<button type="button" class="button wp-generate-pw hide-if-no-js" aria-expanded="false">Establecer una nueva contraseña</button>
+									<div class="wp-pwd hide-if-js">
+										<div class="password-input-wrapper">
+											<input type="password" name="pass1" id="pass1" class="regular-text" value="" autocomplete="new-password" spellcheck="false" data-pw="gS)!&amp;O2vQhRwOR)Mw$kRYH$u" aria-describedby="pass-strength-result" />
+											<div style="display:none" id="pass-strength-result" aria-live="polite"></div>
+										</div>
+										<button type="button" class="button wp-hide-pw hide-if-no-js" data-toggle="0" aria-label="Ocultar contraseña">
+											<span class="dashicons dashicons-hidden" aria-hidden="true"></span>
+											<span class="text">Ocultar</span>
+										</button>
+										<button type="button" class="button wp-cancel-pw hide-if-no-js" data-toggle="0" aria-label="Cancelar el cambio de contraseña">
+											<span class="dashicons dashicons-no" aria-hidden="true"></span>
+											<span class="text">Cancelar</span>
+										</button>
+									</div>
+								</td>
+							</tr>
+							<tr class="user-pass2-wrap hide-if-js">
+								<th scope="row"><label for="pass2">Confirmar Nueva Contraseña </label></th>
+								<td>
+								<input type="password" name="pass2" id="pass2" class="regular-text" value="" autocomplete="new-password" spellcheck="false" aria-describedby="pass2-desc" />
+																			<p class="description" id="pass2-desc">Teclea tu nueva contraseña otra vez.</p>
+																	</td>
+							</tr>
+							<tr class="pw-weak">
+								<th>Confirma la contraseña</th>
+								<td>
+									<label>
+										<input type="checkbox" name="pw_weak" class="pw-checkbox" />
+										<span id="pw-weak-text-label">Confirma el uso de una contraseña débil.</span>
+									</label>
+								</td>
+							</tr>
+							
+														
+															<tr class="user-sessions-wrap hide-if-no-js">
+									<th>Sesiones</th>
+									<td aria-live="assertive">
+										<div class="destroy-sessions"><button type="button" class="button" id="destroy-sessions">Desconectar del resto de sitios</button></div>
+										<p class="description">
+											¿Has perdido tu teléfono o dejado tu cuenta abierta en un ordenador público? Puedes desconectarte de cualquier lugar y seguir conectado aquí.										</p>
+									</td>
+								</tr>
+													</table>
+
+					
+									<h2>Dirección de pedido del cliente</h2>
+				<table class="form-table" id="fieldset-billing">
+											<tr>
+							<th>
+								<label for="billing_first_name">Nombre</label>
+							</th>
+							<td>
+																	<input type="text" name="billing_first_name" id="billing_first_name" value="" class="regular-text" />
+																<p class="description"></p>
+							</td>
+						</tr>
+											<tr>
+							<th>
+								<label for="billing_last_name">Apellidos</label>
+							</th>
+							<td>
+																	<input type="text" name="billing_last_name" id="billing_last_name" value="" class="regular-text" />
+																<p class="description"></p>
+							</td>
+						</tr>
+											<tr>
+							<th>
+								<label for="billing_company">Empresa</label>
+							</th>
+							<td>
+																	<input type="text" name="billing_company" id="billing_company" value="" class="regular-text" />
+																<p class="description"></p>
+							</td>
+						</tr>
+											<tr>
+							<th>
+								<label for="billing_address_1">Dirección, línea 1</label>
+							</th>
+							<td>
+																	<input type="text" name="billing_address_1" id="billing_address_1" value="" class="regular-text" />
+																<p class="description"></p>
+							</td>
+						</tr>
+											<tr>
+							<th>
+								<label for="billing_address_2">Dirección, línea 2</label>
+							</th>
+							<td>
+																	<input type="text" name="billing_address_2" id="billing_address_2" value="" class="regular-text" />
+																<p class="description"></p>
+							</td>
+						</tr>
+											<tr>
+							<th>
+								<label for="billing_city">Ciudad</label>
+							</th>
+							<td>
+																	<input type="text" name="billing_city" id="billing_city" value="" class="regular-text" />
+																<p class="description"></p>
+							</td>
+						</tr>
+											<tr>
+							<th>
+								<label for="billing_postcode">Código postal</label>
+							</th>
+							<td>
+																	<input type="text" name="billing_postcode" id="billing_postcode" value="" class="regular-text" />
+																<p class="description"></p>
+							</td>
+						</tr>
+											<tr>
+							<th>
+								<label for="billing_country">País / Región</label>
+							</th>
+							<td>
+																	<select name="billing_country" id="billing_country" class="js_field-country" style="width: 25em;">
+																					<option value=""  selected='selected'>Selecciona un país/región&hellip;</option>
+																					<option value="AF" >Afganistán</option>
+																					<option value="AL" >Albania</option>
+																					<option value="DE" >Alemania</option>
+																					<option value="AD" >Andorra</option>
+																					<option value="AO" >Angola</option>
+																					<option value="AI" >Anguilla</option>
+																					<option value="AQ" >Antártida</option>
+																					<option value="AG" >Antigua y Barbuda</option>
+																					<option value="SA" >Arabia Saudita</option>
+																					<option value="DZ" >Argelia</option>
+																					<option value="AR" >Argentina</option>
+																					<option value="AM" >Armenia</option>
+																					<option value="AW" >Aruba</option>
+																					<option value="AU" >Australia</option>
+																					<option value="AT" >Austria</option>
+																					<option value="AZ" >Azerbaijan</option>
+																					<option value="BS" >Bahamas</option>
+																					<option value="BH" >Bahrain</option>
+																					<option value="BD" >Bangladesh</option>
+																					<option value="BB" >Barbados</option>
+																					<option value="PW" >Belau</option>
+																					<option value="BE" >Bélgica</option>
+																					<option value="BZ" >Belize</option>
+																					<option value="BJ" >Benin</option>
+																					<option value="BM" >Bermuda</option>
+																					<option value="BT" >Bhutan</option>
+																					<option value="BY" >Bielorrusia</option>
+																					<option value="MM" >Birmania</option>
+																					<option value="BO" >Bolivia</option>
+																					<option value="BQ" >Bonaire, San Eustaquio y Saba</option>
+																					<option value="BA" >Bosnia y Herzegovina</option>
+																					<option value="BW" >Botswana</option>
+																					<option value="BR" >Brasil</option>
+																					<option value="BN" >Brunéi</option>
+																					<option value="BG" >Bulgaria</option>
+																					<option value="BF" >Burkina Faso</option>
+																					<option value="BI" >Burundi</option>
+																					<option value="CV" >Cabo Verde</option>
+																					<option value="KH" >Camboya</option>
+																					<option value="CM" >Camerún</option>
+																					<option value="CA" >Canadá</option>
+																					<option value="TD" >Chad</option>
+																					<option value="CL" >Chile</option>
+																					<option value="CN" >China</option>
+																					<option value="CY" >Chipre</option>
+																					<option value="VA" >Ciudad del Vaticano</option>
+																					<option value="CO" >Colombia</option>
+																					<option value="KM" >Comoras</option>
+																					<option value="CG" >Congo (Brazzaville)</option>
+																					<option value="CD" >Congo (Kinshasa)</option>
+																					<option value="KP" >Corea del Norte</option>
+																					<option value="KR" >Corea del Sur</option>
+																					<option value="CI" >Costa de Marfil</option>
+																					<option value="CR" >Costa Rica</option>
+																					<option value="HR" >Croacia</option>
+																					<option value="CU" >Cuba</option>
+																					<option value="CW" >Cura&ccedil;ao</option>
+																					<option value="DK" >Dinamarca</option>
+																					<option value="DJ" >Djibouti</option>
+																					<option value="DM" >Dominica</option>
+																					<option value="EC" >Ecuador</option>
+																					<option value="EG" >Egipto</option>
+																					<option value="SV" >El Salvador</option>
+																					<option value="AE" >Emiratos Árabes Unidos</option>
+																					<option value="ER" >Eritrea</option>
+																					<option value="SK" >Eslovaquia</option>
+																					<option value="SI" >Eslovenia</option>
+																					<option value="ES" >España</option>
+																					<option value="US" >Estados Unidos (EEUU)</option>
+																					<option value="EE" >Estonia</option>
+																					<option value="SZ" >Esuatini</option>
+																					<option value="ET" >Etiopía</option>
+																					<option value="PH" >Filipinas</option>
+																					<option value="FI" >Finlandia</option>
+																					<option value="FJ" >Fiyi</option>
+																					<option value="FR" >Francia</option>
+																					<option value="GA" >Gabón</option>
+																					<option value="GM" >Gambia</option>
+																					<option value="GE" >Georgia</option>
+																					<option value="GH" >Ghana</option>
+																					<option value="GI" >Gibraltar</option>
+																					<option value="GD" >Granada</option>
+																					<option value="GR" >Grecia</option>
+																					<option value="GL" >Groenlandia</option>
+																					<option value="GP" >Guadalupe</option>
+																					<option value="GU" >Guam</option>
+																					<option value="GT" >Guatemala</option>
+																					<option value="GF" >Guayana Francesa</option>
+																					<option value="GG" >Guernsey</option>
+																					<option value="GN" >Guinea</option>
+																					<option value="GQ" >Guinea Ecuatorial</option>
+																					<option value="GW" >Guinea-Bisáu</option>
+																					<option value="GY" >Guyana</option>
+																					<option value="HT" >Haití</option>
+																					<option value="HN" >Honduras</option>
+																					<option value="HK" >Hong Kong</option>
+																					<option value="HU" >Hungría</option>
+																					<option value="IN" >India</option>
+																					<option value="ID" >Indonesia</option>
+																					<option value="IQ" >Irak</option>
+																					<option value="IR" >Irán</option>
+																					<option value="IE" >Irlanda</option>
+																					<option value="BV" >Isla Bouvet</option>
+																					<option value="IM" >Isla de Man</option>
+																					<option value="CX" >Isla de Navidad</option>
+																					<option value="NF" >Isla Norfolk</option>
+																					<option value="SH" >Isla Santa Elena</option>
+																					<option value="IS" >Islandia</option>
+																					<option value="AX" >Islas Åland</option>
+																					<option value="KY" >Islas Caimán</option>
+																					<option value="CC" >Islas Cocos</option>
+																					<option value="CK" >Islas Cook</option>
+																					<option value="UM" >Islas de ultramar menores de Estados Unidos (EEUU)</option>
+																					<option value="FO" >Islas Feroe</option>
+																					<option value="GS" >Islas Georgias y Sandwich del Sur</option>
+																					<option value="HM" >Islas Heard y McDonald</option>
+																					<option value="FK" >Islas Malvinas</option>
+																					<option value="MP" >Islas Marianas del Norte</option>
+																					<option value="MH" >Islas Marshall</option>
+																					<option value="SB" >Islas Salomón</option>
+																					<option value="TC" >Islas Turcas y Caicos</option>
+																					<option value="VG" >Islas Vírgenes (Británicas)</option>
+																					<option value="VI" >Islas Vírgenes (EEUU)</option>
+																					<option value="IL" >Israel</option>
+																					<option value="IT" >Italia</option>
+																					<option value="JM" >Jamaica</option>
+																					<option value="JP" >Japón</option>
+																					<option value="JE" >Jersey</option>
+																					<option value="JO" >Jordania</option>
+																					<option value="KZ" >Kazajistán</option>
+																					<option value="KE" >Kenia</option>
+																					<option value="KG" >Kirguistán</option>
+																					<option value="KI" >Kiribati</option>
+																					<option value="KW" >Kuwait</option>
+																					<option value="LA" >Laos</option>
+																					<option value="LS" >Lesoto</option>
+																					<option value="LV" >Letonia</option>
+																					<option value="LB" >Líbano</option>
+																					<option value="LR" >Liberia</option>
+																					<option value="LY" >Libia</option>
+																					<option value="LI" >Liechtenstein</option>
+																					<option value="LT" >Lituania</option>
+																					<option value="LU" >Luxemburgo</option>
+																					<option value="MO" >Macao</option>
+																					<option value="MK" >Macedonia del Norte</option>
+																					<option value="MG" >Madagascar</option>
+																					<option value="MY" >Malasia</option>
+																					<option value="MW" >Malaui</option>
+																					<option value="MV" >Maldivas</option>
+																					<option value="ML" >Malí</option>
+																					<option value="MT" >Malta</option>
+																					<option value="MA" >Marruecos</option>
+																					<option value="MQ" >Martinica</option>
+																					<option value="MU" >Mauricio</option>
+																					<option value="MR" >Mauritania</option>
+																					<option value="YT" >Mayotte</option>
+																					<option value="MX" >México</option>
+																					<option value="FM" >Micronesia</option>
+																					<option value="MD" >Moldavia</option>
+																					<option value="MC" >Mónaco</option>
+																					<option value="MN" >Mongolia</option>
+																					<option value="ME" >Montenegro</option>
+																					<option value="MS" >Montserrat</option>
+																					<option value="MZ" >Mozambique</option>
+																					<option value="NA" >Namibia</option>
+																					<option value="NR" >Nauru</option>
+																					<option value="NP" >Nepal</option>
+																					<option value="NI" >Nicaragua</option>
+																					<option value="NE" >Níger</option>
+																					<option value="NG" >Nigeria</option>
+																					<option value="NU" >Niue</option>
+																					<option value="NO" >Noruega</option>
+																					<option value="NC" >Nueva Caledonia</option>
+																					<option value="NZ" >Nueva Zelanda</option>
+																					<option value="OM" >Omán</option>
+																					<option value="NL" >Países Bajos</option>
+																					<option value="PK" >Pakistán</option>
+																					<option value="PA" >Panamá</option>
+																					<option value="PG" >Papúa Nueva Guinea</option>
+																					<option value="PY" >Paraguay</option>
+																					<option value="PE" >Perú</option>
+																					<option value="PN" >Pitcairn</option>
+																					<option value="PF" >Polinesia Francesa</option>
+																					<option value="PL" >Polonia</option>
+																					<option value="PT" >Portugal</option>
+																					<option value="PR" >Puerto Rico</option>
+																					<option value="QA" >Qatar</option>
+																					<option value="GB" >Reino Unido (UK)</option>
+																					<option value="CF" >República Centroafricana</option>
+																					<option value="CZ" >República Checa</option>
+																					<option value="DO" >República Dominicana</option>
+																					<option value="RE" >Reunión</option>
+																					<option value="RW" >Ruanda</option>
+																					<option value="RO" >Rumania</option>
+																					<option value="RU" >Rusia</option>
+																					<option value="EH" >Sahara Occidental</option>
+																					<option value="WS" >Samoa</option>
+																					<option value="AS" >Samoa Americana</option>
+																					<option value="BL" >San Bartolomé</option>
+																					<option value="KN" >San Cristóbal y Nieves</option>
+																					<option value="SM" >San Marino</option>
+																					<option value="MF" >San Martín (parte de Francia)</option>
+																					<option value="SX" >San Martín (parte de Holanda)</option>
+																					<option value="PM" >San Pedro y Miquelón</option>
+																					<option value="VC" >San Vicente y las Granadinas</option>
+																					<option value="LC" >Santa Lucía</option>
+																					<option value="ST" >Santo Tomé y Príncipe</option>
+																					<option value="SN" >Senegal</option>
+																					<option value="RS" >Serbia</option>
+																					<option value="SC" >Seychelles</option>
+																					<option value="SL" >Sierra Leona</option>
+																					<option value="SG" >Singapur</option>
+																					<option value="SY" >Siria</option>
+																					<option value="SO" >Somalia</option>
+																					<option value="LK" >Sri Lanka</option>
+																					<option value="ZA" >Sudáfrica</option>
+																					<option value="SD" >Sudán</option>
+																					<option value="SS" >Sudán del Sur</option>
+																					<option value="SE" >Suecia</option>
+																					<option value="CH" >Suiza</option>
+																					<option value="SR" >Surinam</option>
+																					<option value="SJ" >Svalbard y Jan Mayen</option>
+																					<option value="TH" >Tailandia</option>
+																					<option value="TW" >Taiwán</option>
+																					<option value="TZ" >Tanzania</option>
+																					<option value="TJ" >Tayikistán</option>
+																					<option value="IO" >Territorio Británico del Océano Índico</option>
+																					<option value="TF" >Territorios australes franceses</option>
+																					<option value="PS" >Territorios Palestinos</option>
+																					<option value="TL" >Timor Oriental</option>
+																					<option value="TG" >Togo</option>
+																					<option value="TK" >Tokelau</option>
+																					<option value="TO" >Tonga</option>
+																					<option value="TT" >Trinidad y Tobago</option>
+																					<option value="TN" >Túnez</option>
+																					<option value="TM" >Turkmenistán</option>
+																					<option value="TR" >Turquía</option>
+																					<option value="TV" >Tuvalu</option>
+																					<option value="UA" >Ucrania</option>
+																					<option value="UG" >Uganda</option>
+																					<option value="UY" >Uruguay</option>
+																					<option value="UZ" >Uzbekistán</option>
+																					<option value="VU" >Vanuatu</option>
+																					<option value="VE" >Venezuela</option>
+																					<option value="VN" >Vietnam</option>
+																					<option value="WF" >Wallis y Futuna</option>
+																					<option value="YE" >Yemen</option>
+																					<option value="ZM" >Zambia</option>
+																					<option value="ZW" >Zimbabue</option>
+																			</select>
+																<p class="description"></p>
+							</td>
+						</tr>
+											<tr>
+							<th>
+								<label for="billing_state">Estado / Municipio</label>
+							</th>
+							<td>
+																	<input type="text" name="billing_state" id="billing_state" value="" class="js_field-state" />
+																<p class="description">Código del estado o región</p>
+							</td>
+						</tr>
+											<tr>
+							<th>
+								<label for="billing_phone">Teléfono</label>
+							</th>
+							<td>
+																	<input type="text" name="billing_phone" id="billing_phone" value="" class="regular-text" />
+																<p class="description"></p>
+							</td>
+						</tr>
+											<tr>
+							<th>
+								<label for="billing_email">Dirección de correo electrónico</label>
+							</th>
+							<td>
+																	<input type="text" name="billing_email" id="billing_email" value="jeisim18@gmail.com" class="regular-text" />
+																<p class="description"></p>
+							</td>
+						</tr>
+									</table>
+								<h2>Dirección de envío del cliente</h2>
+				<table class="form-table" id="fieldset-shipping">
+											<tr>
+							<th>
+								<label for="copy_billing">Copiar de la dirección de facturación</label>
+							</th>
+							<td>
+																	<button type="button" id="copy_billing" class="button js_copy-billing">Copiar</button>
+																<p class="description"></p>
+							</td>
+						</tr>
+											<tr>
+							<th>
+								<label for="shipping_first_name">Nombre</label>
+							</th>
+							<td>
+																	<input type="text" name="shipping_first_name" id="shipping_first_name" value="" class="regular-text" />
+																<p class="description"></p>
+							</td>
+						</tr>
+											<tr>
+							<th>
+								<label for="shipping_last_name">Apellidos</label>
+							</th>
+							<td>
+																	<input type="text" name="shipping_last_name" id="shipping_last_name" value="" class="regular-text" />
+																<p class="description"></p>
+							</td>
+						</tr>
+											<tr>
+							<th>
+								<label for="shipping_company">Empresa</label>
+							</th>
+							<td>
+																	<input type="text" name="shipping_company" id="shipping_company" value="" class="regular-text" />
+																<p class="description"></p>
+							</td>
+						</tr>
+											<tr>
+							<th>
+								<label for="shipping_address_1">Dirección, línea 1</label>
+							</th>
+							<td>
+																	<input type="text" name="shipping_address_1" id="shipping_address_1" value="" class="regular-text" />
+																<p class="description"></p>
+							</td>
+						</tr>
+											<tr>
+							<th>
+								<label for="shipping_address_2">Dirección, línea 2</label>
+							</th>
+							<td>
+																	<input type="text" name="shipping_address_2" id="shipping_address_2" value="" class="regular-text" />
+																<p class="description"></p>
+							</td>
+						</tr>
+											<tr>
+							<th>
+								<label for="shipping_city">Ciudad</label>
+							</th>
+							<td>
+																	<input type="text" name="shipping_city" id="shipping_city" value="" class="regular-text" />
+																<p class="description"></p>
+							</td>
+						</tr>
+											<tr>
+							<th>
+								<label for="shipping_postcode">Código postal</label>
+							</th>
+							<td>
+																	<input type="text" name="shipping_postcode" id="shipping_postcode" value="" class="regular-text" />
+																<p class="description"></p>
+							</td>
+						</tr>
+											<tr>
+							<th>
+								<label for="shipping_country">País / Región</label>
+							</th>
+							<td>
+																	<select name="shipping_country" id="shipping_country" class="js_field-country" style="width: 25em;">
+																					<option value=""  selected='selected'>Selecciona un país/región&hellip;</option>
+																					<option value="AF" >Afganistán</option>
+																					<option value="AL" >Albania</option>
+																					<option value="DE" >Alemania</option>
+																					<option value="AD" >Andorra</option>
+																					<option value="AO" >Angola</option>
+																					<option value="AI" >Anguilla</option>
+																					<option value="AQ" >Antártida</option>
+																					<option value="AG" >Antigua y Barbuda</option>
+																					<option value="SA" >Arabia Saudita</option>
+																					<option value="DZ" >Argelia</option>
+																					<option value="AR" >Argentina</option>
+																					<option value="AM" >Armenia</option>
+																					<option value="AW" >Aruba</option>
+																					<option value="AU" >Australia</option>
+																					<option value="AT" >Austria</option>
+																					<option value="AZ" >Azerbaijan</option>
+																					<option value="BS" >Bahamas</option>
+																					<option value="BH" >Bahrain</option>
+																					<option value="BD" >Bangladesh</option>
+																					<option value="BB" >Barbados</option>
+																					<option value="PW" >Belau</option>
+																					<option value="BE" >Bélgica</option>
+																					<option value="BZ" >Belize</option>
+																					<option value="BJ" >Benin</option>
+																					<option value="BM" >Bermuda</option>
+																					<option value="BT" >Bhutan</option>
+																					<option value="BY" >Bielorrusia</option>
+																					<option value="MM" >Birmania</option>
+																					<option value="BO" >Bolivia</option>
+																					<option value="BQ" >Bonaire, San Eustaquio y Saba</option>
+																					<option value="BA" >Bosnia y Herzegovina</option>
+																					<option value="BW" >Botswana</option>
+																					<option value="BR" >Brasil</option>
+																					<option value="BN" >Brunéi</option>
+																					<option value="BG" >Bulgaria</option>
+																					<option value="BF" >Burkina Faso</option>
+																					<option value="BI" >Burundi</option>
+																					<option value="CV" >Cabo Verde</option>
+																					<option value="KH" >Camboya</option>
+																					<option value="CM" >Camerún</option>
+																					<option value="CA" >Canadá</option>
+																					<option value="TD" >Chad</option>
+																					<option value="CL" >Chile</option>
+																					<option value="CN" >China</option>
+																					<option value="CY" >Chipre</option>
+																					<option value="VA" >Ciudad del Vaticano</option>
+																					<option value="CO" >Colombia</option>
+																					<option value="KM" >Comoras</option>
+																					<option value="CG" >Congo (Brazzaville)</option>
+																					<option value="CD" >Congo (Kinshasa)</option>
+																					<option value="KP" >Corea del Norte</option>
+																					<option value="KR" >Corea del Sur</option>
+																					<option value="CI" >Costa de Marfil</option>
+																					<option value="CR" >Costa Rica</option>
+																					<option value="HR" >Croacia</option>
+																					<option value="CU" >Cuba</option>
+																					<option value="CW" >Cura&ccedil;ao</option>
+																					<option value="DK" >Dinamarca</option>
+																					<option value="DJ" >Djibouti</option>
+																					<option value="DM" >Dominica</option>
+																					<option value="EC" >Ecuador</option>
+																					<option value="EG" >Egipto</option>
+																					<option value="SV" >El Salvador</option>
+																					<option value="AE" >Emiratos Árabes Unidos</option>
+																					<option value="ER" >Eritrea</option>
+																					<option value="SK" >Eslovaquia</option>
+																					<option value="SI" >Eslovenia</option>
+																					<option value="ES" >España</option>
+																					<option value="US" >Estados Unidos (EEUU)</option>
+																					<option value="EE" >Estonia</option>
+																					<option value="SZ" >Esuatini</option>
+																					<option value="ET" >Etiopía</option>
+																					<option value="PH" >Filipinas</option>
+																					<option value="FI" >Finlandia</option>
+																					<option value="FJ" >Fiyi</option>
+																					<option value="FR" >Francia</option>
+																					<option value="GA" >Gabón</option>
+																					<option value="GM" >Gambia</option>
+																					<option value="GE" >Georgia</option>
+																					<option value="GH" >Ghana</option>
+																					<option value="GI" >Gibraltar</option>
+																					<option value="GD" >Granada</option>
+																					<option value="GR" >Grecia</option>
+																					<option value="GL" >Groenlandia</option>
+																					<option value="GP" >Guadalupe</option>
+																					<option value="GU" >Guam</option>
+																					<option value="GT" >Guatemala</option>
+																					<option value="GF" >Guayana Francesa</option>
+																					<option value="GG" >Guernsey</option>
+																					<option value="GN" >Guinea</option>
+																					<option value="GQ" >Guinea Ecuatorial</option>
+																					<option value="GW" >Guinea-Bisáu</option>
+																					<option value="GY" >Guyana</option>
+																					<option value="HT" >Haití</option>
+																					<option value="HN" >Honduras</option>
+																					<option value="HK" >Hong Kong</option>
+																					<option value="HU" >Hungría</option>
+																					<option value="IN" >India</option>
+																					<option value="ID" >Indonesia</option>
+																					<option value="IQ" >Irak</option>
+																					<option value="IR" >Irán</option>
+																					<option value="IE" >Irlanda</option>
+																					<option value="BV" >Isla Bouvet</option>
+																					<option value="IM" >Isla de Man</option>
+																					<option value="CX" >Isla de Navidad</option>
+																					<option value="NF" >Isla Norfolk</option>
+																					<option value="SH" >Isla Santa Elena</option>
+																					<option value="IS" >Islandia</option>
+																					<option value="AX" >Islas Åland</option>
+																					<option value="KY" >Islas Caimán</option>
+																					<option value="CC" >Islas Cocos</option>
+																					<option value="CK" >Islas Cook</option>
+																					<option value="UM" >Islas de ultramar menores de Estados Unidos (EEUU)</option>
+																					<option value="FO" >Islas Feroe</option>
+																					<option value="GS" >Islas Georgias y Sandwich del Sur</option>
+																					<option value="HM" >Islas Heard y McDonald</option>
+																					<option value="FK" >Islas Malvinas</option>
+																					<option value="MP" >Islas Marianas del Norte</option>
+																					<option value="MH" >Islas Marshall</option>
+																					<option value="SB" >Islas Salomón</option>
+																					<option value="TC" >Islas Turcas y Caicos</option>
+																					<option value="VG" >Islas Vírgenes (Británicas)</option>
+																					<option value="VI" >Islas Vírgenes (EEUU)</option>
+																					<option value="IL" >Israel</option>
+																					<option value="IT" >Italia</option>
+																					<option value="JM" >Jamaica</option>
+																					<option value="JP" >Japón</option>
+																					<option value="JE" >Jersey</option>
+																					<option value="JO" >Jordania</option>
+																					<option value="KZ" >Kazajistán</option>
+																					<option value="KE" >Kenia</option>
+																					<option value="KG" >Kirguistán</option>
+																					<option value="KI" >Kiribati</option>
+																					<option value="KW" >Kuwait</option>
+																					<option value="LA" >Laos</option>
+																					<option value="LS" >Lesoto</option>
+																					<option value="LV" >Letonia</option>
+																					<option value="LB" >Líbano</option>
+																					<option value="LR" >Liberia</option>
+																					<option value="LY" >Libia</option>
+																					<option value="LI" >Liechtenstein</option>
+																					<option value="LT" >Lituania</option>
+																					<option value="LU" >Luxemburgo</option>
+																					<option value="MO" >Macao</option>
+																					<option value="MK" >Macedonia del Norte</option>
+																					<option value="MG" >Madagascar</option>
+																					<option value="MY" >Malasia</option>
+																					<option value="MW" >Malaui</option>
+																					<option value="MV" >Maldivas</option>
+																					<option value="ML" >Malí</option>
+																					<option value="MT" >Malta</option>
+																					<option value="MA" >Marruecos</option>
+																					<option value="MQ" >Martinica</option>
+																					<option value="MU" >Mauricio</option>
+																					<option value="MR" >Mauritania</option>
+																					<option value="YT" >Mayotte</option>
+																					<option value="MX" >México</option>
+																					<option value="FM" >Micronesia</option>
+																					<option value="MD" >Moldavia</option>
+																					<option value="MC" >Mónaco</option>
+																					<option value="MN" >Mongolia</option>
+																					<option value="ME" >Montenegro</option>
+																					<option value="MS" >Montserrat</option>
+																					<option value="MZ" >Mozambique</option>
+																					<option value="NA" >Namibia</option>
+																					<option value="NR" >Nauru</option>
+																					<option value="NP" >Nepal</option>
+																					<option value="NI" >Nicaragua</option>
+																					<option value="NE" >Níger</option>
+																					<option value="NG" >Nigeria</option>
+																					<option value="NU" >Niue</option>
+																					<option value="NO" >Noruega</option>
+																					<option value="NC" >Nueva Caledonia</option>
+																					<option value="NZ" >Nueva Zelanda</option>
+																					<option value="OM" >Omán</option>
+																					<option value="NL" >Países Bajos</option>
+																					<option value="PK" >Pakistán</option>
+																					<option value="PA" >Panamá</option>
+																					<option value="PG" >Papúa Nueva Guinea</option>
+																					<option value="PY" >Paraguay</option>
+																					<option value="PE" >Perú</option>
+																					<option value="PN" >Pitcairn</option>
+																					<option value="PF" >Polinesia Francesa</option>
+																					<option value="PL" >Polonia</option>
+																					<option value="PT" >Portugal</option>
+																					<option value="PR" >Puerto Rico</option>
+																					<option value="QA" >Qatar</option>
+																					<option value="GB" >Reino Unido (UK)</option>
+																					<option value="CF" >República Centroafricana</option>
+																					<option value="CZ" >República Checa</option>
+																					<option value="DO" >República Dominicana</option>
+																					<option value="RE" >Reunión</option>
+																					<option value="RW" >Ruanda</option>
+																					<option value="RO" >Rumania</option>
+																					<option value="RU" >Rusia</option>
+																					<option value="EH" >Sahara Occidental</option>
+																					<option value="WS" >Samoa</option>
+																					<option value="AS" >Samoa Americana</option>
+																					<option value="BL" >San Bartolomé</option>
+																					<option value="KN" >San Cristóbal y Nieves</option>
+																					<option value="SM" >San Marino</option>
+																					<option value="MF" >San Martín (parte de Francia)</option>
+																					<option value="SX" >San Martín (parte de Holanda)</option>
+																					<option value="PM" >San Pedro y Miquelón</option>
+																					<option value="VC" >San Vicente y las Granadinas</option>
+																					<option value="LC" >Santa Lucía</option>
+																					<option value="ST" >Santo Tomé y Príncipe</option>
+																					<option value="SN" >Senegal</option>
+																					<option value="RS" >Serbia</option>
+																					<option value="SC" >Seychelles</option>
+																					<option value="SL" >Sierra Leona</option>
+																					<option value="SG" >Singapur</option>
+																					<option value="SY" >Siria</option>
+																					<option value="SO" >Somalia</option>
+																					<option value="LK" >Sri Lanka</option>
+																					<option value="ZA" >Sudáfrica</option>
+																					<option value="SD" >Sudán</option>
+																					<option value="SS" >Sudán del Sur</option>
+																					<option value="SE" >Suecia</option>
+																					<option value="CH" >Suiza</option>
+																					<option value="SR" >Surinam</option>
+																					<option value="SJ" >Svalbard y Jan Mayen</option>
+																					<option value="TH" >Tailandia</option>
+																					<option value="TW" >Taiwán</option>
+																					<option value="TZ" >Tanzania</option>
+																					<option value="TJ" >Tayikistán</option>
+																					<option value="IO" >Territorio Británico del Océano Índico</option>
+																					<option value="TF" >Territorios australes franceses</option>
+																					<option value="PS" >Territorios Palestinos</option>
+																					<option value="TL" >Timor Oriental</option>
+																					<option value="TG" >Togo</option>
+																					<option value="TK" >Tokelau</option>
+																					<option value="TO" >Tonga</option>
+																					<option value="TT" >Trinidad y Tobago</option>
+																					<option value="TN" >Túnez</option>
+																					<option value="TM" >Turkmenistán</option>
+																					<option value="TR" >Turquía</option>
+																					<option value="TV" >Tuvalu</option>
+																					<option value="UA" >Ucrania</option>
+																					<option value="UG" >Uganda</option>
+																					<option value="UY" >Uruguay</option>
+																					<option value="UZ" >Uzbekistán</option>
+																					<option value="VU" >Vanuatu</option>
+																					<option value="VE" >Venezuela</option>
+																					<option value="VN" >Vietnam</option>
+																					<option value="WF" >Wallis y Futuna</option>
+																					<option value="YE" >Yemen</option>
+																					<option value="ZM" >Zambia</option>
+																					<option value="ZW" >Zimbabue</option>
+																			</select>
+																<p class="description"></p>
+							</td>
+						</tr>
+											<tr>
+							<th>
+								<label for="shipping_state">Estado / Municipio</label>
+							</th>
+							<td>
+																	<input type="text" name="shipping_state" id="shipping_state" value="" class="js_field-state" />
+																<p class="description">Código del estado o región</p>
+							</td>
+						</tr>
+											<tr>
+							<th>
+								<label for="shipping_phone">Teléfono</label>
+							</th>
+							<td>
+																	<input type="text" name="shipping_phone" id="shipping_phone" value="" class="regular-text" />
+																<p class="description"></p>
+							</td>
+						</tr>
+									</table>
+				
+					
+				
+				<input type="hidden" name="action" value="update" />
+				<input type="hidden" name="user_id" id="user_id" value="1" />
+
+				<p class="submit"><input type="submit" name="submit" id="submit" class="button button-primary" value="Actualizar perfil"  /></p>
+			</form>
+		</div>
+		<script type="text/javascript">
+	if (window.location.hash == '#password') {
+		document.getElementById('pass1').focus();
+	}
+</script>
+
+<script type="text/javascript">
+	jQuery( function( $ ) {
+		var languageSelect = $( '#locale' );
+		$( 'form' ).on( 'submit', function() {
+			/*
+			 * Don't show a spinner for English and installed languages,
+			 * as there is nothing to download.
+			 */
+			if ( ! languageSelect.find( 'option:selected' ).data( 'installed' ) ) {
+				$( '#submit', this ).after( '<span class="spinner language-install-spinner is-active" />' );
+			}
+		});
+	} );
+</script>
+
+
+<div class="clear"></div></div><!-- wpbody-content -->
+<div class="clear"></div></div><!-- wpbody -->
+<div class="clear"></div></div><!-- wpcontent -->
+
+<div id="wpfooter" role="contentinfo">
+		<p id="footer-left" class="alignleft">
+		<span id="footer-thankyou">Gracias por crear con <a href="https://es-co.wordpress.org/">WordPress</a>.</span>	</p>
+	<p id="footer-upgrade" class="alignright">
+		Versión 6.8.1	</p>
+	<div class="clear"></div>
+</div>
+		<div id="vue-app"></div>
+				<!-- WooCommerce Tracks -->
+		<script type="text/javascript">
+			window.wcTracks = window.wcTracks || {};
+			window.wcTracks.isEnabled = false;
+			window._tkq = window._tkq || [];
+
+						window.wcTracks.validateEvent = function( eventName, props = {} ) {
+				let isValid = true;
+				if ( ! /^(([a-z0-9]+)_){1}([a-z0-9_]+)$/.test( eventName ) ) {
+					if ( false ) {
+						/* eslint-disable no-console */
+						console.error(
+							`A valid event name must be specified. The event name: "${ eventName }" is not valid.`
+						);
+						/* eslint-enable no-console */
+					}
+					isValid = false;
+				}
+				for ( const prop of Object.keys( props ) ) {
+					if ( ! /^[a-z_][a-z0-9_]*$/.test( prop ) ) {
+						if ( false ) {
+							/* eslint-disable no-console */
+							console.error(
+								`A valid prop name must be specified. The property name: "${ prop }" is not valid.`
+							);
+							/* eslint-enable no-console */
+						}
+						isValid = false;
+					}
+				}
+				return isValid;
+			}
+			window.wcTracks.recordEvent = function( name, properties ) {
+				if ( ! window.wcTracks.isEnabled ) {
+					return;
+				}
+
+				const eventName = 'wcadmin_' + name;
+				let eventProperties = properties || {};
+				eventProperties = { ...eventProperties, ...{"_via_ua":"curl\/8.12.1","_via_ip":"167.0.168.129","_lg":"","_dr":"","_dl":"https:\/\/pascualbravo.ingejei.com\/wp-admin\/profile.php","url":"https:\/\/pascualbravo.ingejei.com","blog_lang":"es_CO","blog_id":false,"store_id":"3d1b88f4-7253-4885-a611-a4a4a3a129b4","products_count":"25","wc_version":"9.8.5","role":"administrator","can_install_plugins":true,"can_activate_plugins":true,"can_manage_woocommerce":true,"coming_soon":"store"} };
+				if ( window.wp && window.wp.hooks && window.wp.hooks.applyFilters ) {
+					eventProperties = window.wp.hooks.applyFilters( 'woocommerce_tracks_client_event_properties', eventProperties, eventName );
+					delete( eventProperties._ui );
+					delete( eventProperties._ut );
+				}
+
+				if ( ! window.wcTracks.validateEvent( eventName, eventProperties ) ) {
+					return;
+				}
+				window._tkq.push( [ 'recordEvent', eventName, eventProperties ] );
+			}
+		</script>
+				<script type="text/javascript">
+			window.wcTracks.enable = function( callback ) {
+				window.wcTracks.isEnabled = true;
+
+				var scriptUrl = 'https://stats.wp.com/w.js';
+				var existingScript = document.querySelector( `script[src="${ scriptUrl }"]` );
+				if ( existingScript ) {
+					return;
+				}
+
+				var script = document.createElement('script');
+				script.src = scriptUrl;
+				document.body.append(script);
+
+				// Callback after scripts have loaded.
+				script.onload = function() {
+					if ( 'function' === typeof callback ) {
+						callback( true );
+					}
+				}
+
+				// Callback triggered if the script fails to load.
+				script.onerror = function() {
+					if ( 'function' === typeof callback ) {
+						callback( false );
+					}
+				}
+			}
+		</script>
+			<div id="wp-auth-check-wrap" class="hidden">
+	<div id="wp-auth-check-bg"></div>
+	<div id="wp-auth-check">
+	<button type="button" class="wp-auth-check-close button-link"><span class="screen-reader-text">
+		Cerrar diálogo	</span></button>
+			<div id="wp-auth-check-form" class="loading" data-src="https://pascualbravo.ingejei.com/wp-login.php?interim-login=1&#038;wp_lang=es_CO"></div>
+			<div class="wp-auth-fallback">
+		<p><b class="wp-auth-fallback-expired" tabindex="0">Sesión caducada</b></p>
+		<p><a href="https://pascualbravo.ingejei.com/wp-login.php" target="_blank">Por favor, accede de nuevo.</a>
+		La página de inicio de sesión abrirá en una nueva pestaña. Luego de iniciar sesión puedes cerrarla y volver a esta página.</p>
+	</div>
+	</div>
+	</div>
+	<script src='https://pascualbravo.ingejei.com/wp-admin/load-scripts.php?c=0&amp;load%5Bchunk_0%5D=hoverIntent,wp-dom-ready&amp;ver=6.8.1'></script>
+<script id="wp-a11y-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2025-04-03 03:45:05+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"es_CO"},"Notifications":["Notificaciones"]}},"comment":{"reference":"wp-includes\/js\/dist\/a11y.js"}} );
+</script>
+<script src="https://pascualbravo.ingejei.com/wp-includes/js/dist/a11y.min.js?ver=3156534cc54473497e14" id="wp-a11y-js"></script>
+<script id="common-js-extra">
+var bulkActionObserverIds = {"bulk_action":"action","changeit":"new_role"};
+</script>
+<script id="common-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2025-04-29 19:32:31+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"es_CO"},"Screen Options updated.":["Opciones de pantalla actualizadas."],"%1$s is deprecated since version %2$s with no alternative available.":["%1$s est\u00e1 obsoleta desde la versi\u00f3n %2$s sin una alternativa disponible."],"%1$s is deprecated since version %2$s! Use %3$s instead.":["\u00a1%1$s est\u00e1 obsoleta desde la versi\u00f3n %2$s! Usa %3$s en su lugar."],"Please select at least one item to perform this action on.":["Por favor, elige al menos un elemento para realizar esta acci\u00f3n."],"Expand Main menu":["Ampliar el men\u00fa principal"],"Dismiss this notice.":["Descartar este aviso."],"You are about to permanently delete these items from your site.\nThis action cannot be undone.\n'Cancel' to stop, 'OK' to delete.":["Est\u00e1s a punto de eliminar permanentemente estos elementos de tu sitio.\nEsta acci\u00f3n no se puede deshacer.\n\u00abCancelar\u00bb para detener, \u00abAceptar\u00bb para eliminarlos."],"Collapse Main menu":["Contraer el men\u00fa principal"]}},"comment":{"reference":"wp-admin\/js\/common.js"}} );
+</script>
+<script src="https://pascualbravo.ingejei.com/wp-admin/js/common.min.js?ver=6.8.1" id="common-js"></script>
+<script src="https://pascualbravo.ingejei.com/wp-includes/js/hoverintent-js.min.js?ver=2.2.1" id="hoverintent-js-js"></script>
+<script src="https://pascualbravo.ingejei.com/wp-includes/js/admin-bar.min.js?ver=6.8.1" id="admin-bar-js"></script>
+<script src="https://pascualbravo.ingejei.com/wp-includes/js/clipboard.min.js?ver=2.0.11" id="clipboard-js"></script>
+<script id="password-strength-meter-js-extra">
+var pwsL10n = {"unknown":"Fortaleza de contrase\u00f1a desconocida","short":"Muy d\u00e9bil","bad":"D\u00e9bil","good":"Medio","strong":"Fuerte","mismatch":"No coinciden"};
+</script>
+<script id="password-strength-meter-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2025-04-29 19:32:31+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"es_CO"},"%1$s is deprecated since version %2$s! Use %3$s instead. Please consider writing more inclusive code.":["\u00a1%1$s est\u00e1 obsoleto desde la versi\u00f3n %2$s! Usa %3$s en su lugar. Por favor, plant\u00e9ate escribir un c\u00f3digo m\u00e1s inclusivo."]}},"comment":{"reference":"wp-admin\/js\/password-strength-meter.js"}} );
+</script>
+<script src="https://pascualbravo.ingejei.com/wp-admin/js/password-strength-meter.min.js?ver=6.8.1" id="password-strength-meter-js"></script>
+<script src="https://pascualbravo.ingejei.com/wp-includes/js/underscore.min.js?ver=1.13.7" id="underscore-js"></script>
+<script id="wp-util-js-extra">
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+</script>
+<script src="https://pascualbravo.ingejei.com/wp-includes/js/wp-util.min.js?ver=6.8.1" id="wp-util-js"></script>
+<script id="user-profile-js-extra">
+var userProfileL10n = {"user_id":"0","nonce":"53d56c703f"};
+</script>
+<script id="user-profile-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2025-04-29 19:32:31+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"es_CO"},"Application password has been copied to your clipboard.":["La contrase\u00f1a de la aplicaci\u00f3n se ha copiado a tu portapapeles."],"Your new password has not been saved.":["No ha sido guardada tu nueva contrase\u00f1a."],"Hide":["Ocultar"],"Confirm use of weak password":["Confirma el uso de una contrase\u00f1a d\u00e9bil."],"Hide password":["Ocultar contrase\u00f1a"],"Show password":["Mostrar contrase\u00f1a"],"Show":["Mostrar"],"The changes you made will be lost if you navigate away from this page.":["Los cambios realizados se perder\u00e1n si sales de esta p\u00e1gina."]}},"comment":{"reference":"wp-admin\/js\/user-profile.js"}} );
+</script>
+<script src="https://pascualbravo.ingejei.com/wp-admin/js/user-profile.min.js?ver=6.8.1" id="user-profile-js"></script>
+<script src="https://pascualbravo.ingejei.com/wp-admin/js/svg-painter.js?ver=6.8.1" id="svg-painter-js"></script>
+<script id="heartbeat-js-extra">
+var heartbeatSettings = {"nonce":"c2d7581664"};
+</script>
+<script src="https://pascualbravo.ingejei.com/wp-includes/js/heartbeat.min.js?ver=6.8.1" id="heartbeat-js"></script>
+<script id="wp-auth-check-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2025-04-03 03:45:05+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"es_CO"},"Your session has expired. You can log in again from this page or go to the login page.":["Tu sesi\u00f3n ha caducado. Puedes identificarte otra vez desde esta p\u00e1gina o ir a la p\u00e1gina de identificaci\u00f3n."]}},"comment":{"reference":"wp-includes\/js\/wp-auth-check.js"}} );
+</script>
+<script src="https://pascualbravo.ingejei.com/wp-includes/js/wp-auth-check.min.js?ver=6.8.1" id="wp-auth-check-js"></script>
+<script id="hostinger_chatbot-js-extra">
+var hostingerChatbot = {"main":{"intro":"Hi, I&#039;m Kodee, your personal AI assistant. You can ask me any questions you have regarding WordPress. I&#039;m still learning, so sometimes can make mistakes. What questions do you have?","title":"Kodee","beta_badge":"Beta","tooltip_feedback":"Leave feedback","tooltip_reset":"Restart chatbot","tooltip_close":"Close","question_input_placeholder":"Write your question","disclaimer":"AI may produce inaccurate information","button":"Ask AI"},"modal_feedback":{"title":"Rate your experience using Kodee","question":"Share Your Experience","score_poor":"Poor","score_excellent":"Excellent","comment_placeholder":"Write your feedback","confirm_button":"Send","thanks_message":"Thank you for your feedback"},"modal_restart":{"title":"Clear chat","description":"Please note that all chat messages will be permanently deleted. This action cannot be undone. Proceeding will result in the removal of all messages from this chat session.","cancel_button":"Cancel","confirm_button":"Clear chat"},"error":{"unavailable":"Sorry, the AI Chatbot is currently unavailable. Please try again later.","unclear_question":"I&#039;m sorry, I didn&#039;t understand your question. Could you please rephrase it or ask something different?"},"nonce":"303afa740e","chatbot_uri":"https:\/\/pascualbravo.ingejei.com\/wp-json\/","user_id":"1"};
+</script>
+<script src="https://pascualbravo.ingejei.com/wp-content/plugins/hostinger-ai-assistant/assets/js/hostinger-chatbot.js?ver=2.0.37" id="hostinger_chatbot-js" data-wp-strategy="defer"></script>
+<script id="hostinger_chatbot-js-after">
+window.lodash = _.noConflict();
+</script>
+<script src="https://pascualbravo.ingejei.com/wp-content/plugins/hostinger/assets/js/hostinger-global-scripts.min.js?ver=3.0.36" id="hostinger_tools_global_scripts-js"></script>
+<script src="https://pascualbravo.ingejei.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3" id="jquery-ui-draggable-js"></script>
+<script src="https://pascualbravo.ingejei.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.3" id="jquery-ui-slider-js"></script>
+<script src="https://pascualbravo.ingejei.com/wp-includes/js/jquery/jquery.ui.touch-punch.js?ver=0.2.2" id="jquery-touch-punch-js"></script>
+<script src="https://pascualbravo.ingejei.com/wp-admin/js/iris.min.js?ver=1.1.1" id="iris-js"></script>
+<script src="https://pascualbravo.ingejei.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.3" id="jquery-ui-menu-js"></script>
+<script src="https://pascualbravo.ingejei.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.13.3" id="jquery-ui-autocomplete-js"></script>
+<script id="wc-users-js-extra">
+var wc_users_params = {"countries":"{\"AF\":[],\"AL\":{\"AL-01\":\"Berat\",\"AL-09\":\"Dib\\u00ebr\",\"AL-02\":\"Durr\\u00ebs\",\"AL-03\":\"Elbasan\",\"AL-04\":\"Fier\",\"AL-05\":\"Gjirokast\\u00ebr\",\"AL-06\":\"Kor\\u00e7\\u00eb\",\"AL-07\":\"Kuk\\u00ebs\",\"AL-08\":\"Lezh\\u00eb\",\"AL-10\":\"Shkod\\u00ebr\",\"AL-11\":\"Tirana\",\"AL-12\":\"Vlor\\u00eb\"},\"AO\":{\"BGO\":\"Bengo\",\"BLU\":\"Benguela\",\"BIE\":\"Bi\\u00e9\",\"CAB\":\"Cabinda\",\"CNN\":\"Cunene\",\"HUA\":\"Huambo\",\"HUI\":\"Hu\\u00edla\",\"CCU\":\"Kuando Kubango\",\"CNO\":\"Kwanza-Norte\",\"CUS\":\"Kwanza-Sul\",\"LUA\":\"Luanda\",\"LNO\":\"Lunda-Norte\",\"LSU\":\"Lunda-Sul\",\"MAL\":\"Malanje\",\"MOX\":\"Moxico\",\"NAM\":\"Namibe\",\"UIG\":\"U\\u00edge\",\"ZAI\":\"Zaire\"},\"AR\":{\"C\":\"Ciudad Aut\\u00f3noma de Buenos Aires\",\"B\":\"Buenos Aires\",\"K\":\"Catamarca\",\"H\":\"Chaco\",\"U\":\"Chubut\",\"X\":\"C\\u00f3rdoba\",\"W\":\"Corrientes\",\"E\":\"Entre R\\u00edos\",\"P\":\"Formosa\",\"Y\":\"Jujuy\",\"L\":\"La Pampa\",\"F\":\"La Rioja\",\"M\":\"Mendoza\",\"N\":\"Misiones\",\"Q\":\"Neuqu\\u00e9n\",\"R\":\"R\\u00edo Negro\",\"A\":\"Salta\",\"J\":\"San Juan\",\"D\":\"San Luis\",\"Z\":\"Santa Cruz\",\"S\":\"Santa Fe\",\"G\":\"Santiago del Estero\",\"V\":\"Tierra del Fuego\",\"T\":\"Tucum\\u00e1n\"},\"AT\":[],\"AU\":{\"ACT\":\"Australia Central\",\"NSW\":\"Nueva Gales del Sur\",\"NT\":\"Northern Territory\",\"QLD\":\"Queensland\",\"SA\":\"South Australia\",\"TAS\":\"Tasmania\",\"VIC\":\"Victoria\",\"WA\":\"Western Australia\"},\"AX\":[],\"BD\":{\"BD-05\":\"Bagerhat\",\"BD-01\":\"Bandarban\",\"BD-02\":\"Barguna\",\"BD-06\":\"Barishal\",\"BD-07\":\"Bhola\",\"BD-03\":\"Bogura\",\"BD-04\":\"Brahmanbaria\",\"BD-09\":\"Chandpur\",\"BD-10\":\"Chattogram\",\"BD-12\":\"Chuadanga\",\"BD-11\":\"Cox's Bazar\",\"BD-08\":\"Cumilla\",\"BD-13\":\"Dhaka\",\"BD-14\":\"Dinajpur\",\"BD-15\":\"Faridpur \",\"BD-16\":\"Feni\",\"BD-19\":\"Gaibandha\",\"BD-18\":\"Gazipur\",\"BD-17\":\"Gopalganj\",\"BD-20\":\"Habiganj\",\"BD-21\":\"Jamalpur\",\"BD-22\":\"Jashore\",\"BD-25\":\"Jhalokati\",\"BD-23\":\"Jhenaidah\",\"BD-24\":\"Joypurhat\",\"BD-29\":\"Khagrachhari\",\"BD-27\":\"Khulna\",\"BD-26\":\"Kishoreganj\",\"BD-28\":\"Kurigram\",\"BD-30\":\"Kushtia\",\"BD-31\":\"Lakshmipur\",\"BD-32\":\"Lalmonirhat\",\"BD-36\":\"Madaripur\",\"BD-37\":\"Magura\",\"BD-33\":\"Manikganj \",\"BD-39\":\"Meherpur\",\"BD-38\":\"Moulvibazar\",\"BD-35\":\"Munshiganj\",\"BD-34\":\"Mymensingh\",\"BD-48\":\"Naogaon\",\"BD-43\":\"Narail\",\"BD-40\":\"Narayanganj\",\"BD-42\":\"Narsingdi\",\"BD-44\":\"Natore\",\"BD-45\":\"Nawabganj\",\"BD-41\":\"Netrakona\",\"BD-46\":\"Nilphamari\",\"BD-47\":\"Noakhali\",\"BD-49\":\"Pabna\",\"BD-52\":\"Panchagarh\",\"BD-51\":\"Patuakhali\",\"BD-50\":\"Pirojpur\",\"BD-53\":\"Rajbari\",\"BD-54\":\"Rajshahi\",\"BD-56\":\"Rangamati\",\"BD-55\":\"Rangpur\",\"BD-58\":\"Satkhira\",\"BD-62\":\"Shariatpur\",\"BD-57\":\"Sherpur\",\"BD-59\":\"Sirajganj\",\"BD-61\":\"Sunamganj\",\"BD-60\":\"Sylhet\",\"BD-63\":\"Tangail\",\"BD-64\":\"Thakurgaon\"},\"BE\":[],\"BG\":{\"BG-01\":\"Blagoevgrad\",\"BG-02\":\"Burgas\",\"BG-08\":\"Dobrich\",\"BG-07\":\"Gabrovo\",\"BG-26\":\"Haskovo\",\"BG-09\":\"Kardzhali\",\"BG-10\":\"Kyustendil\",\"BG-11\":\"Lovech\",\"BG-12\":\"Montana\",\"BG-13\":\"Pazardzhik\",\"BG-14\":\"Pernik\",\"BG-15\":\"Pleven\",\"BG-16\":\"Plovdiv\",\"BG-17\":\"Razgrad\",\"BG-18\":\"Ruse\",\"BG-27\":\"Shumen\",\"BG-19\":\"Silistra\",\"BG-20\":\"Sliven\",\"BG-21\":\"Smolyan\",\"BG-23\":\"Distrito de Sof\\u00eda\",\"BG-22\":\"Sofia\",\"BG-24\":\"Stara Zagora\",\"BG-25\":\"Targovishte\",\"BG-03\":\"Varna\",\"BG-04\":\"Veliko Tarnovo\",\"BG-05\":\"Vidin\",\"BG-06\":\"Vratsa\",\"BG-28\":\"Yambol\"},\"BH\":[],\"BI\":[],\"BJ\":{\"AL\":\"Alibori\",\"AK\":\"Atakora\",\"AQ\":\"Atlantique\",\"BO\":\"Borgou\",\"CO\":\"Collines\",\"KO\":\"Kouffo\",\"DO\":\"Donga\",\"LI\":\"Littoral\",\"MO\":\"Mono\",\"OU\":\"Ou\\u00e9m\\u00e9\",\"PL\":\"Plateau\",\"ZO\":\"Zou\"},\"BO\":{\"BO-B\":\"Beni\",\"BO-H\":\"Chuquisaca\",\"BO-C\":\"Cochabamba\",\"BO-L\":\"La Paz\",\"BO-O\":\"Oruro\",\"BO-N\":\"Pando\",\"BO-P\":\"Potos\\u00ed\",\"BO-S\":\"Santa Cruz\",\"BO-T\":\"Tarija\"},\"BR\":{\"AC\":\"Acre\",\"AL\":\"Alagoas\",\"AP\":\"Amap\\u00e1\",\"AM\":\"Amazonas\",\"BA\":\"Bahia\",\"CE\":\"Cear\\u00e1\",\"DF\":\"Distrito Federal\",\"ES\":\"Esp\\u00edrito Santo\",\"GO\":\"Goi\\u00e1s\",\"MA\":\"Maranh\\u00e3o\",\"MT\":\"Mato Grosso\",\"MS\":\"Mato Grosso del Sur\",\"MG\":\"Minas Gerais\",\"PA\":\"Par\\u00e1\",\"PB\":\"Para\\u00edba\",\"PR\":\"Paran\\u00e1\",\"PE\":\"Pernambuco\",\"PI\":\"Piau\\u00ed\",\"RJ\":\"Rio de Janeiro\",\"RN\":\"R\\u00edo Grande del Norte\",\"RS\":\"R\\u00edo Grande del Sur\",\"RO\":\"Rond\\u00f4nia\",\"RR\":\"Roraima\",\"SC\":\"Santa Catalina\",\"SP\":\"S\\u00e3o Paulo\",\"SE\":\"Sergipe\",\"TO\":\"Tocantins\"},\"CA\":{\"AB\":\"Alberta\",\"BC\":\"Columbia Brit\\u00e1nica\",\"MB\":\"Manitoba\",\"NB\":\"New Brunswick\",\"NL\":\"Newfoundland y Labrador\",\"NT\":\"Northwest Territories\",\"NS\":\"Nova Scotia\",\"NU\":\"Nunavut\",\"ON\":\"Ontario\",\"PE\":\"Isla del Pr\\u00edncipe Eduardo\",\"QC\":\"Quebec\",\"SK\":\"Saskatchewan\",\"YT\":\"Yukon Territory\"},\"CH\":{\"AG\":\"Aargau\",\"AR\":\"Appenzell Ausserrhoden\",\"AI\":\"Appenzell Innerrhoden\",\"BL\":\"Basel-Landschaft\",\"BS\":\"Basel-Stadt\",\"BE\":\"Bern\",\"FR\":\"Fribourg\",\"GE\":\"Geneva\",\"GL\":\"Glarus\",\"GR\":\"Graub\\u00fcnden\",\"JU\":\"Jura\",\"LU\":\"Luzern\",\"NE\":\"Neuch\\u00e2tel\",\"NW\":\"Nidwalden\",\"OW\":\"Obwalden\",\"SH\":\"Schaffhausen\",\"SZ\":\"Schwyz\",\"SO\":\"Solothurn\",\"SG\":\"St. Gallen\",\"TG\":\"Thurgau\",\"TI\":\"Ticino\",\"UR\":\"URI\",\"VS\":\"Valais\",\"VD\":\"Vaud\",\"ZG\":\"Zug\",\"ZH\":\"Z\\u00fcrich\"},\"CL\":{\"CL-AI\":\"Ais\\u00e9n del General Carlos Iba\\u00f1ez del Campo\",\"CL-AN\":\"Antofagasta\",\"CL-AP\":\"Arica y Parinacota\",\"CL-AR\":\"La Araucan\\u00eda\",\"CL-AT\":\"Atacama\",\"CL-BI\":\"Biob\\u00edo\",\"CL-CO\":\"Coquimbo\",\"CL-LI\":\"Libertador General Bernardo O'Higgins\",\"CL-LL\":\"Los Lagos\",\"CL-LR\":\"Los R\\u00edos\",\"CL-MA\":\"Magallanes\",\"CL-ML\":\"Maule\",\"CL-NB\":\"\\u00d1uble\",\"CL-RM\":\"Regi\\u00f3n Metropolitana de Santiago\",\"CL-TA\":\"Tarapac\\u00e1\",\"CL-VS\":\"Valpara\\u00edso\"},\"CN\":{\"CN1\":\"Yunnan \\\/ \\u4e91\\u5357\",\"CN2\":\"Beijing \\\/ \\u5317\\u4eac\",\"CN3\":\"Tianjin \\\/ \\u5929\\u6d25\",\"CN4\":\"Hebei \\\/ \\u6cb3\\u5317\",\"CN5\":\"Shanxi \\\/ \\u5c71\\u897f\",\"CN6\":\"Mongolia Interior \\\/ \\u5167\\u8499\\u53e4\",\"CN7\":\"Liaoning \\\/ \\u8fbd\\u5b81\",\"CN8\":\"Jilin \\\/ \\u5409\\u6797\",\"CN9\":\"Heilongjiang \\\/ \\u9ed1\\u9f99\\u6c5f\",\"CN10\":\"Shanghai \\\/ \\u4e0a\\u6d77\",\"CN11\":\"Jiangsu \\\/ \\u6c5f\\u82cf\",\"CN12\":\"Zhejiang \\\/ \\u6d59\\u6c5f\",\"CN13\":\"Anhui \\\/ \\u5b89\\u5fbd\",\"CN14\":\"Fujian \\\/ \\u798f\\u5efa\",\"CN15\":\"Jiangxi \\\/ \\u6c5f\\u897f\",\"CN16\":\"Shandong \\\/ \\u5c71\\u4e1c\",\"CN17\":\"Henan \\\/ \\u6cb3\\u5357\",\"CN18\":\"Hubei \\\/ \\u6e56\\u5317\",\"CN19\":\"Hunan \\\/ \\u6e56\\u5357\",\"CN20\":\"Guangdong \\\/ \\u5e7f\\u4e1c\",\"CN21\":\"Guangxi Zhuang \\\/ \\u5e7f\\u897f\\u58ee\\u65cf\",\"CN22\":\"Hainan \\\/ \\u6d77\\u5357\",\"CN23\":\"Chongqing \\\/ \\u91cd\\u5e86\",\"CN24\":\"Sichuan \\\/ \\u56db\\u5ddd\",\"CN25\":\"Guizhou \\\/ \\u8d35\\u5dde\",\"CN26\":\"Shaanxi \\\/ \\u9655\\u897f\",\"CN27\":\"Gansu \\\/ \\u7518\\u8083\",\"CN28\":\"Qinghai \\\/ \\u9752\\u6d77\",\"CN29\":\"Ningxia Hui \\\/ \\u5b81\\u590f\",\"CN30\":\"Macao \\\/ \\u6fb3\\u95e8\",\"CN31\":\"Tibet \\\/ \\u897f\\u85cf\",\"CN32\":\"Xinjiang \\\/ \\u65b0\\u7586\"},\"CO\":{\"CO-AMA\":\"Amazonas\",\"CO-ANT\":\"Antioquia\",\"CO-ARA\":\"Arauca\",\"CO-ATL\":\"Atl\\u00e1ntico\",\"CO-BOL\":\"Bol\\u00edvar\",\"CO-BOY\":\"Boyac\\u00e1\",\"CO-CAL\":\"Caldas\",\"CO-CAQ\":\"Caquet\\u00e1\",\"CO-CAS\":\"Casanare\",\"CO-CAU\":\"Cauca\",\"CO-CES\":\"Cesar\",\"CO-CHO\":\"Choc\\u00f3\",\"CO-COR\":\"C\\u00f3rdoba\",\"CO-CUN\":\"Cundinamarca\",\"CO-DC\":\"Bogot\\u00e1\",\"CO-GUA\":\"Guain\\u00eda\",\"CO-GUV\":\"Guaviare\",\"CO-HUI\":\"Huila\",\"CO-LAG\":\"La Guajira\",\"CO-MAG\":\"Magdalena\",\"CO-MET\":\"Meta\",\"CO-NAR\":\"Nari\\u00f1o\",\"CO-NSA\":\"Norte de Santander\",\"CO-PUT\":\"Putumayo\",\"CO-QUI\":\"Quind\\u00edo\",\"CO-RIS\":\"Risaralda\",\"CO-SAN\":\"Santander\",\"CO-SAP\":\"San Andr\\u00e9s y Providencia\",\"CO-SUC\":\"Sucre\",\"CO-TOL\":\"Tolima\",\"CO-VAC\":\"Valle del Cauca\",\"CO-VAU\":\"Vaup\\u00e9s\",\"CO-VID\":\"Vichada\"},\"CR\":{\"CR-A\":\"Alajuela\",\"CR-C\":\"Cartago\",\"CR-G\":\"Guanacaste\",\"CR-H\":\"Heredia\",\"CR-L\":\"Lim\\u00f3n\",\"CR-P\":\"Puntarenas\",\"CR-SJ\":\"San Jos\\u00e9\"},\"CZ\":[],\"DE\":{\"DE-BW\":\"Baden-Wurtemberg\",\"DE-BY\":\"Baviera\",\"DE-BE\":\"Berl\\u00edn\",\"DE-BB\":\"Brandeburgo\",\"DE-HB\":\"Bremen\",\"DE-HH\":\"Hamburgo\",\"DE-HE\":\"Hesse\",\"DE-MV\":\"Mecklemburgo-Pomerania Occidental\",\"DE-NI\":\"Baja Sajonia\",\"DE-NW\":\"Renania del Norte-Westfalia\",\"DE-RP\":\"Renania-Palatinado\",\"DE-SL\":\"Sarre\",\"DE-SN\":\"Sajonia\",\"DE-ST\":\"Sajonia-Anhalt\",\"DE-SH\":\"Schleswig-Holstein\",\"DE-TH\":\"Turingia\"},\"DK\":[],\"DO\":{\"DO-01\":\"Distrito Nacional\",\"DO-02\":\"Azua\",\"DO-03\":\"Baoruco\",\"DO-04\":\"Barahona\",\"DO-33\":\"Cibao Nordeste\",\"DO-34\":\"Cibao Noroeste\",\"DO-35\":\"Cibao Norte\",\"DO-36\":\"Cibao Sur\",\"DO-05\":\"Dajab\\u00f3n\",\"DO-06\":\"Duarte\",\"DO-08\":\"El Seibo\",\"DO-37\":\"El Valle\",\"DO-07\":\"El\\u00edas Pi\\u00f1a\",\"DO-38\":\"Enriquillo\",\"DO-09\":\"Espaillat\",\"DO-30\":\"Hato Mayor\",\"DO-19\":\"Hermanas Mirabal\",\"DO-39\":\"Hig\\u00fcamo\",\"DO-10\":\"Independencia\",\"DO-11\":\"La Altagracia\",\"DO-12\":\"La Romana\",\"DO-13\":\"La Vega\",\"DO-14\":\"Mar\\u00eda Trinidad S\\u00e1nchez\",\"DO-28\":\"Monse\\u00f1or Nouel\",\"DO-15\":\"Monte Cristi\",\"DO-29\":\"Monte Plata\",\"DO-40\":\"Ozama\",\"DO-16\":\"Pedernales\",\"DO-17\":\"Peravia\",\"DO-18\":\"Puerto Plata\",\"DO-20\":\"Saman\\u00e1\",\"DO-21\":\"San Crist\\u00f3bal\",\"DO-31\":\"San Jos\\u00e9 de Ocoa\",\"DO-22\":\"San Juan\",\"DO-23\":\"San Pedro de Macor\\u00eds\",\"DO-24\":\"S\\u00e1nchez Ram\\u00edrez\",\"DO-25\":\"Santiago\",\"DO-26\":\"Santiago Rodr\\u00edguez\",\"DO-32\":\"Santo Domingo\",\"DO-41\":\"Valdesia\",\"DO-27\":\"Valverde\",\"DO-42\":\"Yuma\"},\"DZ\":{\"DZ-01\":\"Adrar\",\"DZ-02\":\"Chlef\",\"DZ-03\":\"Laghouat\",\"DZ-04\":\"Oum El Bouaghi\",\"DZ-05\":\"Batna\",\"DZ-06\":\"B\\u00e9ja\\u00efa\",\"DZ-07\":\"Biskra\",\"DZ-08\":\"B\\u00e9char\",\"DZ-09\":\"Blida\",\"DZ-10\":\"Bouira\",\"DZ-11\":\"Tamanghasset\",\"DZ-12\":\"T\\u00e9bessa\",\"DZ-13\":\"Tlemcen\",\"DZ-14\":\"Tiaret\",\"DZ-15\":\"Tizi Ouzou\",\"DZ-16\":\"Argel\",\"DZ-17\":\"Djelfa\",\"DZ-18\":\"Jijel\",\"DZ-19\":\"S\\u00e9tif\",\"DZ-20\":\"Sa\\u00efda\",\"DZ-21\":\"Skikda\",\"DZ-22\":\"Sidi Bel Abb\\u00e8s\",\"DZ-23\":\"Annaba\",\"DZ-24\":\"Guelma\",\"DZ-25\":\"Constantine\",\"DZ-26\":\"M\\u00e9d\\u00e9a\",\"DZ-27\":\"Mostaganem\",\"DZ-28\":\"M\\u2019Sila\",\"DZ-29\":\"Mascara\",\"DZ-30\":\"Ouargla\",\"DZ-31\":\"Oran\",\"DZ-32\":\"El Bayadh\",\"DZ-33\":\"Illizi\",\"DZ-34\":\"Bordj Bou Arr\\u00e9ridj\",\"DZ-35\":\"Boumerd\\u00e8s\",\"DZ-36\":\"El Tarf\",\"DZ-37\":\"Tindouf\",\"DZ-38\":\"Tissemsilt\",\"DZ-39\":\"El Oued\",\"DZ-40\":\"Khenchela\",\"DZ-41\":\"Souk Ahras\",\"DZ-42\":\"Tipasa\",\"DZ-43\":\"Mila\",\"DZ-44\":\"A\\u00efn Defla\",\"DZ-45\":\"Naama\",\"DZ-46\":\"A\\u00efn T\\u00e9mouchent\",\"DZ-47\":\"Gharda\\u00efa\",\"DZ-48\":\"Relizane\"},\"EE\":[],\"EC\":{\"EC-A\":\"Azuay\",\"EC-B\":\"Bol\\u00edvar\",\"EC-F\":\"Ca\\u00f1ar\",\"EC-C\":\"Carchi\",\"EC-H\":\"Chimborazo\",\"EC-X\":\"Cotopaxi\",\"EC-O\":\"El Oro\",\"EC-E\":\"Esmeraldas\",\"EC-W\":\"Gal\\u00e1pagos\",\"EC-G\":\"Guayas\",\"EC-I\":\"Imbabura\",\"EC-L\":\"Loja\",\"EC-R\":\"Los R\\u00edos\",\"EC-M\":\"Manab\\u00ed\",\"EC-S\":\"Morona-Santiago\",\"EC-N\":\"Napo\",\"EC-D\":\"Orellana\",\"EC-Y\":\"Pastaza\",\"EC-P\":\"Pichincha\",\"EC-SE\":\"Santa Elena\",\"EC-SD\":\"Santo Domingo de los Ts\\u00e1chilas\",\"EC-U\":\"Sucumb\\u00edos\",\"EC-T\":\"Tungurahua\",\"EC-Z\":\"Zamora-Chinchipe\"},\"EG\":{\"EGALX\":\"Alexandria\",\"EGASN\":\"Aswan\",\"EGAST\":\"Asyut\",\"EGBA\":\"Red Sea\",\"EGBH\":\"Beheira\",\"EGBNS\":\"Beni Suef\",\"EGC\":\"El Cairo\",\"EGDK\":\"Dakahlia\",\"EGDT\":\"Damietta\",\"EGFYM\":\"Faiyum\",\"EGGH\":\"Gharbia\",\"EGGZ\":\"Giza\",\"EGIS\":\"Ismailia\",\"EGJS\":\"South Sinai\",\"EGKB\":\"Qalyubia\",\"EGKFS\":\"Kafr el-Sheikh\",\"EGKN\":\"Qena\",\"EGLX\":\"Luxor\",\"EGMN\":\"Minya\",\"EGMNF\":\"Monufia\",\"EGMT\":\"Matrouh\",\"EGPTS\":\"Port Said\",\"EGSHG\":\"Sohag\",\"EGSHR\":\"Al Sharqia\",\"EGSIN\":\"North Sinai\",\"EGSUZ\":\"Suez\",\"EGWAD\":\"New Valley\"},\"ES\":{\"C\":\"La Coru\\u00f1a\",\"VI\":\"\\u00c1lava\",\"AB\":\"Albacete\",\"A\":\"Alicante\",\"AL\":\"Almer\\u00eda\",\"O\":\"Asturias\",\"AV\":\"\\u00c1vila\",\"BA\":\"Badajoz\",\"PM\":\"Baleares\",\"B\":\"Barcelona\",\"BU\":\"Burgos\",\"CC\":\"C\\u00e1ceres\",\"CA\":\"C\\u00e1diz\",\"S\":\"Cantabria\",\"CS\":\"Castell\\u00f3n\",\"CE\":\"Ceuta\",\"CR\":\"Ciudad Real\",\"CO\":\"C\\u00f3rdoba\",\"CU\":\"Cuenca\",\"GI\":\"Gerona\",\"GR\":\"Granada\",\"GU\":\"Guadalajara\",\"SS\":\"Guip\\u00fazcoa\",\"H\":\"Huelva\",\"HU\":\"Huesca\",\"J\":\"Ja\\u00e9n\",\"LO\":\"La Rioja\",\"GC\":\"Las Palmas\",\"LE\":\"Le\\u00f3n\",\"L\":\"L\\u00e9rida\",\"LU\":\"Lugo\",\"M\":\"Madrid\",\"MA\":\"M\\u00e1laga\",\"ML\":\"Melilla\",\"MU\":\"Murcia\",\"NA\":\"Navarra\",\"OR\":\"Orense\",\"P\":\"Palencia\",\"PO\":\"Pontevedra\",\"SA\":\"Salamanca\",\"TF\":\"Santa Cruz de Tenerife\",\"SG\":\"Segovia\",\"SE\":\"Sevilla\",\"SO\":\"Soria\",\"T\":\"Tarragona\",\"TE\":\"Teruel\",\"TO\":\"Toledo\",\"V\":\"Valencia\",\"VA\":\"Valladolid\",\"BI\":\"Vizcaya\",\"ZA\":\"Zamora\",\"Z\":\"Zaragoza\"},\"ET\":[],\"FI\":[],\"FR\":[],\"GF\":[],\"GH\":{\"AF\":\"Ahafo\",\"AH\":\"Ashanti\",\"BA\":\"Brong-Ahafo\",\"BO\":\"Bono\",\"BE\":\"Bono este\",\"CP\":\"Central\",\"EP\":\"Oriental\",\"AA\":\"Gran Acra\",\"NE\":\"Noreste\",\"NP\":\"Septentrional\",\"OT\":\"Oti\",\"SV\":\"Savannah\",\"UE\":\"Alto este\",\"UW\":\"Alto oriente\",\"TV\":\"Volta\",\"WP\":\"Occidental\",\"WN\":\"Noroeste\"},\"GP\":[],\"GR\":{\"I\":\"\\u00c1tica\",\"A\":\"Macedonia oriental y Tracia\",\"B\":\"Macedonia central\",\"C\":\"Macedonia occidental\",\"D\":\"\\u00c9piro\",\"E\":\"Tesalia\",\"F\":\"Islas j\\u00f3nicas\",\"G\":\"Grecia occidental\",\"H\":\"Grecia central\",\"J\":\"Peloponeso\",\"K\":\"Egeo norte\",\"L\":\"Egeo sur\",\"M\":\"Creta\"},\"GT\":{\"GT-AV\":\"Alta Verapaz\",\"GT-BV\":\"Baja Verapaz\",\"GT-CM\":\"Chimaltenango\",\"GT-CQ\":\"Chiquimula\",\"GT-PR\":\"El Progreso\",\"GT-ES\":\"Escuintla\",\"GT-GU\":\"Guatemala\",\"GT-HU\":\"Huehuetenango\",\"GT-IZ\":\"Izabal\",\"GT-JA\":\"Jalapa\",\"GT-JU\":\"Jutiapa\",\"GT-PE\":\"Pet\\u00e9n\",\"GT-QZ\":\"Quetzaltenango\",\"GT-QC\":\"Quich\\u00e9\",\"GT-RE\":\"Retalhuleu\",\"GT-SA\":\"Sacatep\\u00e9quez\",\"GT-SM\":\"San Marcos\",\"GT-SR\":\"Santa Rosa\",\"GT-SO\":\"Solol\\u00e1\",\"GT-SU\":\"Suchitep\\u00e9quez\",\"GT-TO\":\"Totonicap\\u00e1n\",\"GT-ZA\":\"Zacapa\"},\"HK\":{\"HONG KONG\":\"Isla de Hong Kong\",\"KOWLOON\":\"Kowloon\",\"NEW TERRITORIES\":\"Nuevos territorios\"},\"HN\":{\"HN-AT\":\"Atl\\u00e1ntida\",\"HN-IB\":\"Bay Islands\",\"HN-CH\":\"Choluteca\",\"HN-CL\":\"Col\\u00f3n\",\"HN-CM\":\"Comayagua\",\"HN-CP\":\"Cop\\u00e1n\",\"HN-CR\":\"Cort\\u00e9s\",\"HN-EP\":\"El Para\\u00edso\",\"HN-FM\":\"Francisco Moraz\\u00e1n\",\"HN-GD\":\"Gracias a Dios\",\"HN-IN\":\"Intibuc\\u00e1\",\"HN-LE\":\"Lempira\",\"HN-LP\":\"La Paz\",\"HN-OC\":\"Ocotepeque\",\"HN-OL\":\"Olancho\",\"HN-SB\":\"Santa B\\u00e1rbara\",\"HN-VA\":\"Valle\",\"HN-YO\":\"Yoro\"},\"HR\":{\"HR-01\":\"Zagreb County\",\"HR-02\":\"Krapina-Zagorje County\",\"HR-03\":\"Sisak-Moslavina County\",\"HR-04\":\"Karlovac County\",\"HR-05\":\"Vara\\u017edin County\",\"HR-06\":\"Koprivnica-Kri\\u017eevci County\",\"HR-07\":\"Bjelovar-Bilogora County\",\"HR-08\":\"Primorje-Gorski Kotar County\",\"HR-09\":\"Lika-Senj County\",\"HR-10\":\"Virovitica-Podravina County\",\"HR-11\":\"Po\\u017eega-Slavonia County\",\"HR-12\":\"Brod-Posavina County\",\"HR-13\":\"Zadar County\",\"HR-14\":\"Osijek-Baranja County\",\"HR-15\":\"\\u0160ibenik-Knin County\",\"HR-16\":\"Vukovar-Srijem County\",\"HR-17\":\"Split-Dalmatia County\",\"HR-18\":\"Istria County\",\"HR-19\":\"Dubrovnik-Neretva County\",\"HR-20\":\"Me\\u0111imurje County\",\"HR-21\":\"Zagreb City\"},\"HU\":{\"BK\":\"B\\u00e1cs-Kiskun\",\"BE\":\"B\\u00e9k\\u00e9s\",\"BA\":\"Baranya\",\"BZ\":\"Borsod-Aba\\u00faj-Zempl\\u00e9n\",\"BU\":\"Budapest\",\"CS\":\"Csongr\\u00e1d-Csan\\u00e1d\",\"FE\":\"Fej\\u00e9r\",\"GS\":\"Gy\\u0151r-Moson-Sopron\",\"HB\":\"Hajd\\u00fa-Bihar\",\"HE\":\"Heves\",\"JN\":\"J\\u00e1sz-Nagykun-Szolnok\",\"KE\":\"Kom\\u00e1rom-Esztergom\",\"NO\":\"N\\u00f3gr\\u00e1d\",\"PE\":\"Pest\",\"SO\":\"Somogy\",\"SZ\":\"Szabolcs-Szatm\\u00e1r-Bereg\",\"TO\":\"Tolna\",\"VA\":\"Vas\",\"VE\":\"Veszpr\\u00e9m\",\"ZA\":\"Zala\"},\"ID\":{\"AC\":\"Daerah Istimewa Aceh\",\"SU\":\"Sumatra Septentrional\",\"SB\":\"Sumatra Occidental\",\"RI\":\"Riau\",\"KR\":\"Kepulauan Riau\",\"JA\":\"Jambi\",\"SS\":\"Sumatra Meridional\",\"BB\":\"Bangka Belitung\",\"BE\":\"Bengkulu\",\"LA\":\"Lampung\",\"JK\":\"DKI Jakarta\",\"JB\":\"Jawa Barat\",\"BT\":\"Banten\",\"JT\":\"Jawa Tengah\",\"JI\":\"Jawa Timur\",\"YO\":\"Yogyakarta\",\"BA\":\"Bali\",\"NB\":\"Nusatenggara Occidental\",\"NT\":\"Nusatenggara Oriental\",\"KB\":\"Borneo Occidental\",\"KT\":\"Borneo Central\",\"KI\":\"Kalimantan Oriental\",\"KS\":\"Borneo Meridional\",\"KU\":\"Borneo del Norte\",\"SA\":\"C\\u00e9lebes Septentrional\",\"ST\":\"C\\u00e9lebes Central\",\"SG\":\"C\\u00e9lebes Suroriental\",\"SR\":\"C\\u00e9lebes Occidental\",\"SN\":\"C\\u00e9lebes Meridional\",\"GO\":\"Gorontalo\",\"MA\":\"Las islas Molucas \",\"MU\":\"Molucas septentrionales\",\"PA\":\"Pap\\u00faa\",\"PB\":\"Provincia de Pap\\u00faa Occidental\"},\"IE\":{\"CW\":\"Carlow\",\"CN\":\"Cavan\",\"CE\":\"Clare\",\"CO\":\"Cork\",\"DL\":\"Donegal\",\"D\":\"Dubl\\u00edn\",\"G\":\"Galway\",\"KY\":\"Kerry\",\"KE\":\"Kildare\",\"KK\":\"Kilkenny\",\"LS\":\"Laois\",\"LM\":\"Leitrim\",\"LK\":\"Limerick\",\"LD\":\"Longford\",\"LH\":\"Louth\",\"MO\":\"Mayo\",\"MH\":\"Meath\",\"MN\":\"Monaghan\",\"OY\":\"Offaly\",\"RN\":\"Roscommon\",\"SO\":\"Sligo\",\"TA\":\"Tipperary\",\"WD\":\"Waterford\",\"WH\":\"Westmeath\",\"WX\":\"Wexford\",\"WW\":\"Wicklow\"},\"IN\":{\"AP\":\"Andra Pradesh\",\"AR\":\"Arunachal Pradesh\",\"AS\":\"Assam\",\"BR\":\"Bihar\",\"CT\":\"Chhattisgarh\",\"GA\":\"Goa\",\"GJ\":\"Gujarat\",\"HR\":\"Haryana\",\"HP\":\"Himachal Pradesh\",\"JK\":\"Jammu and Kashmir\",\"JH\":\"Jharkhand\",\"KA\":\"Karnataka\",\"KL\":\"Kerala\",\"LA\":\"Ladakh\",\"MP\":\"Madhya Pradesh\",\"MH\":\"Maharashtra\",\"MN\":\"Manipur\",\"ML\":\"Meghalaya\",\"MZ\":\"Mizoram\",\"NL\":\"Nagaland\",\"OD\":\"Odisha\",\"PB\":\"Punjab\",\"RJ\":\"Rajasthan\",\"SK\":\"Sikkim\",\"TN\":\"Tamil Nadu\",\"TS\":\"Telangana\",\"TR\":\"Tripura\",\"UK\":\"Uttarakhand\",\"UP\":\"Uttar Pradesh\",\"WB\":\"West Bengal\",\"AN\":\"Islas Andaman y Nicobar\",\"CH\":\"Chandigarh\",\"DN\":\"Dadra y Nagar Haveli\",\"DD\":\"Daman and Diu\",\"DL\":\"Delhi\",\"LD\":\"Lakshadeep\",\"PY\":\"Pondicherry (Puducherry)\"},\"IR\":{\"KHZ\":\"Juzest\\u00e1n (\\u062e\\u0648\\u0632\\u0633\\u062a\\u0627\\u0646)\",\"THR\":\"Teher\\u00e1n  (\\u062a\\u0647\\u0631\\u0627\\u0646)\",\"ILM\":\"Ilaam (\\u0627\\u06cc\\u0644\\u0627\\u0645)\",\"BHR\":\"Bujara (\\u0628\\u0648\\u0634\\u0647\\u0631)\",\"ADL\":\"Ardebil (\\u0627\\u0631\\u062f\\u0628\\u06cc\\u0644)\",\"ESF\":\"Isfah\\u00e1n (\\u0627\\u0635\\u0641\\u0647\\u0627\\u0646)\",\"YZD\":\"Yazd (\\u06cc\\u0632\\u062f)\",\"KRH\":\"Kermanshah (\\u06a9\\u0631\\u0645\\u0627\\u0646\\u0634\\u0627\\u0647)\",\"KRN\":\"Kerm\\u00e1n (\\u06a9\\u0631\\u0645\\u0627\\u0646)\",\"HDN\":\"Hamad\\u00e1n (\\u0647\\u0645\\u062f\\u0627\\u0646)\",\"GZN\":\"Qazv\\u00edn (\\u0642\\u0632\\u0648\\u06cc\\u0646)\",\"ZJN\":\"Zany\\u00e1n (\\u0632\\u0646\\u062c\\u0627\\u0646)\",\"LRS\":\"Lorist\\u00e1n (\\u0644\\u0631\\u0633\\u062a\\u0627\\u0646)\",\"ABZ\":\"Elburz (\\u0627\\u0644\\u0628\\u0631\\u0632)\",\"EAZ\":\"Azerbaiy\\u00e1n Oriental (\\u0622\\u0630\\u0631\\u0628\\u0627\\u06cc\\u062c\\u0627\\u0646 \\u0634\\u0631\\u0642\\u06cc)\",\"WAZ\":\"Azerbaiy\\u00e1n Occidental (\\u0622\\u0630\\u0631\\u0628\\u0627\\u06cc\\u062c\\u0627\\u0646 \\u063a\\u0631\\u0628\\u06cc)\",\"CHB\":\"Chahar y Bajtiari (\\u0686\\u0647\\u0627\\u0631\\u0645\\u062d\\u0627\\u0644 \\u0648 \\u0628\\u062e\\u062a\\u06cc\\u0627\\u0631\\u06cc)\",\"SKH\":\"Joras\\u00e1n del Sur (\\u062e\\u0631\\u0627\\u0633\\u0627\\u0646 \\u062c\\u0646\\u0648\\u0628\\u06cc)\",\"RKH\":\"Joras\\u00e1n Razav\\u00ed (\\u062e\\u0631\\u0627\\u0633\\u0627\\u0646 \\u0631\\u0636\\u0648\\u06cc)\",\"NKH\":\"Joras\\u00e1n del Norte (\\u062e\\u0631\\u0627\\u0633\\u0627\\u0646 \\u062c\\u0646\\u0648\\u0628\\u06cc)\",\"SMN\":\"Semn\\u00e1n (\\u0633\\u0645\\u0646\\u0627\\u0646)\",\"FRS\":\"Fars (\\u0641\\u0627\\u0631\\u0633)\",\"QHM\":\"Qom (\\u0642\\u0645)\",\"KRD\":\"Kurdist\\u00e1n \\\/ \\u06a9\\u0631\\u062f\\u0633\\u062a\\u0627\\u0646)\",\"KBD\":\"Kohkiluyeh y Buyer Ahmad (\\u06a9\\u0647\\u06af\\u06cc\\u0644\\u0648\\u06cc\\u06cc\\u0647 \\u0648 \\u0628\\u0648\\u06cc\\u0631\\u0627\\u062d\\u0645\\u062f)\",\"GLS\":\"Golest\\u00e1n (\\u06af\\u0644\\u0633\\u062a\\u0627\\u0646)\",\"GIL\":\"Guil\\u00e1n (\\u06af\\u06cc\\u0644\\u0627\\u0646)\",\"MZN\":\"Mazandar\\u00e1n (\\u0645\\u0627\\u0632\\u0646\\u062f\\u0631\\u0627\\u0646)\",\"MKZ\":\"Markaz\\u00ed (\\u0645\\u0631\\u06a9\\u0632\\u06cc)\",\"HRZ\":\"Hormozg\\u00e1n (\\u0647\\u0631\\u0645\\u0632\\u06af\\u0627\\u0646)\",\"SBN\":\"Sist\\u00e1n and Baluchist\\u00e1n (\\u0633\\u06cc\\u0633\\u062a\\u0627\\u0646 \\u0648 \\u0628\\u0644\\u0648\\u0686\\u0633\\u062a\\u0627\\u0646)\"},\"IS\":[],\"IT\":{\"AG\":\"Agrigento\",\"AL\":\"Alessandria\",\"AN\":\"Ancona\",\"AO\":\"Aosta\",\"AR\":\"Arezzo\",\"AP\":\"Ascoli Piceno\",\"AT\":\"Asti\",\"AV\":\"Avellino\",\"BA\":\"Bari\",\"BT\":\"Barletta-Andria-Trani\",\"BL\":\"Belluno\",\"BN\":\"Benevento\",\"BG\":\"Bergamo\",\"BI\":\"Biella\",\"BO\":\"Bologna\",\"BZ\":\"Bolzano\",\"BS\":\"Brescia\",\"BR\":\"Brindisi\",\"CA\":\"Cagliari\",\"CL\":\"Caltanissetta\",\"CB\":\"Campobasso\",\"CE\":\"Caserta\",\"CT\":\"Catania\",\"CZ\":\"Catanzaro\",\"CH\":\"Chieti\",\"CO\":\"Como\",\"CS\":\"Cosenza\",\"CR\":\"Cremona\",\"KR\":\"Crotone\",\"CN\":\"Cuneo\",\"EN\":\"Enna\",\"FM\":\"Fermo\",\"FE\":\"Ferrara\",\"FI\":\"Florencia\",\"FG\":\"Foggia\",\"FC\":\"Forl\\u00ec-Cesena\",\"FR\":\"Frosinone\",\"GE\":\"Genova\",\"GO\":\"Gorizia\",\"GR\":\"Grosseto\",\"IM\":\"Imperia\",\"IS\":\"Isernia\",\"SP\":\"La Spezia\",\"AQ\":\"L'Aquila\",\"LT\":\"Latina\",\"LE\":\"Lecce\",\"LC\":\"Lecco\",\"LI\":\"Livorno\",\"LO\":\"Lodi\",\"LU\":\"Lucca\",\"MC\":\"Macerata\",\"MN\":\"Mantova\",\"MS\":\"Massa-Carrara\",\"MT\":\"Matera\",\"ME\":\"Messina\",\"MI\":\"Mil\\u00e1n\",\"MO\":\"Modena\",\"MB\":\"Monza e della Brianza\",\"NA\":\"N\\u00e1poles\",\"NO\":\"Novara\",\"NU\":\"Nuoro\",\"OR\":\"Oristano\",\"PD\":\"Padova\",\"PA\":\"Palermo\",\"PR\":\"Parma\",\"PV\":\"Pavia\",\"PG\":\"Perugia\",\"PU\":\"Pesaro e Urbino\",\"PE\":\"Pescara\",\"PC\":\"Piacenza\",\"PI\":\"Pisa\",\"PT\":\"Pistoia\",\"PN\":\"Pordenone\",\"PZ\":\"Potenza\",\"PO\":\"Prato\",\"RG\":\"Ragusa\",\"RA\":\"Ravenna\",\"RC\":\"Reggio Calabria\",\"RE\":\"Reggio Emilia\",\"RI\":\"Rieti\",\"RN\":\"Rimini\",\"RM\":\"Roma\",\"RO\":\"Rovigo\",\"SA\":\"Salerno\",\"SS\":\"Sassari\",\"SV\":\"Savona\",\"SI\":\"Siena\",\"SR\":\"Siracusa\",\"SO\":\"Sondrio\",\"SU\":\"Sur de Cerde\\u00f1a\",\"TA\":\"Taranto\",\"TE\":\"Teramo\",\"TR\":\"Terni\",\"TO\":\"Torino\",\"TP\":\"Trapani\",\"TN\":\"Trento\",\"TV\":\"Treviso\",\"TS\":\"Trieste\",\"UD\":\"Udine\",\"VA\":\"Varese\",\"VE\":\"Venezia\",\"VB\":\"Verbano-Cusio-Ossola\",\"VC\":\"Vercelli\",\"VR\":\"Verona\",\"VV\":\"Vibo Valentia\",\"VI\":\"Vicenza\",\"VT\":\"Viterbo\"},\"IL\":[],\"IM\":[],\"JM\":{\"JM-01\":\"Kingston\",\"JM-02\":\"San Andr\\u00e9s\",\"JM-03\":\"Santo Tom\\u00e1s\",\"JM-04\":\"Portland\",\"JM-05\":\"Santa Mar\\u00eda\",\"JM-06\":\"Santa Ana\",\"JM-07\":\"Trelawny\",\"JM-08\":\"San Jaime\",\"JM-09\":\"Hanover\",\"JM-10\":\"Westmoreland\",\"JM-11\":\"Santa Isabel\",\"JM-12\":\"Manchester\",\"JM-13\":\"Clarendon\",\"JM-14\":\"Santa Catalina\"},\"JP\":{\"JP01\":\"Hokkaid\\u014d\",\"JP02\":\"Aomori\",\"JP03\":\"Iwate\",\"JP04\":\"Miyagi\",\"JP05\":\"Akita\",\"JP06\":\"Yamagata\",\"JP07\":\"Fukushima\",\"JP08\":\"Ibaraki\",\"JP09\":\"Tochigi\",\"JP10\":\"Gunma\",\"JP11\":\"Saitama\",\"JP12\":\"Chiba\",\"JP13\":\"Tokyo\",\"JP14\":\"Kanagawa\",\"JP15\":\"Niigata\",\"JP16\":\"Toyama\",\"JP17\":\"Ishikawa\",\"JP18\":\"Fukui\",\"JP19\":\"Yamanashi\",\"JP20\":\"Nagano\",\"JP21\":\"Gifu\",\"JP22\":\"Shizuoka\",\"JP23\":\"Aichi\",\"JP24\":\"Mie\",\"JP25\":\"Shiga\",\"JP26\":\"Kyoto\",\"JP27\":\"Osaka\",\"JP28\":\"Hyogo\",\"JP29\":\"Nara\",\"JP30\":\"Wakayama\",\"JP31\":\"Tottori\",\"JP32\":\"Shimane\",\"JP33\":\"Okayama\",\"JP34\":\"Hiroshima\",\"JP35\":\"Yamaguchi\",\"JP36\":\"Tokushima\",\"JP37\":\"Kagawa\",\"JP38\":\"Ehime\",\"JP39\":\"Coch\\u00edn\",\"JP40\":\"Fukuoka\",\"JP41\":\"Saga\",\"JP42\":\"Nagasaki\",\"JP43\":\"Kumamoto\",\"JP44\":\"\\u014cita\",\"JP45\":\"Miyazaki\",\"JP46\":\"Kagoshima\",\"JP47\":\"Okinawa\"},\"KE\":{\"KE01\":\"Baringo\",\"KE02\":\"Bomet\",\"KE03\":\"Bungoma\",\"KE04\":\"Busia\",\"KE05\":\"Elgeyo-Marakwet\",\"KE06\":\"Embu\",\"KE07\":\"Garissa\",\"KE08\":\"Homa Bay\",\"KE09\":\"Isiolo\",\"KE10\":\"Kajiado\",\"KE11\":\"Kakamega\",\"KE12\":\"Kericho\",\"KE13\":\"Kiambu\",\"KE14\":\"Kilifi\",\"KE15\":\"Kirinyaga\",\"KE16\":\"Kisii\",\"KE17\":\"Kisumu\",\"KE18\":\"Kitui\",\"KE19\":\"Kwale\",\"KE20\":\"Laikipia\",\"KE21\":\"Lamu\",\"KE22\":\"Machakos\",\"KE23\":\"Makueni\",\"KE24\":\"Mandera\",\"KE25\":\"Marsabit\",\"KE26\":\"Meru\",\"KE27\":\"Migori\",\"KE28\":\"Mombasa\",\"KE29\":\"Murang\\u2019a\",\"KE30\":\"Condado de Nairobi \",\"KE31\":\"Nakuru\",\"KE32\":\"Nandi\",\"KE33\":\"Narok\",\"KE34\":\"Nyamira\",\"KE35\":\"Nyandarua\",\"KE36\":\"Nyeri\",\"KE37\":\"Samburu\",\"KE38\":\"Siaya\",\"KE39\":\"Taita-Taveta\",\"KE40\":\"Tana River\",\"KE41\":\"Tharaka-Nithi\",\"KE42\":\"Trans Nzoia\",\"KE43\":\"Turkana\",\"KE44\":\"Uasin Gishu\",\"KE45\":\"Vihiga\",\"KE46\":\"Wajir\",\"KE47\":\"West Pokot\"},\"KN\":{\"KNK\":\"Saint Kitts\",\"KNN\":\"Nevis\",\"KN01\":\"Christ Church Nichola Town\",\"KN02\":\"Saint Anne Sandy Point\",\"KN03\":\"Saint George Basseterre\",\"KN04\":\"Saint George Gingerland\",\"KN05\":\"Saint James Windward\",\"KN06\":\"Saint John Capisterre\",\"KN07\":\"Saint John Figtree\",\"KN08\":\"Saint Mary Cayon\",\"KN09\":\"Saint Paul Capisterre\",\"KN10\":\"Saint Paul Charlestown\",\"KN11\":\"Saint Peter Basseterre\",\"KN12\":\"Saint Thomas Lowland\",\"KN13\":\"Saint Thomas Middle Island\",\"KN15\":\"Trinity Palmetto Point\"},\"KR\":[],\"KW\":[],\"LA\":{\"AT\":\"Attapeu\",\"BK\":\"Bokeo\",\"BL\":\"Bolikhamsai\",\"CH\":\"Champasak\",\"HO\":\"Houaphanh\",\"KH\":\"Khammouane\",\"LM\":\"Luang Namtha\",\"LP\":\"Luang Prabang\",\"OU\":\"Oudomxay\",\"PH\":\"Phongsaly\",\"SL\":\"Salavan\",\"SV\":\"Savannakhet\",\"VI\":\"Provincia de Vientiane\",\"VT\":\"Vientiane\",\"XA\":\"Sainyabuli\",\"XE\":\"Sekong\",\"XI\":\"Xiangkhouang\",\"XS\":\"Xaisomboun\"},\"LB\":[],\"LI\":[],\"LR\":{\"BM\":\"Bomi\",\"BN\":\"Bong\",\"GA\":\"Gbarpolu\",\"GB\":\"Grand Bassa\",\"GC\":\"Grand Cape Mount\",\"GG\":\"Grand Gedeh\",\"GK\":\"Grand Kru\",\"LO\":\"Lofa\",\"MA\":\"Margibi\",\"MY\":\"Maryland\",\"MO\":\"Montserrado\",\"NM\":\"Nimba\",\"RV\":\"Rivercess\",\"RG\":\"River Gee\",\"SN\":\"Sinoe\"},\"LU\":[],\"MA\":{\"maagd\":\"Agadir-Ida Ou Tanane\",\"maazi\":\"Azilal\",\"mabem\":\"B\\u00e9ni-Mellal\",\"maber\":\"Berkane\",\"mabes\":\"Ben Slimane\",\"mabod\":\"Boujdour\",\"mabom\":\"Boulemane\",\"mabrr\":\"Berrechid\",\"macas\":\"Casablanca\",\"mache\":\"Chefchaouen\",\"machi\":\"Chichaoua\",\"macht\":\"Chtouka A\\u00eft Baha\",\"madri\":\"Driouch\",\"maedi\":\"Essaouira\",\"maerr\":\"Errachidia\",\"mafah\":\"Fahs-Beni Makada\",\"mafes\":\"F\\u00e8s-Dar-Dbibegh\",\"mafig\":\"Figuig\",\"mafqh\":\"Fquih Ben Salah\",\"mague\":\"Guelmim\",\"maguf\":\"Guercif\",\"mahaj\":\"El Hajeb\",\"mahao\":\"Al Haouz\",\"mahoc\":\"Al Hoce\\u00efma\",\"maifr\":\"Ifrane\",\"maine\":\"Inezgane-A\\u00eft Melloul\",\"majdi\":\"El Jadida\",\"majra\":\"Jerada\",\"maken\":\"K\\u00e9nitra\",\"makes\":\"Kelaat Sraghna\",\"makhe\":\"Khemisset\",\"makhn\":\"Kh\\u00e9nifra\",\"makho\":\"Khouribga\",\"malaa\":\"La\\u00e2youne\",\"malar\":\"Larache\",\"mamar\":\"Marrakech\",\"mamdf\":\"M\\u2019diq-Fnideq\",\"mamed\":\"M\\u00e9diouna\",\"mamek\":\"Mekn\\u00e8s\",\"mamid\":\"Midelt\",\"mammd\":\"Marrakech-Medina\",\"mammn\":\"Marrakech-Menara\",\"mamoh\":\"Mohammedia\",\"mamou\":\"Moulay Yacoub\",\"manad\":\"Nador\",\"manou\":\"Nouaceur\",\"maoua\":\"Ouarzazate\",\"maoud\":\"Oued Ed-Dahab\",\"maouj\":\"Oujda-Angad\",\"maouz\":\"Ouezzane\",\"marab\":\"Rabat\",\"mareh\":\"Rehamna\",\"masaf\":\"Safi\",\"masal\":\"Sal\\u00e9\",\"masef\":\"Sefrou\",\"maset\":\"Settat\",\"masib\":\"Sidi Bennour\",\"masif\":\"Sidi Ifni\",\"masik\":\"Sidi Kacem\",\"masil\":\"Sidi Slimane\",\"maskh\":\"Skhirat-T\\u00e9mara\",\"masyb\":\"Sidi Youssef Ben Ali\",\"mataf\":\"Tarfaya (EH-partial)\",\"matai\":\"Taourirt\",\"matao\":\"Taounate\",\"matar\":\"Taroudant\",\"matat\":\"Tata\",\"mataz\":\"Taza\",\"matet\":\"T\\u00e9touan\",\"matin\":\"Tinghir\",\"matiz\":\"Tiznit\",\"matng\":\"Tangier-Assilah\",\"matnt\":\"Tan-Tan\",\"mayus\":\"Youssoufia\",\"mazag\":\"Zagora\"},\"MD\":{\"C\":\"Chi\\u0219in\\u0103u\",\"BL\":\"B\\u0103l\\u021bi\",\"AN\":\"Anenii Noi\",\"BS\":\"Basarabeasca\",\"BR\":\"Briceni\",\"CH\":\"Cahul\",\"CT\":\"Cantemir\",\"CL\":\"C\\u0103l\\u0103ra\\u0219i\",\"CS\":\"C\\u0103u\\u0219eni\",\"CM\":\"Cimi\\u0219lia\",\"CR\":\"Criuleni\",\"DN\":\"Dondu\\u0219eni\",\"DR\":\"Drochia\",\"DB\":\"Dub\\u0103sari\",\"ED\":\"Edine\\u021b\",\"FL\":\"F\\u0103le\\u0219ti\",\"FR\":\"Flore\\u0219ti\",\"GE\":\"UTA G\\u0103g\\u0103uzia\",\"GL\":\"Glodeni\",\"HN\":\"H\\u00eence\\u0219ti\",\"IL\":\"Ialoveni\",\"LV\":\"Leova\",\"NS\":\"Nisporeni\",\"OC\":\"Ocni\\u021ba\",\"OR\":\"Orhei\",\"RZ\":\"Rezina\",\"RS\":\"R\\u00ee\\u0219cani\",\"SG\":\"S\\u00eengerei\",\"SR\":\"Soroca\",\"ST\":\"Str\\u0103\\u0219eni\",\"SD\":\"\\u0218old\\u0103ne\\u0219ti\",\"SV\":\"\\u0218tefan Vod\\u0103\",\"TR\":\"Taraclia\",\"TL\":\"Telene\\u0219ti\",\"UN\":\"Ungheni\"},\"MF\":[],\"MQ\":[],\"MT\":[],\"MX\":{\"DF\":\"Ciudad de M\\u00e9xico\",\"JA\":\"Jalisco\",\"NL\":\"Nuevo Le\\u00f3n\",\"AG\":\"Aguascalientes\",\"BC\":\"Baja California\",\"BS\":\"Baja California Sur\",\"CM\":\"Campeche\",\"CS\":\"Chiapas\",\"CH\":\"Chihuahua\",\"CO\":\"Coahuila\",\"CL\":\"Colima\",\"DG\":\"Durango\",\"GT\":\"Guanajuato\",\"GR\":\"Guerrero\",\"HG\":\"Hidalgo\",\"MX\":\"Estado de M\\u00e9xico\",\"MI\":\"Michoac\\u00e1n\",\"MO\":\"Morelos\",\"NA\":\"Nayarit\",\"OA\":\"Oaxaca\",\"PU\":\"Puebla\",\"QT\":\"Quer\\u00e9taro\",\"QR\":\"Quintana Roo\",\"SL\":\"San Luis Potos\\u00ed\",\"SI\":\"Sinaloa\",\"SO\":\"Sonora\",\"TB\":\"Tabasco\",\"TM\":\"Tamaulipas\",\"TL\":\"Tlaxcala\",\"VE\":\"Veracruz\",\"YU\":\"Yucat\\u00e1n\",\"ZA\":\"Zacatecas\"},\"MY\":{\"JHR\":\"Johor\",\"KDH\":\"Kedah\",\"KTN\":\"Kelantan\",\"LBN\":\"Labuan\",\"MLK\":\"Malaca (Melaca)\",\"NSN\":\"Negeri Sembilan\",\"PHG\":\"Pahang\",\"PNG\":\"Penang (Pulau Pinang)\",\"PRK\":\"Perak\",\"PLS\":\"Perlis\",\"SBH\":\"Sabah\",\"SWK\":\"Sarawak\",\"SGR\":\"Selangor\",\"TRG\":\"Terengganu\",\"PJY\":\"Putrajaya\",\"KUL\":\"Kuala Lumpur\"},\"MZ\":{\"MZP\":\"Cabo Delgado\",\"MZG\":\"Gaza\",\"MZI\":\"Inhambane\",\"MZB\":\"Manica\",\"MZL\":\"Provincia de Maputo\",\"MZMPM\":\"Maputo\",\"MZN\":\"Nampula\",\"MZA\":\"Niassa\",\"MZS\":\"Sofala\",\"MZT\":\"Tete\",\"MZQ\":\"Zamb\\u00e9zia\"},\"NA\":{\"ER\":\"Erongo\",\"HA\":\"Hardap\",\"KA\":\"Karas\",\"KE\":\"Kavango este\",\"KW\":\"Kavango oeste\",\"KH\":\"Khomas\",\"KU\":\"Kunene\",\"OW\":\"Ohangwena\",\"OH\":\"Omaheke\",\"OS\":\"Omusati\",\"ON\":\"Oshana\",\"OT\":\"Oshikoto\",\"OD\":\"Otjozondjupa\",\"CA\":\"Zambezi\"},\"NG\":{\"AB\":\"Abia\",\"FC\":\"Abuja\",\"AD\":\"Adamawa\",\"AK\":\"Akwa Ibom\",\"AN\":\"Anambra\",\"BA\":\"Bauchi\",\"BY\":\"Bayelsa\",\"BE\":\"Benue\",\"BO\":\"Borno\",\"CR\":\"Cross River\",\"DE\":\"Delta\",\"EB\":\"Ebonyi\",\"ED\":\"Edo\",\"EK\":\"Ekiti\",\"EN\":\"Enugu\",\"GO\":\"Gombe\",\"IM\":\"Imo\",\"JI\":\"Jigawa\",\"KD\":\"Kaduna\",\"KN\":\"Kano\",\"KT\":\"Katsina\",\"KE\":\"Kebbi\",\"KO\":\"Kogi\",\"KW\":\"Kwara\",\"LA\":\"Lagos\",\"NA\":\"Nasarawa\",\"NI\":\"N\\u00edger\",\"OG\":\"Ogun\",\"ON\":\"Ondo\",\"OS\":\"Osun\",\"OY\":\"Oyo\",\"PL\":\"Plateau\",\"RI\":\"Rivers\",\"SO\":\"Sokoto\",\"TA\":\"Taraba\",\"YO\":\"Yobe\",\"ZA\":\"Zamfara\"},\"NL\":[],\"NO\":[],\"NP\":{\"BAG\":\"Bagmati\",\"BHE\":\"Bheri\",\"DHA\":\"Dhaulagiri\",\"GAN\":\"Gandaki\",\"JAN\":\"Janakpur\",\"KAR\":\"Karnali\",\"KOS\":\"Koshi\",\"LUM\":\"Lumbini\",\"MAH\":\"Mahakali\",\"MEC\":\"Mechi\",\"NAR\":\"Narayani\",\"RAP\":\"Rapti\",\"SAG\":\"Sagarmatha\",\"SET\":\"Seti\"},\"NI\":{\"NI-AN\":\"Atl\\u00e1ntico Norte\",\"NI-AS\":\"Atl\\u00e1ntico Sur\",\"NI-BO\":\"Boaco\",\"NI-CA\":\"Carazo\",\"NI-CI\":\"Chinandega\",\"NI-CO\":\"Chontales\",\"NI-ES\":\"Estel\\u00ed\",\"NI-GR\":\"Granada\",\"NI-JI\":\"Jinotega\",\"NI-LE\":\"Le\\u00f3n\",\"NI-MD\":\"Madriz\",\"NI-MN\":\"Managua\",\"NI-MS\":\"Masaya\",\"NI-MT\":\"Matagalpa\",\"NI-NS\":\"Nueva Segovia\",\"NI-RI\":\"Rivas\",\"NI-SJ\":\"R\\u00edo San Juan\"},\"NZ\":{\"NTL\":\"Northland\",\"AUK\":\"Auckland\",\"WKO\":\"Waikato\",\"BOP\":\"Bay of Plenty\",\"TKI\":\"Taranaki\",\"GIS\":\"Gisborne\",\"HKB\":\"Hawke\\u2019s Bay\",\"MWT\":\"Manawatu-Whanganui\",\"WGN\":\"Wellington\",\"NSN\":\"Nelson\",\"MBH\":\"Marlborough\",\"TAS\":\"Tasman\",\"WTC\":\"Costa Oeste\",\"CAN\":\"Canterbury\",\"OTA\":\"Otago\",\"STL\":\"Southland\"},\"PA\":{\"PA-1\":\"Bocas del Toro\",\"PA-2\":\"Cocl\\u00e9\",\"PA-3\":\"Col\\u00f3n\",\"PA-4\":\"Chiriqu\\u00ed\",\"PA-5\":\"Dari\\u00e9n\",\"PA-6\":\"Herrera\",\"PA-7\":\"Los Santos\",\"PA-8\":\"Panam\\u00e1\",\"PA-9\":\"Veraguas\",\"PA-10\":\"West Panam\\u00e1\",\"PA-EM\":\"Ember\\u00e1\",\"PA-KY\":\"Guna Yala\",\"PA-NB\":\"Ng\\u00f6be-Bugl\\u00e9\"},\"PE\":{\"CAL\":\"El Callao\",\"LMA\":\"Municipalidad Metropolitana de Lima\",\"AMA\":\"Amazonas\",\"ANC\":\"Ancash\",\"APU\":\"Apur\\u00edmac\",\"ARE\":\"Arequipa\",\"AYA\":\"Ayacucho\",\"CAJ\":\"Cajamarca\",\"CUS\":\"Cusco\",\"HUV\":\"Huancavelica\",\"HUC\":\"Hu\\u00e1nuco\",\"ICA\":\"Ica\",\"JUN\":\"Jun\\u00edn\",\"LAL\":\"La Libertad\",\"LAM\":\"Lambayeque\",\"LIM\":\"Lima\",\"LOR\":\"Loreto\",\"MDD\":\"Madre de Dios\",\"MOQ\":\"Moquegua\",\"PAS\":\"Pasco\",\"PIU\":\"Piura\",\"PUN\":\"Puno\",\"SAM\":\"San Mart\\u00edn\",\"TAC\":\"Tacna\",\"TUM\":\"Tumbes\",\"UCA\":\"Ucayali\"},\"PH\":{\"ABR\":\"Abra\",\"AGN\":\"Agusan del Norte\",\"AGS\":\"Agusan del Sur\",\"AKL\":\"Aklan\",\"ALB\":\"Albay\",\"ANT\":\"Antique\",\"APA\":\"Apayao\",\"AUR\":\"Aurora\",\"BAS\":\"Basilan\",\"BAN\":\"Bataan\",\"BTN\":\"Batanes\",\"BTG\":\"Batangas\",\"BEN\":\"Benguet\",\"BIL\":\"Biliran\",\"BOH\":\"Bohol\",\"BUK\":\"Bukidnon\",\"BUL\":\"Bulacan\",\"CAG\":\"Cagayan\",\"CAN\":\"Camarines Norte\",\"CAS\":\"Camarines Sur\",\"CAM\":\"Camiguin\",\"CAP\":\"Capiz\",\"CAT\":\"Catanduanes\",\"CAV\":\"Cavite\",\"CEB\":\"Cebu\",\"COM\":\"Valle Compostela\",\"NCO\":\"Cotabato\",\"DAV\":\"Davao del Norte\",\"DAS\":\"Davao del Sur\",\"DAC\":\"Davao Occidental\",\"DAO\":\"Davao Oriental\",\"DIN\":\"Islas Dinagat\",\"EAS\":\"Samar Este\",\"GUI\":\"Guimaras\",\"IFU\":\"Ifugao\",\"ILN\":\"Ilocos Norte\",\"ILS\":\"Ilocos Sur\",\"ILI\":\"Iloilo\",\"ISA\":\"Isabela\",\"KAL\":\"Kalinga\",\"LUN\":\"La Union\",\"LAG\":\"Laguna\",\"LAN\":\"Lanao del Norte\",\"LAS\":\"Lanao del Sur\",\"LEY\":\"Leyte\",\"MAG\":\"Maguindanao\",\"MAD\":\"Marinduque\",\"MAS\":\"Masbate\",\"MSC\":\"Misamis Occidental\",\"MSR\":\"Misamis Oriental\",\"MOU\":\"Mountain Province\",\"NEC\":\"Negros Occidental\",\"NER\":\"Negros Oriental\",\"NSA\":\"Samar del Norte\",\"NUE\":\"Nueva Ecija\",\"NUV\":\"Nueva Vizcaya\",\"MDC\":\"Mindoro Occidental\",\"MDR\":\"Mindoro Oriental\",\"PLW\":\"Palawan\",\"PAM\":\"Pampanga\",\"PAN\":\"Pangasinan\",\"QUE\":\"Quezon\",\"QUI\":\"Quirino\",\"RIZ\":\"Rizal\",\"ROM\":\"Romblon\",\"WSA\":\"Samar\",\"SAR\":\"Sarangani\",\"SIQ\":\"Siquijor\",\"SOR\":\"Sorsogon\",\"SCO\":\"Cotabato Sur\",\"SLE\":\"Leyte del Sur\",\"SUK\":\"Sultan Kudarat\",\"SLU\":\"Sulu\",\"SUN\":\"Surigao del Norte\",\"SUR\":\"Surigao del Sur\",\"TAR\":\"Tarlac\",\"TAW\":\"Tawi-Tawi\",\"ZMB\":\"Zambales\",\"ZAN\":\"Zamboanga del Norte\",\"ZAS\":\"Zamboanga del Sur\",\"ZSI\":\"Zamboanga Sibugay\",\"00\":\"Metro Manila\"},\"PK\":{\"JK\":\"Azad Cachemira\",\"BA\":\"Baluchist\\u00e1n\",\"TA\":\"FATA\",\"GB\":\"Gilgit-Baltist\\u00e1n \",\"IS\":\"Territorio de la capital Islamabad\",\"KP\":\"Khyber Pakhtunkhwa\",\"PB\":\"Punjab\",\"SD\":\"Sindh\"},\"PL\":[],\"PR\":[],\"PT\":[],\"PY\":{\"PY-ASU\":\"Asunci\\u00f3n\",\"PY-1\":\"Concepci\\u00f3n\",\"PY-2\":\"San Pedro\",\"PY-3\":\"Cordillera\",\"PY-4\":\"Guair\\u00e1\",\"PY-5\":\"Caaguaz\\u00fa\",\"PY-6\":\"Caazap\\u00e1\",\"PY-7\":\"Itap\\u00faa\",\"PY-8\":\"Misiones\",\"PY-9\":\"Paraguar\\u00ed\",\"PY-10\":\"Alto Paran\\u00e1\",\"PY-11\":\"Central\",\"PY-12\":\"\\u00d1eembuc\\u00fa\",\"PY-13\":\"Amambay\",\"PY-14\":\"Canindey\\u00fa\",\"PY-15\":\"Presidente Hayes\",\"PY-16\":\"Alto Paraguay\",\"PY-17\":\"Boquer\\u00f3n\"},\"RE\":[],\"RO\":{\"AB\":\"Alba\",\"AR\":\"Arad\",\"AG\":\"Arge\\u0219\",\"BC\":\"Bac\\u0103u\",\"BH\":\"Bihor\",\"BN\":\"Bistri\\u021ba-N\\u0103s\\u0103ud\",\"BT\":\"Boto\\u0219ani\",\"BR\":\"Br\\u0103ila\",\"BV\":\"Bra\\u0219ov\",\"B\":\"Bucure\\u0219ti\",\"BZ\":\"Buz\\u0103u\",\"CL\":\"C\\u0103l\\u0103ra\\u0219i\",\"CS\":\"Cara\\u0219-Severin\",\"CJ\":\"Cluj\",\"CT\":\"Constan\\u021ba\",\"CV\":\"Covasna\",\"DB\":\"D\\u00e2mbovi\\u021ba\",\"DJ\":\"Dolj\",\"GL\":\"Gala\\u021bi\",\"GR\":\"Giurgiu\",\"GJ\":\"Gorj\",\"HR\":\"Harghita\",\"HD\":\"Hunedoara\",\"IL\":\"Lalomi\\u021ba\",\"IS\":\"Ia\\u0219i\",\"IF\":\"Ilfov\",\"MM\":\"Maramure\\u0219\",\"MH\":\"Mehedin\\u021bi\",\"MS\":\"Mure\\u0219\",\"NT\":\"Neam\\u021b\",\"OT\":\"Olt\",\"PH\":\"Prahova\",\"SJ\":\"S\\u0103laj\",\"SM\":\"Satu Mare\",\"SB\":\"Sibiu\",\"SV\":\"Suceava\",\"TR\":\"Teleorman\",\"TM\":\"Timi\\u0219\",\"TL\":\"Tulcea\",\"VL\":\"V\\u00e2lcea\",\"VS\":\"Vaslui\",\"VN\":\"Vrancea\"},\"SN\":{\"SNDB\":\"Diourbel\",\"SNDK\":\"Dakar\",\"SNFK\":\"Fatick\",\"SNKA\":\"Kaffrine\",\"SNKD\":\"Kolda\",\"SNKE\":\"K\\u00e9dougou\",\"SNKL\":\"Kaolack\",\"SNLG\":\"Louga\",\"SNMT\":\"Matam\",\"SNSE\":\"S\\u00e9dhiou\",\"SNSL\":\"Saint-Louis\",\"SNTC\":\"Tambacounda\",\"SNTH\":\"Thi\\u00e8s\",\"SNZG\":\"Ziguinchor\"},\"SG\":[],\"SK\":[],\"SI\":[],\"SV\":{\"SV-AH\":\"Ahuachap\\u00e1n\",\"SV-CA\":\"Caba\\u00f1as\",\"SV-CH\":\"Chalatenango\",\"SV-CU\":\"Cuscatl\\u00e1n\",\"SV-LI\":\"La Libertad\",\"SV-MO\":\"Moraz\\u00e1n\",\"SV-PA\":\"La Paz\",\"SV-SA\":\"Santa Ana\",\"SV-SM\":\"San Miguel\",\"SV-SO\":\"Sonsonate\",\"SV-SS\":\"San Salvador\",\"SV-SV\":\"San Vicente\",\"SV-UN\":\"La Uni\\u00f3n\",\"SV-US\":\"Usulut\\u00e1n\"},\"TH\":{\"TH-37\":\"Amnat Charoen\",\"TH-15\":\"Ang Thong\",\"TH-14\":\"Ayutthaya\",\"TH-10\":\"Bangkok\",\"TH-38\":\"Bueng Kan\",\"TH-31\":\"Buri Ram\",\"TH-24\":\"Chachoengsao\",\"TH-18\":\"Chai Nat\",\"TH-36\":\"Chaiyaphum\",\"TH-22\":\"Chanthaburi\",\"TH-50\":\"Chiang Mai\",\"TH-57\":\"Chiang Rai\",\"TH-20\":\"Chonburi\",\"TH-86\":\"Chumphon\",\"TH-46\":\"Kalasin\",\"TH-62\":\"Kamphaeng Phet\",\"TH-71\":\"Kanchanaburi\",\"TH-40\":\"Khon Kaen\",\"TH-81\":\"Krabi\",\"TH-52\":\"Lampang\",\"TH-51\":\"Lamphun\",\"TH-42\":\"Loei\",\"TH-16\":\"Lopburi\",\"TH-58\":\"Mae Hong Son\",\"TH-44\":\"Maha Sarakham\",\"TH-49\":\"Mukdahan\",\"TH-26\":\"Nakhon Nayok\",\"TH-73\":\"Nakhon Pathom\",\"TH-48\":\"Nakhon Phanom\",\"TH-30\":\"Nakhon Ratchasima\",\"TH-60\":\"Nakhon Sawan\",\"TH-80\":\"Nakhon Si Thammarat\",\"TH-55\":\"Nan\",\"TH-96\":\"Narathiwat\",\"TH-39\":\"Nong Bua Lam Phu\",\"TH-43\":\"Nong Khai\",\"TH-12\":\"Nonthaburi\",\"TH-13\":\"Pathum Thani\",\"TH-94\":\"Pattani\",\"TH-82\":\"Phang Nga\",\"TH-93\":\"Phatthalung\",\"TH-56\":\"Phayao\",\"TH-67\":\"Phetchabun\",\"TH-76\":\"Phetchaburi\",\"TH-66\":\"Phichit\",\"TH-65\":\"Phitsanulok\",\"TH-54\":\"Phrae\",\"TH-83\":\"Phuket\",\"TH-25\":\"Prachin Buri\",\"TH-77\":\"Prachuap Khiri Khan\",\"TH-85\":\"Ranong\",\"TH-70\":\"Ratchaburi\",\"TH-21\":\"Rayong\",\"TH-45\":\"Roi Et\",\"TH-27\":\"Sa Kaeo\",\"TH-47\":\"Sakon Nakhon\",\"TH-11\":\"Samut Prakan\",\"TH-74\":\"Samut Sakhon\",\"TH-75\":\"Samut Songkhram\",\"TH-19\":\"Saraburi\",\"TH-91\":\"Satun\",\"TH-17\":\"Sing Buri\",\"TH-33\":\"Sisaket\",\"TH-90\":\"Songkhla\",\"TH-64\":\"Sukhothai\",\"TH-72\":\"Suphan Buri\",\"TH-84\":\"Surat Thani\",\"TH-32\":\"Surin\",\"TH-63\":\"Tak\",\"TH-92\":\"Trang\",\"TH-23\":\"Trat\",\"TH-34\":\"Ubon Ratchathani\",\"TH-41\":\"Udon Thani\",\"TH-61\":\"Uthai Thani\",\"TH-53\":\"Uttaradit\",\"TH-95\":\"Yala\",\"TH-35\":\"Yasothon\"},\"TR\":{\"TR01\":\"Adana\",\"TR02\":\"Ad\\u0131yaman\",\"TR03\":\"Afyon\",\"TR04\":\"A\\u011fr\\u0131\",\"TR05\":\"Amasya\",\"TR06\":\"Ankara\",\"TR07\":\"Antalya\",\"TR08\":\"Artvin\",\"TR09\":\"Ayd\\u0131n\",\"TR10\":\"Bal\\u0131kesir\",\"TR11\":\"Bilecik\",\"TR12\":\"Bing\\u00f6l\",\"TR13\":\"Bitlis\",\"TR14\":\"Bolu\",\"TR15\":\"Burdur\",\"TR16\":\"Bursa\",\"TR17\":\"\\u00c7anakkale\",\"TR18\":\"\\u00c7ank\\u0131r\\u0131\",\"TR19\":\"\\u00c7orum\",\"TR20\":\"Denizli\",\"TR21\":\"Diyarbak\\u0131r\",\"TR22\":\"Edirne\",\"TR23\":\"Elaz\\u0131\\u011f\",\"TR24\":\"Erzincan\",\"TR25\":\"Erzurum\",\"TR26\":\"Eski\\u015fehir\",\"TR27\":\"Gaziantep\",\"TR28\":\"Giresun\",\"TR29\":\"G\\u00fcm\\u00fc\\u015fhane\",\"TR30\":\"Hakkari\",\"TR31\":\"Hatay\",\"TR32\":\"Isparta\",\"TR33\":\"\\u0130\\u00e7el\",\"TR34\":\"Estambul\",\"TR35\":\"\\u0130zmir\",\"TR36\":\"Kars\",\"TR37\":\"Kastamonu\",\"TR38\":\"Kayseri\",\"TR39\":\"K\\u0131rklareli\",\"TR40\":\"K\\u0131r\\u015fehir\",\"TR41\":\"Kocaeli\",\"TR42\":\"Konya\",\"TR43\":\"K\\u00fctahya\",\"TR44\":\"Malatya\",\"TR45\":\"Manisa\",\"TR46\":\"Kahramanmara\\u015f\",\"TR47\":\"Mardin\",\"TR48\":\"Mu\\u011fla\",\"TR49\":\"Mu\\u015f\",\"TR50\":\"Nev\\u015fehir\",\"TR51\":\"Ni\\u011fde\",\"TR52\":\"Ordu\",\"TR53\":\"Rize\",\"TR54\":\"Sakarya\",\"TR55\":\"Samsun\",\"TR56\":\"Siirt\",\"TR57\":\"Sinop\",\"TR58\":\"Sivas\",\"TR59\":\"Tekirda\\u011f\",\"TR60\":\"Tokat\",\"TR61\":\"Trabzon\",\"TR62\":\"Tunceli\",\"TR63\":\"\\u015eanl\\u0131urfa\",\"TR64\":\"U\\u015fak\",\"TR65\":\"Van\",\"TR66\":\"Yozgat\",\"TR67\":\"Zonguldak\",\"TR68\":\"Aksaray\",\"TR69\":\"Bayburt\",\"TR70\":\"Karaman\",\"TR71\":\"K\\u0131r\\u0131kkale\",\"TR72\":\"Batman\",\"TR73\":\"\\u015e\\u0131rnak\",\"TR74\":\"Bart\\u0131n\",\"TR75\":\"Ardahan\",\"TR76\":\"I\\u011fd\\u0131r\",\"TR77\":\"Yalova\",\"TR78\":\"Karab\\u00fck\",\"TR79\":\"Kilis\",\"TR80\":\"Osmaniye\",\"TR81\":\"D\\u00fczce\"},\"TZ\":{\"TZ01\":\"Arusha\",\"TZ02\":\"Dar es Salaam\",\"TZ03\":\"Dodoma\",\"TZ04\":\"Iringa\",\"TZ05\":\"Kagera\",\"TZ06\":\"Pemba Norte\",\"TZ07\":\"Zanzibar Norte\",\"TZ08\":\"Kigoma\",\"TZ09\":\"Kilimanjaro\",\"TZ10\":\"Pemba Sur\",\"TZ11\":\"Zanzibar Sur\",\"TZ12\":\"Lindi\",\"TZ13\":\"Mara\",\"TZ14\":\"Mbeya\",\"TZ15\":\"Zanzibar Oeste\",\"TZ16\":\"Morogoro\",\"TZ17\":\"Mtwara\",\"TZ18\":\"Mwanza\",\"TZ19\":\"Coast\",\"TZ20\":\"Rukwa\",\"TZ21\":\"Ruvuma\",\"TZ22\":\"Shinyanga\",\"TZ23\":\"Singida\",\"TZ24\":\"Tabora\",\"TZ25\":\"Tanga\",\"TZ26\":\"Manyara\",\"TZ27\":\"Geita\",\"TZ28\":\"Katavi\",\"TZ29\":\"Njombe\",\"TZ30\":\"Simiyu\"},\"LK\":[],\"RS\":{\"RS00\":\"Belgrado\",\"RS14\":\"Bor\",\"RS11\":\"Brani\\u010devo\",\"RS02\":\"Banat central\",\"RS10\":\"Danubio\",\"RS23\":\"Jablanica\",\"RS09\":\"Kolubara\",\"RS08\":\"Ma\\u010dva\",\"RS17\":\"Morava\",\"RS20\":\"Ni\\u0161ava\",\"RS01\":\"Ba\\u010dka norte\",\"RS03\":\"Banat norte\",\"RS24\":\"P\\u010dinja\",\"RS22\":\"Pirot\",\"RS13\":\"Pomoravlje\",\"RS19\":\"Rasina\",\"RS18\":\"Ra\\u0161ka\",\"RS06\":\"Ba\\u010dka sur\",\"RS04\":\"Banat sur\",\"RS07\":\"Srem\",\"RS12\":\"\\u0160umadija\",\"RS21\":\"Toplica\",\"RS05\":\"West Ba\\u010dka\",\"RS15\":\"Zaje\\u010dar\",\"RS16\":\"Zlatibor\",\"RS25\":\"Kosovo\",\"RS26\":\"Pe\\u0107\",\"RS27\":\"Prizren\",\"RS28\":\"Kosovska Mitrovica\",\"RS29\":\"Kosovo-Pomoravlje\",\"RSKM\":\"Kosovo-Metohija\",\"RSVO\":\"Vojvodina\"},\"RW\":[],\"SE\":[],\"UA\":{\"UA05\":\"Vinnychchyna\",\"UA07\":\"Volyn\",\"UA09\":\"Luhanshchyna\",\"UA12\":\"Dnipropetrovshchyna\",\"UA14\":\"Donechchyna\",\"UA18\":\"Zhytomyrshchyna\",\"UA21\":\"Zakarpattia\",\"UA23\":\"Zaporizhzhya\",\"UA26\":\"Prykarpattia\",\"UA30\":\"Kyiv\",\"UA32\":\"Kyivshchyna\",\"UA35\":\"Kirovohradschyna\",\"UA40\":\"Sebastopol\",\"UA43\":\"Crimea\",\"UA46\":\"Lvivshchyna\",\"UA48\":\"Mykolayivschyna\",\"UA51\":\"Odeshchyna\",\"UA53\":\"Poltavshchyna\",\"UA56\":\"Rivnenshchyna\",\"UA59\":\"Sumshchyna\",\"UA61\":\"Ternopilshchyna\",\"UA63\":\"Kharkivshchyna\",\"UA65\":\"Khersonshchyna\",\"UA68\":\"Khmelnychchyna\",\"UA71\":\"Cherkashchyna\",\"UA74\":\"Chernihivshchyna\",\"UA77\":\"\\u00d3blast de Chernivts\\u00ed\"},\"UG\":{\"UG314\":\"Abim\",\"UG301\":\"Adjumani\",\"UG322\":\"Agago\",\"UG323\":\"Alebtong\",\"UG315\":\"Amolatar\",\"UG324\":\"Amudat\",\"UG216\":\"Amuria\",\"UG316\":\"Amuru\",\"UG302\":\"Apac\",\"UG303\":\"Arua\",\"UG217\":\"Budaka\",\"UG218\":\"Bududa\",\"UG201\":\"Bugiri\",\"UG235\":\"Bugweri\",\"UG420\":\"Buhweju\",\"UG117\":\"Buikwe\",\"UG219\":\"Bukedea\",\"UG118\":\"Bukomansimbi\",\"UG220\":\"Bukwa\",\"UG225\":\"Bulambuli\",\"UG416\":\"Buliisa\",\"UG401\":\"Bundibugyo\",\"UG430\":\"Bunyangabu\",\"UG402\":\"Bushenyi\",\"UG202\":\"Busia\",\"UG221\":\"Butaleja\",\"UG119\":\"Butambala\",\"UG233\":\"Butebo\",\"UG120\":\"Buvuma\",\"UG226\":\"Buyende\",\"UG317\":\"Dokolo\",\"UG121\":\"Gomba\",\"UG304\":\"Gulu\",\"UG403\":\"Hoima\",\"UG417\":\"Ibanda\",\"UG203\":\"Iganga\",\"UG418\":\"Isingiro\",\"UG204\":\"Jinja\",\"UG318\":\"Kaabong\",\"UG404\":\"Kabale\",\"UG405\":\"Kabarole\",\"UG213\":\"Kaberamaido\",\"UG427\":\"Kagadi\",\"UG428\":\"Kakumiro\",\"UG101\":\"Kalangala\",\"UG222\":\"Kaliro\",\"UG122\":\"Kalungu\",\"UG102\":\"Kampala\",\"UG205\":\"Kamuli\",\"UG413\":\"Kamwenge\",\"UG414\":\"Kanungu\",\"UG206\":\"Kapchorwa\",\"UG236\":\"Kapelebyong\",\"UG126\":\"Kasanda\",\"UG406\":\"Kasese\",\"UG207\":\"Katakwi\",\"UG112\":\"Kayunga\",\"UG407\":\"Kibaale\",\"UG103\":\"Kiboga\",\"UG227\":\"Kibuku\",\"UG432\":\"Kikuube\",\"UG419\":\"Kiruhura\",\"UG421\":\"Kiryandongo\",\"UG408\":\"Kisoro\",\"UG305\":\"Kitgum\",\"UG319\":\"Koboko\",\"UG325\":\"Kole\",\"UG306\":\"Kotido\",\"UG208\":\"Kumi\",\"UG333\":\"Kwania\",\"UG228\":\"Kween\",\"UG123\":\"Kyankwanzi\",\"UG422\":\"Kyegegwa\",\"UG415\":\"Kyenjojo\",\"UG125\":\"Kyotera\",\"UG326\":\"Lamwo\",\"UG307\":\"Lira\",\"UG229\":\"Luuka\",\"UG104\":\"Luwero\",\"UG124\":\"Lwengo\",\"UG114\":\"Lyantonde\",\"UG223\":\"Manafwa\",\"UG320\":\"Maracha\",\"UG105\":\"Masaka\",\"UG409\":\"Masindi\",\"UG214\":\"Mayuge\",\"UG209\":\"Mbale\",\"UG410\":\"Mbarara\",\"UG423\":\"Mitooma\",\"UG115\":\"Mityana\",\"UG308\":\"Moroto\",\"UG309\":\"Moyo\",\"UG106\":\"Mpigi\",\"UG107\":\"Mubende\",\"UG108\":\"Mukono\",\"UG334\":\"Nabilatuk\",\"UG311\":\"Nakapiripirit\",\"UG116\":\"Nakaseke\",\"UG109\":\"Nakasongola\",\"UG230\":\"Namayingo\",\"UG234\":\"Namisindwa\",\"UG224\":\"Namutumba\",\"UG327\":\"Napak\",\"UG310\":\"Nebbi\",\"UG231\":\"Ngora\",\"UG424\":\"Ntoroko\",\"UG411\":\"Ntungamo\",\"UG328\":\"Nwoya\",\"UG331\":\"Omoro\",\"UG329\":\"Otuke\",\"UG321\":\"Oyam\",\"UG312\":\"Pader\",\"UG332\":\"Pakwach\",\"UG210\":\"Pallisa\",\"UG110\":\"Rakai\",\"UG429\":\"Rubanda\",\"UG425\":\"Rubirizi\",\"UG431\":\"Rukiga\",\"UG412\":\"Rukungiri\",\"UG111\":\"Sembabule\",\"UG232\":\"Serere\",\"UG426\":\"Sheema\",\"UG215\":\"Sironko\",\"UG211\":\"Soroti\",\"UG212\":\"Tororo\",\"UG113\":\"Wakiso\",\"UG313\":\"Yumbe\",\"UG330\":\"Zombo\"},\"UM\":{\"81\":\"Isla Baker\",\"84\":\"Isla Howland\",\"86\":\"Isla Jarvis\",\"67\":\"Atol\\u00f3n Johnston\",\"89\":\"Arrecife Kingman\",\"71\":\"Atol\\u00f3n de Midway\",\"76\":\"Isla de Navaza\",\"95\":\"Atol\\u00f3n Palmyra\",\"79\":\"Isla Wake\"},\"US\":{\"AL\":\"Alabama\",\"AK\":\"Alaska\",\"AZ\":\"Arizona\",\"AR\":\"Arkansas\",\"CA\":\"California\",\"CO\":\"Colorado\",\"CT\":\"Connecticut\",\"DE\":\"Delaware\",\"DC\":\"District Of Distrito de Columbia\",\"FL\":\"Florida\",\"GA\":\"Georgia\",\"HI\":\"Hawaii\",\"ID\":\"Idaho\",\"IL\":\"Illinois\",\"IN\":\"Indiana\",\"IA\":\"Iowa\",\"KS\":\"Kansas\",\"KY\":\"Kentucky\",\"LA\":\"Louisiana\",\"ME\":\"Maine\",\"MD\":\"Maryland\",\"MA\":\"Massachusetts\",\"MI\":\"Michigan\",\"MN\":\"Minnesota\",\"MS\":\"Mississippi\",\"MO\":\"Missouri\",\"MT\":\"Montana\",\"NE\":\"Nebraska\",\"NV\":\"Nevada\",\"NH\":\"New Hampshire\",\"NJ\":\"New Jersey\",\"NM\":\"New Mexico\",\"NY\":\"New York\",\"NC\":\"North Carolina\",\"ND\":\"North Dakota\",\"OH\":\"Ohio\",\"OK\":\"Oklahoma\",\"OR\":\"Oreg\\u00f3n\",\"PA\":\"Pennsylvania\",\"RI\":\"Rhode Island\",\"SC\":\"South Carolina\",\"SD\":\"South Dakota\",\"TN\":\"Tennessee\",\"TX\":\"Texas\",\"UT\":\"Utah\",\"VT\":\"Vermont\",\"VA\":\"Virginia\",\"WA\":\"Washington\",\"WV\":\"West Virginia\",\"WI\":\"Wisconsin\",\"WY\":\"Wyoming\",\"AA\":\"Fuerzas Armadas (AA)\",\"AE\":\"Fuerzas Armadas  US\",\"AP\":\"Fuerzas Armadas  US\"},\"UY\":{\"UY-AR\":\"Artigas\",\"UY-CA\":\"Canelones\",\"UY-CL\":\"Cerro Largo\",\"UY-CO\":\"Colonia\",\"UY-DU\":\"Durazno\",\"UY-FS\":\"Flores\",\"UY-FD\":\"Florida\",\"UY-LA\":\"Lavalleja\",\"UY-MA\":\"Maldonado\",\"UY-MO\":\"Montevideo\",\"UY-PA\":\"Paysand\\u00fa\",\"UY-RN\":\"R\\u00edo Negro\",\"UY-RV\":\"Rivera\",\"UY-RO\":\"Rocha\",\"UY-SA\":\"Salto\",\"UY-SJ\":\"San Jos\\u00e9\",\"UY-SO\":\"Soriano\",\"UY-TA\":\"Tacuaremb\\u00f3\",\"UY-TT\":\"Treinta y Tres\"},\"VE\":{\"VE-A\":\"Distrito Capital\",\"VE-B\":\"Anzo\\u00e1tegui\",\"VE-C\":\"Apure\",\"VE-D\":\"Aragua\",\"VE-E\":\"Barinas\",\"VE-F\":\"Bol\\u00edvar\",\"VE-G\":\"Carabobo\",\"VE-H\":\"Cojedes\",\"VE-I\":\"Falc\\u00f3n\",\"VE-J\":\"Gu\\u00e1rico\",\"VE-K\":\"Lara\",\"VE-L\":\"M\\u00e9rida\",\"VE-M\":\"Miranda\",\"VE-N\":\"Monagas\",\"VE-O\":\"Nueva Esparta\",\"VE-P\":\"Portuguesa\",\"VE-R\":\"Sucre\",\"VE-S\":\"T\\u00e1chira\",\"VE-T\":\"Trujillo\",\"VE-U\":\"Yaracuy\",\"VE-V\":\"Zulia\",\"VE-W\":\"Dependencias Federales\",\"VE-X\":\"La Guaira (Vargas)\",\"VE-Y\":\"Delta Amacuro\",\"VE-Z\":\"Amazonas\"},\"VN\":[],\"YT\":[],\"ZA\":{\"EC\":\"Cabo del Este\",\"FS\":\"Estado Libre\",\"GP\":\"Gauteng\",\"KZN\":\"KwaZulu-Natal\",\"LP\":\"Limpopo\",\"MP\":\"Mpumalanga\",\"NC\":\"Provincia Septentrional del Cabo\",\"NW\":\"Noroeste\",\"WC\":\"Provincia Occidental del Cabo\"},\"ZM\":{\"ZM-01\":\"Occidental\",\"ZM-02\":\"Central\",\"ZM-03\":\"Oriental\",\"ZM-04\":\"Luapula\",\"ZM-05\":\"Septentrional\",\"ZM-06\":\"Noroccidental\",\"ZM-07\":\"Meridional\",\"ZM-08\":\"Copperbelt\",\"ZM-09\":\"Lusaka\",\"ZM-10\":\"Muchinga\"}}","i18n_select_state_text":"Elige una opci\u00f3n\u2026"};
+</script>
+<script src="https://pascualbravo.ingejei.com/wp-content/plugins/woocommerce/assets/js/admin/users.min.js?ver=9.8.5" id="wc-users-js"></script>
+<script src="https://pascualbravo.ingejei.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script src="https://pascualbravo.ingejei.com/wp-content/plugins/woocommerce-payments/dist/multi-currency-analytics.js?ver=9.4.0" id="WCPAY_MULTI_CURRENCY_ANALYTICS-js"></script>
+
+<div class="clear"></div></div><!-- wpwrap -->
+<script type="text/javascript">if(typeof wpOnload==='function')wpOnload();</script>
+</body>
+</html>

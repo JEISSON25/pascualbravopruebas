@@ -19,11 +19,11 @@ class TestAgregaryEliminarProductosCarrito():
     self.driver.quit()
   
   def test_agregaryEliminarProductosCarrito(self):
-    self.driver.get("http://localhost:8000//wp-login.php")
-    self.driver.find_element(By.ID, "user_login").send_keys("Grupo3")
-    self.driver.find_element(By.ID, "user_pass	").send_keys("Grupo3pruebasdesoftware")
-    self.driver.get("http://localhost:8000//?post_type=product")
-    self.driver.find_element(By.CSS_SELECTOR, "button.add_to_cart_button[data-product_id=\"25\"]").click()
-    self.driver.get("http://localhost:8000//?page_id=7")
-    self.driver.find_element(By.CSS_SELECTOR, "button.wc-block-cart-item__remove-link[aria-label*=\"Teclado Mecánico\"]").click()
+    self.driver.get("https://pascualbravo.ingejei.com/wp-login.php")
+    self.driver.find_element(By.ID, "user_login").send_keys("JEISIM18@GMAIL.COM")
+    self.driver.find_element(By.ID, "user_pass	").send_keys("|wAVKAaeW6\\n")
+    self.driver.get("https://pascualbravo.ingejei.com/?post_type=product")
+    self.driver.find_element(By.CSS_SELECTOR, "button.add_to_cart_button[data-product_id=\"24\"]").click()
+    self.driver.get("https://pascualbravo.ingejei.com/?page_id=7")
+    self.driver.find_element(By.CSS_SELECTOR, "button.wc-block-cart-item__remove-link[aria-label*=\"Hamburguesa Rica\"]").click()
   
