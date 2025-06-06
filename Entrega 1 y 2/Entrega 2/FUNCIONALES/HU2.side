@@ -1,0 +1,81 @@
+{
+  "id": "7c01a8ee-f599-4616-ab7b-aa9fc83166f0",
+  "version": "2.0",
+  "name": "HU2",
+  "url": "https://pascualbravo.ingejei.com/registro-y-busqueda/",
+  "tests": [{
+    "id": "3b648e3e-d2dd-46c4-8af3-35572cad7e3c",
+    "name": "HistoriaUsuario2",
+    "commands": [{
+      "id": "82cd78ad-47e0-4237-b014-fc38e0ac9de7",
+      "comment": "",
+      "command": "open",
+      "target": "https://pascualbravo.ingejei.com/registro-y-busqueda/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "4a629754-e388-47cd-8ea0-7c2ae5fba14d",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "697x703",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f24d588c-fdad-48d9-a156-0a6b5721da13",
+      "comment": "",
+      "command": "click",
+      "target": "id=wp-block-search__input-2",
+      "targets": [
+        ["id=wp-block-search__input-2", "id"],
+        ["css=#wp-block-search__input-2", "css:finder"],
+        ["xpath=//input[@id='wp-block-search__input-2']", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/form/div/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d9f7a77f-ab34-4320-a5fd-1dfa76780c65",
+      "comment": "",
+      "command": "type",
+      "target": "id=wp-block-search__input-2",
+      "targets": [
+        ["id=wp-block-search__input-2", "id"],
+        ["css=#wp-block-search__input-2", "css:finder"],
+        ["xpath=//input[@id='wp-block-search__input-2']", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/form/div/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": "Album"
+    }, {
+      "id": "156e8992-bd39-4240-9112-ba094287f266",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wp-block-search__button",
+      "targets": [
+        ["css=.wp-block-search__button", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/form/div/button", "xpath:idRelative"],
+        ["xpath=//form/div/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Buscar')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "8b378e7e-db76-4751-bfa6-54be69b72143",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "8cd4f179-1914-4ef7-80bc-73689c69d4b4",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["3b648e3e-d2dd-46c4-8af3-35572cad7e3c"]
+  }],
+  "urls": ["https://pascualbravo.ingejei.com/registro-y-busqueda/"],
+  "plugins": []
+}

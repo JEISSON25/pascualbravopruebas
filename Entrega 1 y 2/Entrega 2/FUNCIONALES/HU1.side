@@ -1,0 +1,172 @@
+{
+  "id": "9467f496-4baf-4e5c-b0c7-60ae33ebf403",
+  "version": "2.0",
+  "name": "Historia_Usuario_1",
+  "url": "https://pascualbravo.ingejei.com/wp-login.php?redirect_to=https%3A%2F%2Fpascualbravo.ingejei.com%2Fregistro-y-busqueda%2F",
+  "tests": [{
+    "id": "6ad0ed1d-4013-45d8-ae70-8e9a0fc0f6d8",
+    "name": "HistoriaUsuario1",
+    "commands": [{
+      "id": "6baf1165-21f2-4007-9112-69e3c50fd059",
+      "comment": "",
+      "command": "open",
+      "target": "https://pascualbravo.ingejei.com/wp-login.php?redirect_to=https%3A%2F%2Fpascualbravo.ingejei.com%2Fregistro-y-busqueda%2F",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "179cc04b-0eac-4d48-80e7-5050d3241331",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "697x703",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0497ef5d-f7d1-43f2-b204-91c025288523",
+      "comment": "",
+      "command": "click",
+      "target": "css=.login",
+      "targets": [
+        ["css=.login", "css:finder"],
+        ["xpath=//body", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "4eb957f7-da7d-47af-a74c-d7ee979d5773",
+      "comment": "",
+      "command": "type",
+      "target": "id=user_login",
+      "targets": [
+        ["id=user_login", "id"],
+        ["name=log", "name"],
+        ["css=#user_login", "css:finder"],
+        ["xpath=//input[@id='user_login']", "xpath:attributes"],
+        ["xpath=//form[@id='loginform']/p/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "effcf28d-8cbc-4e34-8807-b322dff92bbe",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Registrarse",
+      "targets": [
+        ["linkText=Registrarse", "linkText"],
+        ["css=.wp-login-register", "css:finder"],
+        ["xpath=//a[contains(text(),'Registrarse')]", "xpath:link"],
+        ["xpath=//p[@id='nav']/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://pascualbravo.ingejei.com/wp-login.php?action=register')]", "xpath:href"],
+        ["xpath=//p/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Registrarse')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "955cd757-01fa-4e52-ade1-1a230913f282",
+      "comment": "",
+      "command": "click",
+      "target": "id=user_login",
+      "targets": [
+        ["id=user_login", "id"],
+        ["name=user_login", "name"],
+        ["css=#user_login", "css:finder"],
+        ["xpath=//input[@id='user_login']", "xpath:attributes"],
+        ["xpath=//form[@id='registerform']/p/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "22919b91-32dd-4d6e-a917-69e2e393e4cf",
+      "comment": "",
+      "command": "type",
+      "target": "id=user_login",
+      "targets": [
+        ["id=user_login", "id"],
+        ["name=user_login", "name"],
+        ["css=#user_login", "css:finder"],
+        ["xpath=//input[@id='user_login']", "xpath:attributes"],
+        ["xpath=//form[@id='registerform']/p/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "Grup"
+    }, {
+      "id": "bc5c59ea-9aef-4a12-a7c8-45928e095345",
+      "comment": "",
+      "command": "type",
+      "target": "id=user_login",
+      "targets": [
+        ["id=user_login", "id"],
+        ["name=user_login", "name"],
+        ["css=#user_login", "css:finder"],
+        ["xpath=//input[@id='user_login']", "xpath:attributes"],
+        ["xpath=//form[@id='registerform']/p/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "Grupp"
+    }, {
+      "id": "6f6a8b5f-4262-423f-90ee-73e8d864b654",
+      "comment": "",
+      "command": "type",
+      "target": "id=user_login",
+      "targets": [
+        ["id=user_login", "id"],
+        ["name=user_login", "name"],
+        ["css=#user_login", "css:finder"],
+        ["xpath=//input[@id='user_login']", "xpath:attributes"],
+        ["xpath=//form[@id='registerform']/p/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "Grupo6K"
+    }, {
+      "id": "1178d6d3-355c-40f2-b8f3-1ba2079313ca",
+      "comment": "",
+      "command": "click",
+      "target": "id=user_email",
+      "targets": [
+        ["id=user_email", "id"],
+        ["name=user_email", "name"],
+        ["css=#user_email", "css:finder"],
+        ["xpath=//input[@id='user_email']", "xpath:attributes"],
+        ["xpath=//form[@id='registerform']/p[2]/input", "xpath:idRelative"],
+        ["xpath=//p[2]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "472ece44-22b3-4e01-9d23-021485489955",
+      "comment": "",
+      "command": "type",
+      "target": "id=user_email",
+      "targets": [
+        ["id=user_email", "id"],
+        ["name=user_email", "name"],
+        ["css=#user_email", "css:finder"],
+        ["xpath=//input[@id='user_email']", "xpath:attributes"],
+        ["xpath=//form[@id='registerform']/p[2]/input", "xpath:idRelative"],
+        ["xpath=//p[2]/input", "xpath:position"]
+      ],
+      "value": "karen.valencia127@pascualbravo.edu.co"
+    }, {
+      "id": "0aec6796-79ff-4649-8888-840303e9bce3",
+      "comment": "",
+      "command": "click",
+      "target": "id=wp-submit",
+      "targets": [
+        ["id=wp-submit", "id"],
+        ["name=wp-submit", "name"],
+        ["css=#wp-submit", "css:finder"],
+        ["xpath=//input[@id='wp-submit']", "xpath:attributes"],
+        ["xpath=//form[@id='registerform']/p[4]/input", "xpath:idRelative"],
+        ["xpath=//p[4]/input", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "3695a6fb-322d-496d-a1dd-06dd99d766c2",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": []
+  }],
+  "urls": ["https://pascualbravo.ingejei.com/wp-login.php?redirect_to=https%3A%2F%2Fpascualbravo.ingejei.com%2Fregistro-y-busqueda%2F"],
+  "plugins": []
+}

@@ -1,0 +1,347 @@
+{
+  "id": "56efac44-3466-4483-aa39-59b73c5651ec",
+  "version": "2.0",
+  "name": "HU4",
+  "url": "https://pascualbravo.ingejei.com/cart/",
+  "tests": [{
+    "id": "a692a491-bb52-4999-9c63-2d2f5b123ee5",
+    "name": "HistoriaUsuario4",
+    "commands": [{
+      "id": "cdc45450-c5b0-43a8-84f9-5ed8eebd71e2",
+      "comment": "",
+      "command": "open",
+      "target": "https://pascualbravo.ingejei.com/cart/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ab0e1856-5b98-48c6-b1df-442a7786e94e",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "697x703",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c7d3ede0-ea74-4bec-a11f-32610550506c",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.has-color2-color > .current-menu-item .wp-block-navigation-item__label",
+      "targets": [
+        ["css=.has-color2-color > .current-menu-item .wp-block-navigation-item__label", "css:finder"],
+        ["xpath=//div[@id='modal-1-content']/ul/li[6]/a/span", "xpath:idRelative"],
+        ["xpath=//div/div/div/ul/li[6]/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Carrito')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "7ef8f929-7798-41e2-9180-f193ff7e6ff4",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=.has-color2-color > .current-menu-item .wp-block-navigation-item__label",
+      "targets": [
+        ["css=.has-color2-color > .current-menu-item .wp-block-navigation-item__label", "css:finder"],
+        ["xpath=//div[@id='modal-1-content']/ul/li[6]/a/span", "xpath:idRelative"],
+        ["xpath=//div/div/div/ul/li[6]/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Carrito')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "60276093-4e7a-4cff-8db6-2c51c61f261e",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Proceder al pago",
+      "targets": [
+        ["linkText=Proceder al pago", "linkText"],
+        ["css=.wc-block-components-button", "css:finder"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/div/div[4]/div/div/div[3]/div[4]/div[2]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://pascualbravo.ingejei.com/checkout/')]", "xpath:href"],
+        ["xpath=//div[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Proceder al pago')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "d63793c4-6df5-4d5f-beec-7e56a94b43e9",
+      "comment": "",
+      "command": "click",
+      "target": "id=email",
+      "targets": [
+        ["id=email", "id"],
+        ["css=#email", "css:finder"],
+        ["xpath=//input[@id='email']", "xpath:attributes"],
+        ["xpath=//div[@id='contact']/div/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "56e95f45-d0bd-462a-a47e-5870e41c15de",
+      "comment": "",
+      "command": "click",
+      "target": "id=email",
+      "targets": [
+        ["id=email", "id"],
+        ["css=#email", "css:finder"],
+        ["xpath=//input[@id='email']", "xpath:attributes"],
+        ["xpath=//div[@id='contact']/div/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "cb3c3581-09e6-4612-907f-d83350f15d2e",
+      "comment": "",
+      "command": "doubleClick",
+      "target": "id=email",
+      "targets": [
+        ["id=email", "id"],
+        ["css=#email", "css:finder"],
+        ["xpath=//input[@id='email']", "xpath:attributes"],
+        ["xpath=//div[@id='contact']/div/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "64eab6b5-8c24-495b-8bce-079c6e691712",
+      "comment": "",
+      "command": "click",
+      "target": "id=email",
+      "targets": [
+        ["id=email", "id"],
+        ["css=#email", "css:finder"],
+        ["xpath=//input[@id='email']", "xpath:attributes"],
+        ["xpath=//div[@id='contact']/div/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "1b6821b9-fbde-4e41-bead-99588d9e25f1",
+      "comment": "",
+      "command": "click",
+      "target": "id=email",
+      "targets": [
+        ["id=email", "id"],
+        ["css=#email", "css:finder"],
+        ["xpath=//input[@id='email']", "xpath:attributes"],
+        ["xpath=//div[@id='contact']/div/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "179bc12c-c308-4237-9b1f-584e40fe6b5f",
+      "comment": "",
+      "command": "click",
+      "target": "id=email",
+      "targets": [
+        ["id=email", "id"],
+        ["css=#email", "css:finder"],
+        ["xpath=//input[@id='email']", "xpath:attributes"],
+        ["xpath=//div[@id='contact']/div/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "4ac9e67c-b2ca-4ace-9ced-2f99d51d9e50",
+      "comment": "",
+      "command": "type",
+      "target": "id=email",
+      "targets": [
+        ["id=email", "id"],
+        ["css=#email", "css:finder"],
+        ["xpath=//input[@id='email']", "xpath:attributes"],
+        ["xpath=//div[@id='contact']/div/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": "kvalencia373@gmail.com"
+    }, {
+      "id": "4e71fdbd-9b91-4262-aeff-c31c858f25c9",
+      "comment": "",
+      "command": "click",
+      "target": "id=billing-first_name",
+      "targets": [
+        ["id=billing-first_name", "id"],
+        ["css=#billing-first_name", "css:finder"],
+        ["xpath=//input[@id='billing-first_name']", "xpath:attributes"],
+        ["xpath=//div[@id='billing']/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "287d4e86-b205-489c-9295-df59e6a4e29a",
+      "comment": "",
+      "command": "type",
+      "target": "id=billing-first_name",
+      "targets": [
+        ["id=billing-first_name", "id"],
+        ["css=#billing-first_name", "css:finder"],
+        ["xpath=//input[@id='billing-first_name']", "xpath:attributes"],
+        ["xpath=//div[@id='billing']/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": "karen"
+    }, {
+      "id": "a4fa5839-e04c-474f-b40c-b5461a5b8bf9",
+      "comment": "",
+      "command": "select",
+      "target": "id=billing-country",
+      "targets": [],
+      "value": "label=Colombia"
+    }, {
+      "id": "670585ad-d3b9-43b6-91eb-43b1a00bbef7",
+      "comment": "",
+      "command": "type",
+      "target": "id=billing-last_name",
+      "targets": [
+        ["id=billing-last_name", "id"],
+        ["css=#billing-last_name", "css:finder"],
+        ["xpath=//input[@id='billing-last_name']", "xpath:attributes"],
+        ["xpath=//div[@id='billing']/div[3]/input", "xpath:idRelative"],
+        ["xpath=//div[3]/input", "xpath:position"]
+      ],
+      "value": "perez"
+    }, {
+      "id": "90bcd400-fdf3-4d16-8724-bbfc590d8e28",
+      "comment": "",
+      "command": "type",
+      "target": "id=billing-address_1",
+      "targets": [
+        ["id=billing-address_1", "id"],
+        ["css=#billing-address_1", "css:finder"],
+        ["xpath=//input[@id='billing-address_1']", "xpath:attributes"],
+        ["xpath=//div[@id='billing']/div[4]/input", "xpath:idRelative"],
+        ["xpath=//div[4]/input", "xpath:position"]
+      ],
+      "value": "calle 56"
+    }, {
+      "id": "58007e05-30f2-46f0-9950-3d845183b85a",
+      "comment": "",
+      "command": "type",
+      "target": "id=billing-city",
+      "targets": [
+        ["id=billing-city", "id"],
+        ["css=#billing-city", "css:finder"],
+        ["xpath=//input[@id='billing-city']", "xpath:attributes"],
+        ["xpath=//div[@id='billing']/div[5]/input", "xpath:idRelative"],
+        ["xpath=//div[5]/input", "xpath:position"]
+      ],
+      "value": "Medellin"
+    }, {
+      "id": "7fda4e58-0854-481c-bfa1-be12ac7c1c68",
+      "comment": "",
+      "command": "select",
+      "target": "id=billing-state",
+      "targets": [],
+      "value": "label=Selecciona un departamento"
+    }, {
+      "id": "d440cd3b-2e1e-4bb2-b1fe-7c0475ec2729",
+      "comment": "",
+      "command": "type",
+      "target": "id=billing-phone",
+      "targets": [
+        ["id=billing-phone", "id"],
+        ["css=#billing-phone", "css:finder"],
+        ["xpath=//input[@id='billing-phone']", "xpath:attributes"],
+        ["xpath=//div[@id='billing']/div[8]/input", "xpath:idRelative"],
+        ["xpath=//div[8]/input", "xpath:position"]
+      ],
+      "value": "+574567678"
+    }, {
+      "id": "9250a7f7-976a-4510-8353-305e334eea2f",
+      "comment": "",
+      "command": "click",
+      "target": "id=billing-state",
+      "targets": [
+        ["id=billing-state", "id"],
+        ["css=#billing-state", "css:finder"],
+        ["xpath=//select[@id='billing-state']", "xpath:attributes"],
+        ["xpath=//div[@id='billing']/div[6]/div/div/select", "xpath:idRelative"],
+        ["xpath=//div[6]/div/div/select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "0f04cec5-25b8-4b5d-94bd-0eeef7cbdafb",
+      "comment": "",
+      "command": "select",
+      "target": "id=billing-state",
+      "targets": [],
+      "value": "label=Antioquia"
+    }, {
+      "id": "ddaa2a8a-3e36-4576-8670-57c722a88e9c",
+      "comment": "",
+      "command": "click",
+      "target": "css=html",
+      "targets": [
+        ["css=html", "css:finder"],
+        ["xpath=//html", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2ecafe32-82db-4d09-87e8-e05d5c7eaa66",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-checkout__no-payment-methods-notice",
+      "targets": [
+        ["css=.wc-block-checkout__no-payment-methods-notice", "css:finder"],
+        ["xpath=//fieldset[@id='payment-method']/div[2]/div/div[3]", "xpath:idRelative"],
+        ["xpath=//fieldset[3]/div[2]/div/div[3]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ca5cb462-c062-4bc0-be73-f01708c3e9fb",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-components-button",
+      "targets": [
+        ["css=.wc-block-components-button", "css:finder"],
+        ["xpath=//button[@type='button']", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/div/div[4]/div[2]/form/div[7]/div[3]/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Realizar el pedido')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "040cda72-5579-43e6-a58c-ed76ed1e312f",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.wc-block-components-button",
+      "targets": [
+        ["css=.wc-block-components-button", "css:finder"],
+        ["xpath=//button[@type='button']", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/div/div[4]/div[2]/form/div[7]/div[3]/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Realizar el pedido')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "0c5d1a17-b4b8-4be2-a4b1-8938a4ad2fff",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=.wc-block-components-checkout-place-order-button",
+      "targets": [
+        ["css=.wc-block-components-checkout-place-order-button", "css:finder"],
+        ["xpath=(//button[@type='button'])[2]", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/div/div[4]/div[2]/form/div[7]/div[3]/button", "xpath:idRelative"],
+        ["xpath=//div[3]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Realizar el pedido')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "dab77e08-6fb7-4ce6-85f8-ef6e5efc6d47",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-checkout__no-payment-methods-notice > .wc-block-components-notice-banner__content",
+      "targets": [
+        ["css=.wc-block-checkout__no-payment-methods-notice > .wc-block-components-notice-banner__content", "css:finder"],
+        ["xpath=//fieldset[@id='payment-method']/div[2]/div/div[3]/div", "xpath:idRelative"],
+        ["xpath=//fieldset[3]/div[2]/div/div[3]/div", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "b1d84d52-8962-41ec-8fa7-6cd279143084",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["a692a491-bb52-4999-9c63-2d2f5b123ee5"]
+  }],
+  "urls": ["https://pascualbravo.ingejei.com/cart/"],
+  "plugins": []
+}

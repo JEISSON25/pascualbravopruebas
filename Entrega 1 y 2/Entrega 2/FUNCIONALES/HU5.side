@@ -1,0 +1,84 @@
+{
+  "id": "e915d31e-58d8-4b0b-9052-fa88c45aa9e9",
+  "version": "2.0",
+  "name": "HU5",
+  "url": "https://pascualbravo.ingejei.com/wp-login.php?action=lostpassword",
+  "tests": [{
+    "id": "687f5b7a-11df-42b6-b388-21ababfb400c",
+    "name": "HistoriaUsuario5",
+    "commands": [{
+      "id": "b962aa24-786c-4dbc-91b1-99bdbdee246e",
+      "comment": "",
+      "command": "open",
+      "target": "https://pascualbravo.ingejei.com/wp-login.php?action=lostpassword",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1be6159e-1e14-4a6e-8a7b-8caefd763bac",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "697x703",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0e6c3c61-0718-4b1f-bd8d-0b7dee483496",
+      "comment": "",
+      "command": "click",
+      "target": "id=user_login",
+      "targets": [
+        ["id=user_login", "id"],
+        ["name=user_login", "name"],
+        ["css=#user_login", "css:finder"],
+        ["xpath=//input[@id='user_login']", "xpath:attributes"],
+        ["xpath=//form[@id='lostpasswordform']/p/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c8231bb6-3ef0-411a-94e1-20243476cf91",
+      "comment": "",
+      "command": "type",
+      "target": "id=user_login",
+      "targets": [
+        ["id=user_login", "id"],
+        ["name=user_login", "name"],
+        ["css=#user_login", "css:finder"],
+        ["xpath=//input[@id='user_login']", "xpath:attributes"],
+        ["xpath=//form[@id='lostpasswordform']/p/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "kvalencia373@gmail.com"
+    }, {
+      "id": "fd6cef92-025a-4c31-9655-93c60e9112ef",
+      "comment": "",
+      "command": "click",
+      "target": "id=wp-submit",
+      "targets": [
+        ["id=wp-submit", "id"],
+        ["name=wp-submit", "name"],
+        ["css=#wp-submit", "css:finder"],
+        ["xpath=//input[@id='wp-submit']", "xpath:attributes"],
+        ["xpath=//form[@id='lostpasswordform']/p[2]/input", "xpath:idRelative"],
+        ["xpath=//p[2]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "de7cc62d-503b-44af-a6f7-713603f30a65",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "d519b397-f3d0-4160-a303-581821061628",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": []
+  }],
+  "urls": ["https://pascualbravo.ingejei.com/wp-login.php?loggedout=true&wp_lang=es_CO", "https://pascualbravo.ingejei.com/wp-login.php?action=lostpassword"],
+  "plugins": []
+}

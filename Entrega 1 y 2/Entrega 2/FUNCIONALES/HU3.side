@@ -1,0 +1,95 @@
+{
+  "id": "24ccc37d-fb18-4e1b-8f9e-e2d98305fe5b",
+  "version": "2.0",
+  "name": "HU3",
+  "url": "https://pascualbravo.ingejei.com/shop/",
+  "tests": [{
+    "id": "56674717-afc3-4fdd-875f-52e6781e8e48",
+    "name": "HistoriaUsuario3",
+    "commands": [{
+      "id": "6e316c65-ff96-4c04-add8-14c93e34f130",
+      "comment": "",
+      "command": "open",
+      "target": "https://pascualbravo.ingejei.com/shop/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "160e9db6-2728-447d-894a-9c1b61132038",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "697x703",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "a5d41306-1bdb-43f7-bea0-40904e5bfc04",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-product:nth-child(2) .attachment-woocommerce_thumbnail",
+      "targets": [
+        ["css=.wc-block-product:nth-child(2) .attachment-woocommerce_thumbnail", "css:finder"],
+        ["xpath=//img[@alt='Beanie']", "xpath:img"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[4]/ul/li[2]/div/a/img", "xpath:idRelative"],
+        ["xpath=//li[2]/div/a/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "87e0d8d6-403c-45ae-a1b5-82835b8376c4",
+      "comment": "",
+      "command": "click",
+      "target": "name=add-to-cart",
+      "targets": [
+        ["name=add-to-cart", "name"],
+        ["css=.single_add_to_cart_button", "css:finder"],
+        ["xpath=//button[@name='add-to-cart']", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[3]/div[2]/div[3]/form/button", "xpath:idRelative"],
+        ["xpath=//form/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Añadir al carrito')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "d2edc186-3262-4dad-9e80-2a8e79554d58",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Ver carrito",
+      "targets": [
+        ["linkText=Ver carrito", "linkText"],
+        ["css=.wc-forward", "css:finder"],
+        ["xpath=//a[contains(text(),'Ver carrito')]", "xpath:link"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/div/div/div/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, 'https://pascualbravo.ingejei.com/cart/')])[2]", "xpath:href"],
+        ["xpath=//div/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Ver carrito')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "f32d9609-85f6-466a-86d9-627d9ea743ce",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-cart-item__remove-link",
+      "targets": [
+        ["css=.wc-block-cart-item__remove-link", "css:finder"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/div/div[4]/div/div/div[2]/table/tbody/tr/td[2]/div/div[4]/button", "xpath:idRelative"],
+        ["xpath=//div[4]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Eliminar artículo')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "a2324abb-3599-4376-a619-a1087bd5b890",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "2540e961-74de-4cb7-adc7-06fbb646fb39",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["56674717-afc3-4fdd-875f-52e6781e8e48"]
+  }],
+  "urls": ["https://pascualbravo.ingejei.com/shop/"],
+  "plugins": []
+}
