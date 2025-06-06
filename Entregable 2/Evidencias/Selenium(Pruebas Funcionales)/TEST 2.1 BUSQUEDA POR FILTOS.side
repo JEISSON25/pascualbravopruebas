@@ -1,0 +1,187 @@
+{
+  "id": "b7254ffa-b73e-4578-8378-cf11df304201",
+  "version": "2.0",
+  "name": "TEST 2.1 BUSQUEDA POR FILTOS",
+  "url": "https://pascualbravo.ingejei.com",
+  "tests": [{
+    "id": "561f9477-c173-442b-9d1a-c9fcba50a96e",
+    "name": "TEST 2.1 BUSQUEDA POR FILTROS",
+    "commands": [{
+      "id": "f6322b4f-78fc-4698-b7fd-595044997328",
+      "comment": "",
+      "command": "open",
+      "target": "/shop/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ab5524cd-0283-4628-9d19-1bef4d923fc5",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1382x736",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0d02f1e1-f12b-4f5d-af4a-b594826b66a5",
+      "comment": "",
+      "command": "select",
+      "target": "name=orderby",
+      "targets": [],
+      "value": "label=Ordenar por popularidad"
+    }, {
+      "id": "64a32529-f507-411c-9483-6dbda98cc0e9",
+      "comment": "",
+      "command": "click",
+      "target": "css=option:nth-child(2)",
+      "targets": [
+        ["css=option:nth-child(2)", "css:finder"],
+        ["xpath=//option[@value='popularity']", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[3]/div[2]/form/select/option[2]", "xpath:idRelative"],
+        ["xpath=//option[2]", "xpath:position"],
+        ["xpath=//option[contains(.,'Ordenar por popularidad')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "d6450b54-b846-4b38-8cfc-322aff928e4e",
+      "comment": "",
+      "command": "click",
+      "target": "name=orderby",
+      "targets": [
+        ["name=orderby", "name"],
+        ["css=.orderby", "css:finder"],
+        ["xpath=//select[@name='orderby']", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[3]/div[2]/form/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b4ad6d45-0e94-4492-a9e5-27bf3ecccb37",
+      "comment": "",
+      "command": "select",
+      "target": "name=orderby",
+      "targets": [],
+      "value": "label=Ordenar por calificación media"
+    }, {
+      "id": "201dd156-d57d-44ac-b12e-4c517e3e9993",
+      "comment": "",
+      "command": "click",
+      "target": "css=option:nth-child(3)",
+      "targets": [
+        ["css=option:nth-child(3)", "css:finder"],
+        ["xpath=//option[@value='rating']", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[3]/div[2]/form/select/option[3]", "xpath:idRelative"],
+        ["xpath=//option[3]", "xpath:position"],
+        ["xpath=//option[contains(.,'Ordenar por calificación media')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "93521d82-6902-4bba-a436-af6df75737e4",
+      "comment": "",
+      "command": "click",
+      "target": "name=orderby",
+      "targets": [
+        ["name=orderby", "name"],
+        ["css=.orderby", "css:finder"],
+        ["xpath=//select[@name='orderby']", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[3]/div[2]/form/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b81b42a1-6fc0-4d7d-a337-92ae2ab65059",
+      "comment": "",
+      "command": "select",
+      "target": "name=orderby",
+      "targets": [],
+      "value": "label=Ordenar por las últimas"
+    }, {
+      "id": "89cf3959-80d6-45be-a311-3304ed1230bd",
+      "comment": "",
+      "command": "click",
+      "target": "css=option:nth-child(4)",
+      "targets": [
+        ["css=option:nth-child(4)", "css:finder"],
+        ["xpath=//option[@value='date']", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[3]/div[2]/form/select/option[4]", "xpath:idRelative"],
+        ["xpath=//option[4]", "xpath:position"],
+        ["xpath=//option[contains(.,'Ordenar por las últimas')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "3024d0db-4fd4-4895-b23b-5c92524cfd87",
+      "comment": "",
+      "command": "click",
+      "target": "name=orderby",
+      "targets": [
+        ["name=orderby", "name"],
+        ["css=.orderby", "css:finder"],
+        ["xpath=//select[@name='orderby']", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[3]/div[2]/form/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "779d15bd-cbad-40f4-881f-ebc1a299a108",
+      "comment": "",
+      "command": "select",
+      "target": "name=orderby",
+      "targets": [],
+      "value": "label=Ordenar por precio: bajo a alto"
+    }, {
+      "id": "b9cc02e8-ab69-4f54-bb29-058f5e51d43f",
+      "comment": "",
+      "command": "click",
+      "target": "css=option:nth-child(5)",
+      "targets": [
+        ["css=option:nth-child(5)", "css:finder"],
+        ["xpath=//option[@value='price']", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[3]/div[2]/form/select/option[5]", "xpath:idRelative"],
+        ["xpath=//option[5]", "xpath:position"],
+        ["xpath=//option[contains(.,'Ordenar por precio: bajo a alto')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "636bf33f-0653-44a9-a7d7-b2d5ea3d27f1",
+      "comment": "",
+      "command": "click",
+      "target": "name=orderby",
+      "targets": [
+        ["name=orderby", "name"],
+        ["css=.orderby", "css:finder"],
+        ["xpath=//select[@name='orderby']", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[3]/div[2]/form/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "cd38c354-63f7-4b75-849a-985812192253",
+      "comment": "",
+      "command": "select",
+      "target": "name=orderby",
+      "targets": [],
+      "value": "label=Ordenar por precio: alto a bajo"
+    }, {
+      "id": "9cfeb3d0-b54f-4fe8-9ed2-23f00e3dbae7",
+      "comment": "",
+      "command": "click",
+      "target": "css=option:nth-child(6)",
+      "targets": [
+        ["css=option:nth-child(6)", "css:finder"],
+        ["xpath=//option[@value='price-desc']", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[3]/div[2]/form/select/option[6]", "xpath:idRelative"],
+        ["xpath=//option[6]", "xpath:position"],
+        ["xpath=//option[contains(.,'Ordenar por precio: alto a bajo')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "9c321906-93ab-49d9-8590-83f0f52b2004",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["561f9477-c173-442b-9d1a-c9fcba50a96e"]
+  }],
+  "urls": ["https://pascualbravo.ingejei.com/"],
+  "plugins": []
+}

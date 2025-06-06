@@ -1,0 +1,212 @@
+{
+  "id": "2b07c279-a9ca-4e2a-a81d-a5c94d7d69e1",
+  "version": "2.0",
+  "name": "TEST 5 Recuperar contra",
+  "url": "https://pascualbravo.ingejei.com",
+  "tests": [{
+    "id": "ce32cd5f-9171-4ba9-9a8a-938f6d61d5ce",
+    "name": "Test 5 Recuperar contrase",
+    "commands": [{
+      "id": "35764e26-1d6d-4a12-b47c-36a40ab43178",
+      "comment": "",
+      "command": "open",
+      "target": "/wp-login.php?loggedout=true&wp_lang=es_CO",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "71c22b79-606f-4dc0-b114-78e83f79a70f",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1382x736",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c7af214e-91ed-4080-a64a-e0119d1239d7",
+      "comment": "",
+      "command": "click",
+      "target": "id=user_login",
+      "targets": [
+        ["id=user_login", "id"],
+        ["name=log", "name"],
+        ["css=#user_login", "css:finder"],
+        ["xpath=//input[@id='user_login']", "xpath:attributes"],
+        ["xpath=//form[@id='loginform']/p/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "26c8bcbf-c89b-4a42-9d09-305cb744306d",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=¿Olvidaste tu contraseña?",
+      "targets": [
+        ["linkText=¿Olvidaste tu contraseña?", "linkText"],
+        ["css=.wp-login-lost-password", "css:finder"],
+        ["xpath=//a[contains(text(),'¿Olvidaste tu contraseña?')]", "xpath:link"],
+        ["xpath=//p[@id='nav']/a[2]", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://pascualbravo.ingejei.com/wp-login.php?action=lostpassword')]", "xpath:href"],
+        ["xpath=//a[2]", "xpath:position"],
+        ["xpath=//a[contains(.,'¿Olvidaste tu contraseña?')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "3682d61b-d912-4d4b-a400-28b290e49cfb",
+      "comment": "",
+      "command": "click",
+      "target": "id=user_login",
+      "targets": [
+        ["id=user_login", "id"],
+        ["name=user_login", "name"],
+        ["css=#user_login", "css:finder"],
+        ["xpath=//input[@id='user_login']", "xpath:attributes"],
+        ["xpath=//form[@id='lostpasswordform']/p/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "18bf6592-3b5d-482b-8872-014aa0811a1f",
+      "comment": "",
+      "command": "type",
+      "target": "id=user_login",
+      "targets": [
+        ["id=user_login", "id"],
+        ["name=user_login", "name"],
+        ["css=#user_login", "css:finder"],
+        ["xpath=//input[@id='user_login']", "xpath:attributes"],
+        ["xpath=//form[@id='lostpasswordform']/p/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "sanres.2003@gmail.com"
+    }, {
+      "id": "0192924f-059b-41c7-ac93-90209c566bfc",
+      "comment": "",
+      "command": "click",
+      "target": "id=wp-submit",
+      "targets": [
+        ["id=wp-submit", "id"],
+        ["name=wp-submit", "name"],
+        ["css=#wp-submit", "css:finder"],
+        ["xpath=//input[@id='wp-submit']", "xpath:attributes"],
+        ["xpath=//form[@id='lostpasswordform']/p[2]/input", "xpath:idRelative"],
+        ["xpath=//p[2]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "fec0548c-e12f-4cb9-93c5-43859ec231cd",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=← Ir a PASCUALBRAVO (PRUEBAS SOFTWARE)",
+      "targets": [
+        ["linkText=← Ir a PASCUALBRAVO (PRUEBAS SOFTWARE)", "linkText"],
+        ["css=#backtoblog > a", "css:finder"],
+        ["xpath=//a[contains(text(),'← Ir a PASCUALBRAVO (PRUEBAS SOFTWARE)')]", "xpath:link"],
+        ["xpath=//p[@id='backtoblog']/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, 'https://pascualbravo.ingejei.com/')])[2]", "xpath:href"],
+        ["xpath=//body/div/p/a", "xpath:position"],
+        ["xpath=//a[contains(.,'← Ir a PASCUALBRAVO (PRUEBAS SOFTWARE)')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "efb64fdb-57ba-400b-be37-0416f6f7d261",
+      "comment": "",
+      "command": "type",
+      "target": "id=user_login",
+      "targets": [
+        ["id=user_login", "id"],
+        ["name=user_login", "name"],
+        ["css=#user_login", "css:finder"],
+        ["xpath=//input[@id='user_login']", "xpath:attributes"],
+        ["xpath=//form[@id='lostpasswordform']/p/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "tiagooo5"
+    }, {
+      "id": "0f54ad54-08a1-4315-8654-c1b8235b2b54",
+      "comment": "",
+      "command": "click",
+      "target": "id=wp-submit",
+      "targets": [
+        ["id=wp-submit", "id"],
+        ["name=wp-submit", "name"],
+        ["css=#wp-submit", "css:finder"],
+        ["xpath=//input[@id='wp-submit']", "xpath:attributes"],
+        ["xpath=//form[@id='lostpasswordform']/p[2]/input", "xpath:idRelative"],
+        ["xpath=//p[2]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "769e8e4e-253f-49d9-bc06-dbcecebfe0ea",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,97)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1c5d76d7-8bc1-427d-9638-61b4ec25d356",
+      "comment": "",
+      "command": "click",
+      "target": "id=user_login",
+      "targets": [
+        ["id=user_login", "id"],
+        ["name=user_login", "name"],
+        ["css=#user_login", "css:finder"],
+        ["xpath=//input[@id='user_login']", "xpath:attributes"],
+        ["xpath=//form[@id='lostpasswordform']/p/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "26524f7d-2188-4bf2-bf15-135cb4b3e7fc",
+      "comment": "",
+      "command": "type",
+      "target": "id=user_login",
+      "targets": [
+        ["id=user_login", "id"],
+        ["name=user_login", "name"],
+        ["css=#user_login", "css:finder"],
+        ["xpath=//input[@id='user_login']", "xpath:attributes"],
+        ["xpath=//form[@id='lostpasswordform']/p/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "santiago205@gmail.com"
+    }, {
+      "id": "3ba65add-767b-4115-8378-8cb0e96715d8",
+      "comment": "",
+      "command": "click",
+      "target": "id=wp-submit",
+      "targets": [
+        ["id=wp-submit", "id"],
+        ["name=wp-submit", "name"],
+        ["css=#wp-submit", "css:finder"],
+        ["xpath=//input[@id='wp-submit']", "xpath:attributes"],
+        ["xpath=//form[@id='lostpasswordform']/p[2]/input", "xpath:idRelative"],
+        ["xpath=//p[2]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "8c249300-262d-4b29-a7ec-495b4d5a8fdd",
+      "comment": "",
+      "command": "click",
+      "target": "id=wp-submit",
+      "targets": [
+        ["id=wp-submit", "id"],
+        ["name=wp-submit", "name"],
+        ["css=#wp-submit", "css:finder"],
+        ["xpath=//input[@id='wp-submit']", "xpath:attributes"],
+        ["xpath=//form[@id='lostpasswordform']/p[2]/input", "xpath:idRelative"],
+        ["xpath=//p[2]/input", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "1bb1ef2a-d8a2-4962-a896-fac754bba6cc",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["ce32cd5f-9171-4ba9-9a8a-938f6d61d5ce"]
+  }],
+  "urls": ["https://pascualbravo.ingejei.com/"],
+  "plugins": []
+}

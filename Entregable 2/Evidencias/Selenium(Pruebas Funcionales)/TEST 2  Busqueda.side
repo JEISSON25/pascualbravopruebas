@@ -1,0 +1,160 @@
+{
+  "id": "d8d93172-e105-44e6-b4ea-a95c4dca2b8c",
+  "version": "2.0",
+  "name": "TEST 2 / Busqueda",
+  "url": "https://pascualbravo.ingejei.com",
+  "tests": [{
+    "id": "3d4444ae-11fb-4538-9243-fc1c6af89645",
+    "name": "Test 2 / Barra Busqueda",
+    "commands": [{
+      "id": "96ebffe4-e629-43de-9cb4-de583c6c3bc4",
+      "comment": "",
+      "command": "open",
+      "target": "/registro-y-busqueda/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "4d9198de-b936-4676-9fa8-2c092cb7b096",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1382x736",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "43f8c719-0ea8-4252-a303-18a048441434",
+      "comment": "",
+      "command": "click",
+      "target": "id=wp-block-search__input-2",
+      "targets": [
+        ["id=wp-block-search__input-2", "id"],
+        ["name=s", "name"],
+        ["css=#wp-block-search__input-2", "css:finder"],
+        ["xpath=//input[@id='wp-block-search__input-2']", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/form/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2fe5e70e-b335-4993-bba4-854566286204",
+      "comment": "",
+      "command": "type",
+      "target": "id=wp-block-search__input-2",
+      "targets": [
+        ["id=wp-block-search__input-2", "id"],
+        ["name=s", "name"],
+        ["css=#wp-block-search__input-2", "css:finder"],
+        ["xpath=//input[@id='wp-block-search__input-2']", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/form/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "Hoddie"
+    }, {
+      "id": "44be8d18-163c-4bd2-8a6b-e2ce7b94057a",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wp-block-search__button",
+      "targets": [
+        ["css=.wp-block-search__button", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/form/div/button", "xpath:idRelative"],
+        ["xpath=//form/div/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Buscar')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "1ab7dc3c-b312-4a82-b5d9-ea266befecf9",
+      "comment": "",
+      "command": "click",
+      "target": "id=wp-block-search__input-2",
+      "targets": [
+        ["id=wp-block-search__input-2", "id"],
+        ["name=s", "name"],
+        ["css=#wp-block-search__input-2", "css:finder"],
+        ["xpath=//input[@id='wp-block-search__input-2']", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/form/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "03689159-41c3-45de-9ee0-66fd4c43592e",
+      "comment": "",
+      "command": "type",
+      "target": "id=wp-block-search__input-2",
+      "targets": [
+        ["id=wp-block-search__input-2", "id"],
+        ["name=s", "name"],
+        ["css=#wp-block-search__input-2", "css:finder"],
+        ["xpath=//input[@id='wp-block-search__input-2']", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/form/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "hamburguesa"
+    }, {
+      "id": "d096d9c6-8d91-454a-9195-d3c54bd3bbbb",
+      "comment": "",
+      "command": "sendKeys",
+      "target": "id=wp-block-search__input-2",
+      "targets": [
+        ["id=wp-block-search__input-2", "id"],
+        ["name=s", "name"],
+        ["css=#wp-block-search__input-2", "css:finder"],
+        ["xpath=//input[@id='wp-block-search__input-2']", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/form/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "${KEY_ENTER}"
+    }, {
+      "id": "ac7ce911-8233-4d91-89d0-87cc050e1424",
+      "comment": "",
+      "command": "click",
+      "target": "id=wp-block-search__input-2",
+      "targets": [
+        ["id=wp-block-search__input-2", "id"],
+        ["name=s", "name"],
+        ["css=#wp-block-search__input-2", "css:finder"],
+        ["xpath=//input[@id='wp-block-search__input-2']", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/form/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "cc25fe71-d1c1-40dd-aa22-9c81a75a7773",
+      "comment": "",
+      "command": "type",
+      "target": "id=wp-block-search__input-2",
+      "targets": [
+        ["id=wp-block-search__input-2", "id"],
+        ["name=s", "name"],
+        ["css=#wp-block-search__input-2", "css:finder"],
+        ["xpath=//input[@id='wp-block-search__input-2']", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/form/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "hoodie"
+    }, {
+      "id": "04cbeef6-6d81-432e-bd49-568dc62e59a2",
+      "comment": "",
+      "command": "sendKeys",
+      "target": "id=wp-block-search__input-2",
+      "targets": [
+        ["id=wp-block-search__input-2", "id"],
+        ["name=s", "name"],
+        ["css=#wp-block-search__input-2", "css:finder"],
+        ["xpath=//input[@id='wp-block-search__input-2']", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/form/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "${KEY_ENTER}"
+    }]
+  }],
+  "suites": [{
+    "id": "30390795-ead3-4e7d-a9d2-fce3d085eff5",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["3d4444ae-11fb-4538-9243-fc1c6af89645"]
+  }],
+  "urls": ["https://pascualbravo.ingejei.com/"],
+  "plugins": []
+}

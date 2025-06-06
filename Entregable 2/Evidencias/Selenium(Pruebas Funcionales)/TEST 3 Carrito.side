@@ -1,0 +1,183 @@
+{
+  "id": "4cd053ae-8c09-4f4f-88aa-4215271f8a7a",
+  "version": "2.0",
+  "name": "TEST 3 Carrito",
+  "url": "https://pascualbravo.ingejei.com",
+  "tests": [{
+    "id": "e45e4df5-1765-4aae-b1d9-844717c35cca",
+    "name": "TEST 3. Uso de carrito",
+    "commands": [{
+      "id": "91817931-6808-4e27-a58e-12a8479541fb",
+      "comment": "",
+      "command": "open",
+      "target": "/shop/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f1bf720e-6adb-4af9-aad6-70e6ddf183d7",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1382x736",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6c83255b-b8e9-4c84-867b-fb88e59d8b64",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-product:nth-child(1) .wp-block-button__link > span",
+      "targets": [
+        ["css=.wc-block-product:nth-child(1) .wp-block-button__link > span", "css:finder"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[4]/ul/li/div[3]/button/span", "xpath:idRelative"],
+        ["xpath=//button/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Añadir al carrito')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "38236921-2e08-4c7c-967c-2fdc89e0402d",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-product:nth-child(2) .wp-block-button__link > span",
+      "targets": [
+        ["css=.wc-block-product:nth-child(2) .wp-block-button__link > span", "css:finder"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[4]/ul/li[2]/div[3]/button/span", "xpath:idRelative"],
+        ["xpath=//li[2]/div[3]/button/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Añadir al carrito')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "06a584ab-d5d8-47a2-9b42-bdd7f4f11de2",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-product:nth-child(3) .wp-block-button__link > span",
+      "targets": [
+        ["css=.wc-block-product:nth-child(3) .wp-block-button__link > span", "css:finder"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[4]/ul/li[3]/div[3]/button/span", "xpath:idRelative"],
+        ["xpath=//li[3]/div[3]/button/span", "xpath:position"],
+        ["xpath=//span[contains(.,'3 en el carrito')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b4c4e985-d60d-4035-887a-105ac4abf52f",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-product:nth-child(4) .wp-block-button__link",
+      "targets": [
+        ["css=.wc-block-product:nth-child(4) .wp-block-button__link", "css:finder"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[4]/ul/li[4]/div[3]/button", "xpath:idRelative"],
+        ["xpath=//li[4]/div[3]/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "5e1e8c63-9772-4ef0-8fcd-25ffa459d9dd",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-product:nth-child(5) > .wp-block-button span",
+      "targets": [
+        ["css=.wc-block-product:nth-child(5) > .wp-block-button span", "css:finder"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[4]/ul/li[5]/div[3]/a/span", "xpath:idRelative"],
+        ["xpath=//div[3]/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Seleccionar opciones')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "5fb3590b-c3ec-4c9a-b38c-ba500a18a986",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,39)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "902a2e83-d7e8-432a-aabd-afc5ae308440",
+      "comment": "",
+      "command": "click",
+      "target": "css=.single_add_to_cart_button",
+      "targets": [
+        ["css=.single_add_to_cart_button", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[3]/div[2]/div[3]/form/div[2]/div[2]/button", "xpath:idRelative"],
+        ["xpath=//div[2]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Añadir al carrito')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "bdd6af7e-1503-408c-8ab4-11bb766bdd81",
+      "comment": "",
+      "command": "click",
+      "target": "css=.has-color2-color > .has-medium-font-size:nth-child(5) .wp-block-navigation-item__label",
+      "targets": [
+        ["css=.has-color2-color > .has-medium-font-size:nth-child(5) .wp-block-navigation-item__label", "css:finder"],
+        ["xpath=//div[@id='modal-1-content']/ul/li[5]/a/span", "xpath:idRelative"],
+        ["xpath=//div/div/div/ul/li[5]/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Shop')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "3a44ed21-167b-4bc7-ad13-0676464f0b87",
+      "comment": "",
+      "command": "click",
+      "target": "css=.has-color2-color > .has-medium-font-size:nth-child(6) .wp-block-navigation-item__label",
+      "targets": [
+        ["css=.has-color2-color > .has-medium-font-size:nth-child(6) .wp-block-navigation-item__label", "css:finder"],
+        ["xpath=//div[@id='modal-1-content']/ul/li[6]/a/span", "xpath:idRelative"],
+        ["xpath=//div/div/div/ul/li[6]/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Carrito')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "73ec137f-e789-4da5-b092-694acfd2fe6c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-cart-items__row:nth-child(7) .wc-block-cart-item__remove-link",
+      "targets": [
+        ["css=.wc-block-cart-items__row:nth-child(7) .wc-block-cart-item__remove-link", "css:finder"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/div/div[4]/div/div/div[2]/table/tbody/tr[7]/td[2]/div/div[3]/button", "xpath:idRelative"],
+        ["xpath=//tr[7]/td[2]/div/div[3]/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2374ba85-b840-4707-be5d-0901ec61ad89",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-cart-items__row:nth-child(6) .wc-block-cart-item__remove-link",
+      "targets": [
+        ["css=.wc-block-cart-items__row:nth-child(6) .wc-block-cart-item__remove-link", "css:finder"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/div/div[4]/div/div/div[2]/table/tbody/tr[6]/td[2]/div/div[4]/button", "xpath:idRelative"],
+        ["xpath=//tr[6]/td[2]/div/div[4]/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "4efff338-1ddb-4eb8-b272-5b80533e228f",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-cart-items__row:nth-child(5) .wc-block-cart-item__remove-link",
+      "targets": [
+        ["css=.wc-block-cart-items__row:nth-child(5) .wc-block-cart-item__remove-link", "css:finder"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/div/div[4]/div/div/div[2]/table/tbody/tr[5]/td[2]/div/div[3]/button", "xpath:idRelative"],
+        ["xpath=//tr[5]/td[2]/div/div[3]/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "6d932757-e3e9-4dcd-8185-be2b93e6b2e2",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-cart-items__row:nth-child(1) .wc-block-cart-item__remove-link",
+      "targets": [
+        ["css=.wc-block-cart-items__row:nth-child(1) .wc-block-cart-item__remove-link", "css:finder"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/div/div[4]/div/div/div[2]/table/tbody/tr/td[2]/div/div[4]/button", "xpath:idRelative"],
+        ["xpath=//div[4]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Eliminar artículo')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "441b09be-7f68-4d15-81a7-b6b074c97d80",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["e45e4df5-1765-4aae-b1d9-844717c35cca"]
+  }],
+  "urls": ["https://pascualbravo.ingejei.com/"],
+  "plugins": []
+}
