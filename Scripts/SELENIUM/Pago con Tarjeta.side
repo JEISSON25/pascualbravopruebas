@@ -1,0 +1,341 @@
+{
+  "id": "25e82a44-3782-46c4-a0ac-fc885ccfa2c6",
+  "version": "2.0",
+  "name": "Pago con Tarjeta",
+  "url": "https://pascualbravo.ingejei.com",
+  "tests": [{
+    "id": "ba433ecb-c82b-47e1-958e-f5c9f3f44197",
+    "name": "Pago con Tarjeta",
+    "commands": [{
+      "id": "c87b0d3e-6659-4771-96bf-75e95725f0de",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "60c23ec9-080a-4698-9c28-7a8de60e9ab9",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1552x832",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "fbd45fb9-fc54-4527-96dd-c8ee4d44367a",
+      "comment": "",
+      "command": "click",
+      "target": "css=.has-color2-color > .has-medium-font-size:nth-child(6) .wp-block-navigation-item__label",
+      "targets": [
+        ["css=.has-color2-color > .has-medium-font-size:nth-child(6) .wp-block-navigation-item__label", "css:finder"],
+        ["xpath=//div[@id='modal-1-content']/ul/li[6]/a/span", "xpath:idRelative"],
+        ["xpath=//div/div/div/ul/li[6]/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Carrito')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "27ca3b43-2639-4a12-8237-47697d3b9c52",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Proceder al pago",
+      "targets": [
+        ["linkText=Proceder al pago", "linkText"],
+        ["css=.wc-block-components-button", "css:finder"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/div/div[4]/div/div/div[3]/div[4]/div[2]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://pascualbravo.ingejei.com/checkout/')]", "xpath:href"],
+        ["xpath=//div[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Proceder al pago')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "910ee344-6681-4cd2-a988-54a66c6ad208",
+      "comment": "",
+      "command": "click",
+      "target": "id=billing-country",
+      "targets": [
+        ["id=billing-country", "id"],
+        ["css=#billing-country", "css:finder"],
+        ["xpath=//select[@id='billing-country']", "xpath:attributes"],
+        ["xpath=//div[@id='billing']/div/div/div/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "52e0437b-09cc-45a4-a663-7ba92f23d00d",
+      "comment": "",
+      "command": "select",
+      "target": "id=billing-country",
+      "targets": [],
+      "value": "label=Colombia"
+    }, {
+      "id": "df02c1b0-57fa-4150-803e-a2bbe4163f01",
+      "comment": "",
+      "command": "click",
+      "target": "id=billing-first_name",
+      "targets": [
+        ["id=billing-first_name", "id"],
+        ["css=#billing-first_name", "css:finder"],
+        ["xpath=//input[@id='billing-first_name']", "xpath:attributes"],
+        ["xpath=//div[@id='billing']/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "6d305e7a-a065-428b-ab08-22e8481714ce",
+      "comment": "",
+      "command": "type",
+      "target": "id=billing-first_name",
+      "targets": [
+        ["id=billing-first_name", "id"],
+        ["css=#billing-first_name", "css:finder"],
+        ["xpath=//input[@id='billing-first_name']", "xpath:attributes"],
+        ["xpath=//div[@id='billing']/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": "Luis"
+    }, {
+      "id": "477a617d-055b-42bb-b01c-b50e040e5922",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-components-address-form__last_name > label",
+      "targets": [
+        ["css=.wc-block-components-address-form__last_name > label", "css:finder"],
+        ["xpath=//div[@id='billing']/div[3]/label", "xpath:idRelative"],
+        ["xpath=//div[3]/label", "xpath:position"],
+        ["xpath=//label[contains(.,'Apellidos')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "90fafad4-6c6a-4f32-95c7-0387afd74c0a",
+      "comment": "",
+      "command": "type",
+      "target": "id=billing-last_name",
+      "targets": [
+        ["id=billing-last_name", "id"],
+        ["css=#billing-last_name", "css:finder"],
+        ["xpath=//input[@id='billing-last_name']", "xpath:attributes"],
+        ["xpath=//div[@id='billing']/div[3]/input", "xpath:idRelative"],
+        ["xpath=//div[3]/input", "xpath:position"]
+      ],
+      "value": "Hernandez"
+    }, {
+      "id": "1a72a497-97f3-4834-9a9c-33a7934d9644",
+      "comment": "",
+      "command": "click",
+      "target": "id=billing-address_1",
+      "targets": [
+        ["id=billing-address_1", "id"],
+        ["css=#billing-address_1", "css:finder"],
+        ["xpath=//input[@id='billing-address_1']", "xpath:attributes"],
+        ["xpath=//div[@id='billing']/div[4]/input", "xpath:idRelative"],
+        ["xpath=//div[4]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b697b9da-247c-4b10-b530-059f84927ead",
+      "comment": "",
+      "command": "type",
+      "target": "id=billing-address_1",
+      "targets": [
+        ["id=billing-address_1", "id"],
+        ["css=#billing-address_1", "css:finder"],
+        ["xpath=//input[@id='billing-address_1']", "xpath:attributes"],
+        ["xpath=//div[@id='billing']/div[4]/input", "xpath:idRelative"],
+        ["xpath=//div[4]/input", "xpath:position"]
+      ],
+      "value": "calle 50 # 77b - 147 piso 3"
+    }, {
+      "id": "48a58d83-c9f7-4f66-963e-34dc3680286f",
+      "comment": "",
+      "command": "click",
+      "target": "id=billing-city",
+      "targets": [
+        ["id=billing-city", "id"],
+        ["css=#billing-city", "css:finder"],
+        ["xpath=//input[@id='billing-city']", "xpath:attributes"],
+        ["xpath=//div[@id='billing']/div[5]/input", "xpath:idRelative"],
+        ["xpath=//div[5]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "5f18c8c8-0940-4e6c-b3fb-5528fc5b1970",
+      "comment": "",
+      "command": "type",
+      "target": "id=billing-city",
+      "targets": [
+        ["id=billing-city", "id"],
+        ["css=#billing-city", "css:finder"],
+        ["xpath=//input[@id='billing-city']", "xpath:attributes"],
+        ["xpath=//div[@id='billing']/div[5]/input", "xpath:idRelative"],
+        ["xpath=//div[5]/input", "xpath:position"]
+      ],
+      "value": "Medellin"
+    }, {
+      "id": "990d2b7e-4e90-433f-bf87-aae828cf589c",
+      "comment": "",
+      "command": "click",
+      "target": "id=billing-state",
+      "targets": [
+        ["id=billing-state", "id"],
+        ["css=#billing-state", "css:finder"],
+        ["xpath=//select[@id='billing-state']", "xpath:attributes"],
+        ["xpath=//div[@id='billing']/div[6]/div/div/select", "xpath:idRelative"],
+        ["xpath=//div[6]/div/div/select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b6022747-3d7b-4a4b-a40b-03ff9c59fbdb",
+      "comment": "",
+      "command": "select",
+      "target": "id=billing-state",
+      "targets": [],
+      "value": "label=Antioquia"
+    }, {
+      "id": "1be897ae-7fab-4bf9-8368-2ab6314fd0d6",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-components-address-form__postcode > label",
+      "targets": [
+        ["css=.wc-block-components-address-form__postcode > label", "css:finder"],
+        ["xpath=//div[@id='billing']/div[7]/label", "xpath:idRelative"],
+        ["xpath=//div[7]/label", "xpath:position"],
+        ["xpath=//label[contains(.,'Código postal (opcional)')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "a64f088e-3a5f-494f-a53c-5d0d8de38b81",
+      "comment": "",
+      "command": "type",
+      "target": "id=billing-postcode",
+      "targets": [
+        ["id=billing-postcode", "id"],
+        ["css=#billing-postcode", "css:finder"],
+        ["xpath=//input[@id='billing-postcode']", "xpath:attributes"],
+        ["xpath=//div[@id='billing']/div[7]/input", "xpath:idRelative"],
+        ["xpath=//div[7]/input", "xpath:position"]
+      ],
+      "value": "258963"
+    }, {
+      "id": "028d781f-63fd-4a88-ad99-017220668dec",
+      "comment": "",
+      "command": "mouseDown",
+      "target": "id=billing-phone",
+      "targets": [
+        ["id=billing-phone", "id"],
+        ["css=#billing-phone", "css:finder"],
+        ["xpath=//input[@id='billing-phone']", "xpath:attributes"],
+        ["xpath=//div[@id='billing']/div[8]/input", "xpath:idRelative"],
+        ["xpath=//div[8]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "cb1fe59f-d7a0-4004-bc21-fa0fa7922024",
+      "comment": "",
+      "command": "mouseUp",
+      "target": "css=.wc-block-components-address-form__phone > label",
+      "targets": [
+        ["css=.wc-block-components-address-form__phone > label", "css:finder"],
+        ["xpath=//div[@id='billing']/div[8]/label", "xpath:idRelative"],
+        ["xpath=//div[8]/label", "xpath:position"],
+        ["xpath=//label[contains(.,'Teléfono (opcional)')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "7945c32e-c6f1-43e0-b150-d1b1f50ad5b6",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-components-address-form__phone",
+      "targets": [
+        ["css=.wc-block-components-address-form__phone", "css:finder"],
+        ["xpath=//div[@id='billing']/div[8]", "xpath:idRelative"],
+        ["xpath=//div[8]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "999883c2-33ea-405d-97ae-d4bb72708a07",
+      "comment": "",
+      "command": "type",
+      "target": "id=billing-phone",
+      "targets": [
+        ["id=billing-phone", "id"],
+        ["css=#billing-phone", "css:finder"],
+        ["xpath=//input[@id='billing-phone']", "xpath:attributes"],
+        ["xpath=//div[@id='billing']/div[8]/input", "xpath:idRelative"],
+        ["xpath=//div[8]/input", "xpath:position"]
+      ],
+      "value": "3216549877"
+    }, {
+      "id": "3fb19cc6-4cd0-4e54-af06-00538213ad9f",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-components-button",
+      "targets": [
+        ["css=.wc-block-components-button", "css:finder"],
+        ["xpath=//button[@type='button']", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/div/div[4]/div[2]/form/div[7]/div[3]/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Realizar el pedido')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "ee62d8f0-bfbb-42ef-8f47-add5e53855c7",
+      "comment": "",
+      "command": "click",
+      "target": "id=checkbox-control-1",
+      "targets": [
+        ["id=checkbox-control-1", "id"],
+        ["css=#checkbox-control-1", "css:finder"],
+        ["xpath=//input[@id='checkbox-control-1']", "xpath:attributes"],
+        ["xpath=//div[@id='order-notes']/div/div/div/div/label/input", "xpath:idRelative"],
+        ["xpath=//label/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "264ee949-c7c6-4fc8-affa-41d28f8a7d48",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "id=checkbox-control-1",
+      "targets": [
+        ["id=checkbox-control-1", "id"],
+        ["css=#checkbox-control-1", "css:finder"],
+        ["xpath=//input[@id='checkbox-control-1']", "xpath:attributes"],
+        ["xpath=//div[@id='order-notes']/div/div/div/div/label/input", "xpath:idRelative"],
+        ["xpath=//label/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "86165697-f6bb-456a-92ab-2ce67ea85fce",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "id=checkbox-control-1",
+      "targets": [
+        ["id=checkbox-control-1", "id"],
+        ["css=#checkbox-control-1", "css:finder"],
+        ["xpath=//input[@id='checkbox-control-1']", "xpath:attributes"],
+        ["xpath=//div[@id='order-notes']/div/div/div/div/label/input", "xpath:idRelative"],
+        ["xpath=//label/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ca19c70b-ed18-4dd1-9f30-af3b6b4721d3",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wc-block-components-form",
+      "targets": [
+        ["css=.wc-block-components-form", "css:finder"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/div/div[4]/div[2]/form", "xpath:idRelative"],
+        ["xpath=//div[2]/form", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "3e1833af-b37f-4cde-a684-446580e9471f",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["ba433ecb-c82b-47e1-958e-f5c9f3f44197"]
+  }],
+  "urls": ["https://pascualbravo.ingejei.com/"],
+  "plugins": []
+}

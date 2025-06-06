@@ -1,0 +1,150 @@
+{
+  "id": "df0775fd-a5ba-419c-af86-dcb135de9290",
+  "version": "2.0",
+  "name": "Prueba Registro de Usuarios",
+  "url": "https://pascualbravo.ingejei.com",
+  "tests": [{
+    "id": "41fe466c-dedc-4564-b505-89aad76a97eb",
+    "name": "Prueba Registro de Usuario",
+    "commands": [{
+      "id": "eacbc28a-5f91-43b2-9cee-66dbfe71dddc",
+      "comment": "",
+      "command": "open",
+      "target": "/registro-y-busqueda/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "14cf44ee-6683-4edc-b851-9cf30ecd512c",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "882x816",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d3be16e9-046b-4214-b4a5-12bbce96b66b",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Acceder",
+      "targets": [
+        ["linkText=Acceder", "linkText"],
+        ["css=.logged-out > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Acceder')]", "xpath:link"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/div/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://pascualbravo.ingejei.com/wp-login.php?redirect_to=https%3A%2F%2Fpascualbravo.ingejei.com%2Fregistro-y-busqueda%2F')]", "xpath:href"],
+        ["xpath=//div/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Acceder')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "f8168dfc-45c9-437a-add7-488f9fd1572c",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Registrarse",
+      "targets": [
+        ["linkText=Registrarse", "linkText"],
+        ["css=.wp-login-register", "css:finder"],
+        ["xpath=//a[contains(text(),'Registrarse')]", "xpath:link"],
+        ["xpath=//p[@id='nav']/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://pascualbravo.ingejei.com/wp-login.php?action=register')]", "xpath:href"],
+        ["xpath=//p/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Registrarse')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "8513dc3e-2cad-45ca-af5a-7f7e824f5963",
+      "comment": "",
+      "command": "click",
+      "target": "id=user_login",
+      "targets": [
+        ["id=user_login", "id"],
+        ["name=user_login", "name"],
+        ["css=#user_login", "css:finder"],
+        ["xpath=//input[@id='user_login']", "xpath:attributes"],
+        ["xpath=//form[@id='registerform']/p/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "cfb246c6-7381-4395-b972-86a5b0f995ac",
+      "comment": "",
+      "command": "type",
+      "target": "id=user_login",
+      "targets": [
+        ["id=user_login", "id"],
+        ["name=user_login", "name"],
+        ["css=#user_login", "css:finder"],
+        ["xpath=//input[@id='user_login']", "xpath:attributes"],
+        ["xpath=//form[@id='registerform']/p/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "Luis Miguel Hernandez Suarez"
+    }, {
+      "id": "84f6af7e-0521-4f0d-8e7d-78cabc1cfb4f",
+      "comment": "",
+      "command": "click",
+      "target": "id=user_email",
+      "targets": [
+        ["id=user_email", "id"],
+        ["name=user_email", "name"],
+        ["css=#user_email", "css:finder"],
+        ["xpath=//input[@id='user_email']", "xpath:attributes"],
+        ["xpath=//form[@id='registerform']/p[2]/input", "xpath:idRelative"],
+        ["xpath=//p[2]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "5665b762-5b46-4cce-9448-894d3771d92b",
+      "comment": "",
+      "command": "type",
+      "target": "id=user_email",
+      "targets": [
+        ["id=user_email", "id"],
+        ["name=user_email", "name"],
+        ["css=#user_email", "css:finder"],
+        ["xpath=//input[@id='user_email']", "xpath:attributes"],
+        ["xpath=//form[@id='registerform']/p[2]/input", "xpath:idRelative"],
+        ["xpath=//p[2]/input", "xpath:position"]
+      ],
+      "value": "l.hernandez@lucidbot.co"
+    }, {
+      "id": "57a3a515-a30c-40a1-a29e-5cab4ad6ec71",
+      "comment": "",
+      "command": "click",
+      "target": "id=wp-submit",
+      "targets": [
+        ["id=wp-submit", "id"],
+        ["name=wp-submit", "name"],
+        ["css=#wp-submit", "css:finder"],
+        ["xpath=//input[@id='wp-submit']", "xpath:attributes"],
+        ["xpath=//form[@id='registerform']/p[4]/input", "xpath:idRelative"],
+        ["xpath=//p[4]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ceaf1c74-b54f-4666-847e-f0190c848952",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=página de acceso",
+      "targets": [
+        ["linkText=página de acceso", "linkText"],
+        ["css=p:nth-child(1) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'página de acceso')]", "xpath:link"],
+        ["xpath=//div[@id='login-message']/p/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://pascualbravo.ingejei.com/wp-login.php')]", "xpath:href"],
+        ["xpath=//p/a", "xpath:position"],
+        ["xpath=//a[contains(.,'página de acceso')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "c92daebf-99ac-4a8e-8feb-0fdc35e84603",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["41fe466c-dedc-4564-b505-89aad76a97eb"]
+  }],
+  "urls": ["https://pascualbravo.ingejei.com/"],
+  "plugins": []
+}

@@ -1,0 +1,89 @@
+{
+  "id": "b0f978da-c462-4acd-943e-feb2f3098d0b",
+  "version": "2.0",
+  "name": "Busqueda de Productos",
+  "url": "https://pascualbravo.ingejei.com",
+  "tests": [{
+    "id": "17c3e9f7-d82c-4267-9506-ab720489ab53",
+    "name": "Busqueda de Productos",
+    "commands": [{
+      "id": "dd32941d-5812-4d02-ac6c-4fe35ca82d93",
+      "comment": "",
+      "command": "open",
+      "target": "/registro-y-busqueda/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c7f604ba-0c33-481f-ae01-0e3876f4ebde",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "882x816",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "64bd8b06-f6ef-4a48-82c3-9ac73b0b1f42",
+      "comment": "",
+      "command": "click",
+      "target": "id=wp-block-search__input-2",
+      "targets": [
+        ["id=wp-block-search__input-2", "id"],
+        ["css=#wp-block-search__input-2", "css:finder"],
+        ["xpath=//input[@id='wp-block-search__input-2']", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/form/div/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "6f0e8b85-87b6-42fe-9afa-40bcd66dfb38",
+      "comment": "",
+      "command": "type",
+      "target": "id=wp-block-search__input-2",
+      "targets": [
+        ["id=wp-block-search__input-2", "id"],
+        ["css=#wp-block-search__input-2", "css:finder"],
+        ["xpath=//input[@id='wp-block-search__input-2']", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/form/div/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": "Beanie"
+    }, {
+      "id": "745aed70-b070-443a-aeb4-2b9a3591cb43",
+      "comment": "",
+      "command": "click",
+      "target": "css=.wp-block-search__button",
+      "targets": [
+        ["css=.wp-block-search__button", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//main[@id='wp--skip-link--target']/div[2]/form/div/button", "xpath:idRelative"],
+        ["xpath=//form/div/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Buscar')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "dbc652cf-6a72-450a-8e68-f1a76bac3597",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Read more",
+      "targets": [
+        ["linkText=Read more", "linkText"],
+        ["css=.post-138 .wp-block-post-excerpt__more-link", "css:finder"],
+        ["xpath=//a[contains(text(),'Read more')]", "xpath:link"],
+        ["xpath=//main[@id='wp--skip-link--target']/div/ul/li/div[2]/p[2]/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, 'https://pascualbravo.ingejei.com/product/beanie-with-logo/')])[3]", "xpath:href"],
+        ["xpath=//p[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Read more')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "d0beb58e-9a47-4a5b-a76c-18523215a65b",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["17c3e9f7-d82c-4267-9506-ab720489ab53"]
+  }],
+  "urls": ["https://pascualbravo.ingejei.com/"],
+  "plugins": []
+}
